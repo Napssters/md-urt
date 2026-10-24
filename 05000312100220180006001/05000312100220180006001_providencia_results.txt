@@ -1,0 +1,1086 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "\nSEGUNDO: ORDENAR que la restitución del derecho a la propiedad a favor de MARTA OLGA GALLEGO GARCÍA, se haga a través de compensación por equivalencia a cargo del FONDO DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS; de la manera como se precisa a continuación.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "TERCERO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS que, previa caracterización de la restituida y que de optar porque la compensación sea en un predio rural, formule e implemente los proyectos productivos con el debido acompañamiento y asistencia",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_4": {
+    "pregunta": "CUARTO:",
+    "respuesta": "\nCUARTO: MANTENER el statu quo sobre el inmueble ubicado en la calle 18A No. 28-64 del municipio de San Carlos (Ant.), identificado con folio de matrícula inmobiliaria 018-42702 de la oficina de registro de instrumentos públicos de Marinilla (Ant.), y cédula catastral número 649-1-001-003-0004-00010-0000-00000; por lo expuesto en la parte motiva de este fallo.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "\nQUINTO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS (UARIV) que proceda a inscribir en el Registro Único de Víctimas (RUV), por el hecho victimizante de desplazamiento, abandono forzado y/o despojo, en el caso de que aún no lo esté, a MARTA OLGA GALLEGO GARCÍA, con su correspondiente núcleo familiar.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "\nSEXTO: ORDENAR al municipio donde se entregue el predio en compensación a la beneficiaria MARTA OLGA GALLEGO GARCÍA, la exoneración del pago de tasas, contribuciones y otros impuestos municipales por un periodo de dos (2) años posteriores a la fecha de esta sentencia. Para el efecto, la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – dirección territorial Antioquia, hará llegar copía de este fallo al municipio donde se entregue el inmueble en compensación, para que en el término de diez (10) días se otorgue el beneficio concedido.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_7": {
+    "pregunta": "SÉPTIMO:",
+    "respuesta": "SÉPTIMO: NO RECONOCER el derecho fundamental a la restitución y formalización de tierras a CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, sobre el predio urbano por él reclamado, ubicado en la calle 22A # 26-05, interior 101, del municipio de San Carlos (Ant.), pero se dispondrán algunas medidas de atención, por las razones expuestas en la parte motiva de este fallo.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_8": {
+    "pregunta": "OCTAVO:",
+    "respuesta": "\nOCTAVO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS como medida de atención a favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, que formule e implemente en el predio referido un proyecto productivo con el debido acompañamiento y asistencia técnica, acorde con los usos del suelo. Igualmente, otorgar de manera preferente a favor del beneficiario, los programas y proyectos de subsidio de construcción de vivienda, conforme a la normatividad vigente que regula la materia.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "\nNOVENO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS (UARIV) que, de no estarlo aún, incluya a MARTA OLGA GALLEGO GARCÍA como a CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, con sus correspondientes núcleos familiares, en el Plan de Asistencia, Atención y Reparación Integral (PAARI), para que adelante de forma armónica y articulada con las distintas entidades que conforman el Sistema Nacional de Atención y Reparación a las víctimas, las acciones pertinentes para la reparación de acuerdo con sus necesidades y en garantía de sus derechos mínimos en salud, educación, alimentación, vivienda digna, etc., según lo preceptuado en el parágrafo 1° del art. 66 de la Ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "DÉCIMO: ORDENAR al municipio donde se entregue el predio en compensación a favor de MARTA OLGA GALLEGO GARCÍA, como al municipio en el que reside CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, que a través de su Secretaría de Salud o quien haga sus veces y en conjunto con los responsables del Sistema General de Salud, se expida el certificado de salud del menor, el cual se adjuntará a la demanda para que sirva de prueba en el proceso.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "\nDÉCIMO PRIMERO: ORDENAR al SERVICIO NACIONAL DE APRENDIZAJE – SENA REGIONAL ANTIOQUIA o a la regional que corresponda según la ubicación de los beneficiarios MARTA OLGA GALLEGO GARCÍA y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, con sus correspondientes núcleos familiares, que de manera prioritaria les garantice el acceso a los programas y proyectos especiales de capacitación y empleo, según lo dispuesto en el artículo 30 de la Ley 119 de 1994.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_12": {
+    "pregunta": "DÉCIMO SEGUNDO:",
+    "respuesta": "\nPARÁGRAFO: Para el cumplimiento de esta orden se deberán adelantar las acciones pertinentes en un término inicial de 15 días, y deberán presentarse informes periódicos cada tres meses.\n\nDÉCIMO SEGUNDO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que, para el cumplimiento de éstas, deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "DÉCIMO TERCERO: No se condenará en costas a ninguna de las partes porque no se dan los presupuestos del literal s) del art. 91 de la Ley 1448 de 2011 respecto de la actuación procesal de las partes.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_14": {
+    "pregunta": "DÉCIMO CUARTO:",
+    "respuesta": "DÉCIMO CUARTO: Por la Secretaría de la Sala, expídanse las copias auténticas necesarias, a quienes así lo requieran.\n\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "0",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.626,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 27,
+        "content_preview": "\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulida..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.536,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 138,
+        "content_preview": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para e..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.52,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 28,
+        "content_preview": "\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección soli..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.476,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 142,
+        "content_preview": "\n29 por medio del cual se expide el Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural.\n\n<--- Page Split --->\n\n0004-00010-0000-00000; y una vez obtenido..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.471,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 137,
+        "content_preview": "\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administran..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulidad que invalide lo actuado, procede la Sala a resolver el asunto sometido a consideración.\n\n## 3.1. Problema Jurídico.\n\n\n[Documento Relevante 2]\n\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.\n\n[Documento Relevante 3]\n\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección solicitaron MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ; en condiciones fácticas disímiles.\n\n## 3.2. Competencia.\n\n\n[Documento Relevante 4]\n\n29 por medio del cual se expide el Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural.\n\n<--- Page Split --->\n\n0004-00010-0000-00000; y una vez obtenido el correspondiente informe, deberá ser remitido de manera INMEDIATA a este Tribunal y al FONDO de la UNIDAD, allegando las correspondientes constancias.\n\n\n[Documento Relevante 5]\n\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\n## RESUELVE:\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.605,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 138,
+        "content_preview": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para e..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.604,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 10,
+        "content_preview": "\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\nPor reparto le correspondió el conocimiento del presente trámite al Juzgado Segu..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.596,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.581,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.572,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 134,
+        "content_preview": "\n## 4.5. A MANERA De CONCLUSIÓN.\n\nLa sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.\n\n[Documento Relevante 2]\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\nPor reparto le correspondió el conocimiento del presente trámite al Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el cual por auto fechado el 29 de noviembre de 2018¹, inicialmente dispuso su corrección, por lo que una vez realizada ordenó la admisión de las solicitudes formuladas por MARTA OLGA GALLEGO GARCÍA y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, según auto adiado 13 de diciembre de 2018².\n\n[Documento Relevante 3]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n\n[Documento Relevante 4]\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{9} \\) , se dispuso avocar el conocimiento del grado jurisdiccional de consulta de la sentencia de fecha 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia; disponiéndose en el mismo proveído el traslado respectivo a los sujetos procesales.\n\n[Documento Relevante 5]\n\n## 4.5. A MANERA De CONCLUSIÓN.\n\nLa sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia, de la forma como habrá de precisarse en la parte resolutiva de este fallo.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.804,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 138,
+        "content_preview": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para e..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.782,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 134,
+        "content_preview": "\n## 4.5. A MANERA De CONCLUSIÓN.\n\nLa sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.768,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.5. De La Consulta En Los Procesos De Restitución De Tierras.\n\nEn el marco de la Ley 1448 de 2011, el artículo 79 establece que las sentencias proferidas por los Jueces Civiles del Circuito Espec..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.753,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 137,
+        "content_preview": "\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administran..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.75,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.\n\n[Documento Relevante 2]\n\n## 4.5. A MANERA De CONCLUSIÓN.\n\nLa sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia, de la forma como habrá de precisarse en la parte resolutiva de este fallo.\n\n[Documento Relevante 3]\n\n## 3.5. De La Consulta En Los Procesos De Restitución De Tierras.\n\nEn el marco de la Ley 1448 de 2011, el artículo 79 establece que las sentencias proferidas por los Jueces Civiles del Circuito Especializado en Restitución de Tierras, que no decreten la restitución a favor del despojado, serán objeto de consulta ante la Sala Civil Especializada del Tribunal Superior de Distrito Judicial, en defensa del ordenamiento jurídico y de los derechos y garantías de los despojados.\n\n\n[Documento Relevante 4]\n\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\n## RESUELVE:\n\n\n[Documento Relevante 5]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Despojo",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.526,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 8,
+        "content_preview": "\n## 1.3. De Las Pretensiones\n\nMARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en la solicitud presentada a través de la UNIDAD solicitan la protección del derecho fundamental a la resti..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.524,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 28,
+        "content_preview": "\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección soli..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.513,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 87,
+        "content_preview": "\nLo primero que es necesario dilucidar, es la condición de víctima de VELÁSQUEZ VELÁSQUEZ frente a la Ley 1448 de 2011; para lo cual se analizará la situación de violencia en el muncipio de San Carlos..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.511,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 76,
+        "content_preview": "\nEn este evento, no es una simple expresión de voluntad o manifestación de aquiescencia el retorno o la abstención en el regreso, es que, por circunstancias de la historia de los contrayentes, a parti..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.51,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 67,
+        "content_preview": "\nTrayendo in extenso apartes de una providencia del año 2018 proferida por este Tribunal, concluye la sentencia que al no encontrarse probados los presupuestos necesarios para ordenar la protección a ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 1.3. De Las Pretensiones\n\nMARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en la solicitud presentada a través de la UNIDAD solicitan la protección del derecho fundamental a la restitución y a la formalización de tierras, sobre sus predios, el reconocimiento de las medidas de protección y reparación previstas en la Ley de Victimas y Restitución de Tierras, para el goce efectivo del derecho a la restitución del predio.\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n\n[Documento Relevante 2]\n\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección solicitaron MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ; en condiciones fácticas disímiles.\n\n## 3.2. Competencia.\n\n\n[Documento Relevante 3]\n\nLo primero que es necesario dilucidar, es la condición de víctima de VELÁSQUEZ VELÁSQUEZ frente a la Ley 1448 de 2011; para lo cual se analizará la situación de violencia en el muncipio de San Carlos y la afectación al solicitante. Para lo primero, en el informe realizado por el grupo de memoria histórica de la Comisión Nacional de Reparación y Reconciliación, denominado “San Carlos Memorias del Éxodo en la Guerra se dijo en su introducción \\( ^{27} \\) :\n\n\n[Documento Relevante 4]\n\nEn este evento, no es una simple expresión de voluntad o manifestación de aquiescencia el retorno o la abstención en el regreso, es que, por circunstancias de la historia de los contrayentes, a partir de la impronta de la violencia, se adoptó una posición, en la que la reclamante MARTA OLGA GALLEGO GARCÍA, no ha sido reparada. GALLEGO GARCÍA al abstenerse de ejercer su “eventual” derecho, optó para que su ex cónyuge habitara la vivienda que años atrás habían adquirido, facilitando, a quien retornó y a su nuevo grupo familiar su pervivencia.\n\n[Documento Relevante 5]\n\nTrayendo in extenso apartes de una providencia del año 2018 proferida por este Tribunal, concluye la sentencia que al no encontrarse probados los presupuestos necesarios para ordenar la protección a la restitución, como tampoco acreditarse que\n\n<--- Page Split --->\n\nse estaba frente a un caso de víctimas de desplazamiento forzado o despojo, no se puede acceder a las pretensiones incoadas en la solicitud.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.569,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 27,
+        "content_preview": "\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulida..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.518,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 3,
+        "content_preview": "\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solici..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.464,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 164,
+        "content_preview": "\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)\n\nNOTIFÍQUESE Y CÚMPLASE\n\nLos Magistrados,\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n(Con salvamento de voto).\n\nANGELA MARÍA PELÁEZ ARENAS\n\n(Con a..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.459,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 60,
+        "content_preview": "\n\\( ^{24} \\)CORTE CONSTITUCIONAL Sentencia C-542-2010. Ref. Exp: D-7903. Fecha 30 de julio de 2010. M.P. Jorge Iván Palacio Palacio\n\n25 La CORTE CONSTITUCIONAL, en sentencia C-968 de 2003, la cual es ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.458,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 22,
+        "content_preview": "\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. De..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulidad que invalide lo actuado, procede la Sala a resolver el asunto sometido a consideración.\n\n## 3.1. Problema Jurídico.\n\n\n[Documento Relevante 2]\n\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solicitudes acumuladas, se analizarán los hechos en forma separada.\n\n## 1.1. La Solicitud De MARTA OLGA GALLEGO GARCÍA.\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)\n\nNOTIFÍQUESE Y CÚMPLASE\n\nLos Magistrados,\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n(Con salvamento de voto).\n\nANGELA MARÍA PELÁEZ ARENAS\n\n(Con aclaración de voto).\n\n\n[Documento Relevante 4]\n\n\\( ^{24} \\)CORTE CONSTITUCIONAL Sentencia C-542-2010. Ref. Exp: D-7903. Fecha 30 de julio de 2010. M.P. Jorge Iván Palacio Palacio\n\n25 La CORTE CONSTITUCIONAL, en sentencia C-968 de 2003, la cual es pertinente citar por cuanto es aplicable a la Ley 1448 de 2011, mutatis mutandis, esta Corporación extendió a la apelación la facultad otorgada al Juez en la consulta, para reconocer beneficios mínimos irrenunciables del trabajador no concedidos en primera instancia, \"... según la cual, el superior adquiere plena competencia para revisar integramente la actuación con el fin de reparar los posibles yerros en los que ha incurrido el a-quo, y por lo tanto debe emitir un pronunciamiento como si fuese el juez de primera instancia pudiendo en consecuencia ejercer la atribución que el sentenciador del primer grado confiere el artículo 50 del CPT para fallar extra y ultra petita. bajo las condiciones establecidas que consisten en que los hechos en que se sustenta se hayan debatido dentro del proceso con la plenitud de las formas legales y que los mismos estén debidamente probadas\"\n\n[Documento Relevante 5]\n\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.721,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.5. De La Consulta En Los Procesos De Restitución De Tierras.\n\nEn el marco de la Ley 1448 de 2011, el artículo 79 establece que las sentencias proferidas por los Jueces Civiles del Circuito Espec..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.703,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 137,
+        "content_preview": "\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administran..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.671,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.668,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 29,
+        "content_preview": "\n## 3.2. Competencia.\n\nDe conformidad con el artículo 79 de la Ley 1448 de 2011, esta Sala es competente para conocer en grado jurisdiccional de consulta, el fallo de única instancia proferido por el ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.662,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3.5. De La Consulta En Los Procesos De Restitución De Tierras.\n\nEn el marco de la Ley 1448 de 2011, el artículo 79 establece que las sentencias proferidas por los Jueces Civiles del Circuito Especializado en Restitución de Tierras, que no decreten la restitución a favor del despojado, serán objeto de consulta ante la Sala Civil Especializada del Tribunal Superior de Distrito Judicial, en defensa del ordenamiento jurídico y de los derechos y garantías de los despojados.\n\n\n[Documento Relevante 2]\n\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\n## RESUELVE:\n\n\n[Documento Relevante 3]\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{9} \\) , se dispuso avocar el conocimiento del grado jurisdiccional de consulta de la sentencia de fecha 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia; disponiéndose en el mismo proveído el traslado respectivo a los sujetos procesales.\n\n[Documento Relevante 4]\n\n## 3.2. Competencia.\n\nDe conformidad con el artículo 79 de la Ley 1448 de 2011, esta Sala es competente para conocer en grado jurisdiccional de consulta, el fallo de única instancia proferido por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, que denegó la protección al derecho fundamental a la restitución invocada por MARTA OLGA GALLEGO GARCÍA y de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.\n\n## 3.3. Protección Constitucional.\n\n\n[Documento Relevante 5]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "Se revoca la sentencia que negó la restitución para reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de Marta Olga Gallego García, ordenando su compensación por equivalencia, y se dictan órdenes de atención en favor de Carlos Arturo Velásquez Velásquez.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.726,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 13,
+        "content_preview": "\nLa Procuraduría General de la Nación, a través de la Procuradora 38 Judicial I de Restitución de Tierras, presentó su escrito \\( ^{7} \\) en el cual hace un repaso de la calidad de los solicitantes, l..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.644,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 138,
+        "content_preview": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para e..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.633,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 8,
+        "content_preview": "\n## 1.3. De Las Pretensiones\n\nMARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en la solicitud presentada a través de la UNIDAD solicitan la protección del derecho fundamental a la resti..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.619,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 44,
+        "content_preview": "\n16 En casos, como cuando la consulta es obligatoria para evitar fallos que puedan afectar los derechos de los trabajadores o el patrimonio público\n\n17 CORTE CONSTITUCIONAL. Sentencia C-055 de 1993. R..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.609,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 143,
+        "content_preview": "\n0004-00010-0000-00000; y una vez obtenido el correspondiente informe, deberá ser remitido de manera INMEDIATA a este Tribunal y al FONDO de la UNIDAD, allegando las correspondientes constancias.\n\n2. ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLa Procuraduría General de la Nación, a través de la Procuradora 38 Judicial I de Restitución de Tierras, presentó su escrito \\( ^{7} \\) en el cual hace un repaso de la calidad de los solicitantes, la identificación de los predios, el desplazamiento forzado y un análisis de las pruebas que obran al proceso, solicitando finalmente proteger el derecho fundamental a la restitución de MARTA OLGA GALLEGO GARCIA y abstenerse de ordenar la restitución solicitada por CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.\n\n[Documento Relevante 2]\n\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.\n\n[Documento Relevante 3]\n\n## 1.3. De Las Pretensiones\n\nMARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en la solicitud presentada a través de la UNIDAD solicitan la protección del derecho fundamental a la restitución y a la formalización de tierras, sobre sus predios, el reconocimiento de las medidas de protección y reparación previstas en la Ley de Victimas y Restitución de Tierras, para el goce efectivo del derecho a la restitución del predio.\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n\n[Documento Relevante 4]\n\n16 En casos, como cuando la consulta es obligatoria para evitar fallos que puedan afectar los derechos de los trabajadores o el patrimonio público\n\n17 CORTE CONSTITUCIONAL. Sentencia C-055 de 1993. Ref. Exp.: D-133. Fecha: 18 de febrero de 1993. M.P.: José Gregorio Hernández Galindo\n\n18 CORTE CONSTITUCIONAL. Sentencias t-389 de 2006 y t-364 de 2007.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\n0004-00010-0000-00000; y una vez obtenido el correspondiente informe, deberá ser remitido de manera INMEDIATA a este Tribunal y al FONDO de la UNIDAD, allegando las correspondientes constancias.\n\n2. 3. En consecuencia, ORDENAR que el bien que se entregue en compensación debe ser igual o de mejores condiciones al reclamado, cuyo avalúo será el que determine el IGAC en el dictamen que para el efecto debe rendir, de preferencia en el lugar donde actualmente se encuentra domiciliada la beneficiaria con esta restitución.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2019-06-25",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.59,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.556,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.548,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 156,
+        "content_preview": "\nPARÁGRAFO: Para el inicio del cumplimiento de lo anterior, se concede el término de diez (10) días contados a partir del día siguiente de la notificación de este fallo, y además se deberán presentar ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.524,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 10,
+        "content_preview": "\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\nPor reparto le correspondió el conocimiento del presente trámite al Juzgado Segu..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.497,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 12,
+        "content_preview": "\n## 2.2. El Trámite Procesal\n\nSin que se hubiesen presentado opositores, en auto \\( ^{5} \\) del 29 de marzo de 2019 se decretó la práctica de pruebas, entre ellas los interrogatorios de parte de los s..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{9} \\) , se dispuso avocar el conocimiento del grado jurisdiccional de consulta de la sentencia de fecha 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia; disponiéndose en el mismo proveído el traslado respectivo a los sujetos procesales.\n\n[Documento Relevante 2]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n\n[Documento Relevante 3]\n\nPARÁGRAFO: Para el inicio del cumplimiento de lo anterior, se concede el término de diez (10) días contados a partir del día siguiente de la notificación de este fallo, y además se deberán presentar informes sobre las acciones adelantadas y las medidas implementadas a favor de ellos.\n\n\n[Documento Relevante 4]\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\nPor reparto le correspondió el conocimiento del presente trámite al Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el cual por auto fechado el 29 de noviembre de 2018¹, inicialmente dispuso su corrección, por lo que una vez realizada ordenó la admisión de las solicitudes formuladas por MARTA OLGA GALLEGO GARCÍA y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, según auto adiado 13 de diciembre de 2018².\n\n[Documento Relevante 5]\n\n## 2.2. El Trámite Procesal\n\nSin que se hubiesen presentado opositores, en auto \\( ^{5} \\) del 29 de marzo de 2019 se decretó la práctica de pruebas, entre ellas los interrogatorios de parte de los solicitantes, un testimonio y unos oficios. Practicadas las pruebas se dispuso en providencia \\( ^{6} \\) adiada 22 de mayo de 2019 el cierre del término probatorio, y se corrió traslado para la presentación de alegatos de conclusión.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "DESCONOCIDO",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.506,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 22,
+        "content_preview": "\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. De..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.501,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 27,
+        "content_preview": "\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulida..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.48,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 16,
+        "content_preview": "\n\\( ^{2} \\) Folio 52 C-1\n\n\\( ^{3} \\) Folio 63 C-1\n\n\\( ^{4} \\) Folio 106 C-1\n\n\\( ^{5} \\) Folio 107 C-1\n\n\\( ^{6} \\) Folio 132 C-1\n\n\\( ^{7} \\) Folio 140 C-1\n\n<--- Page Split --->\n\nEn lo concerniente a VE..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.479,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 3,
+        "content_preview": "\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solici..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.43,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 9,
+        "content_preview": "\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\n\n[Documento Relevante 2]\n\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulidad que invalide lo actuado, procede la Sala a resolver el asunto sometido a consideración.\n\n## 3.1. Problema Jurídico.\n\n\n[Documento Relevante 3]\n\n\\( ^{2} \\) Folio 52 C-1\n\n\\( ^{3} \\) Folio 63 C-1\n\n\\( ^{4} \\) Folio 106 C-1\n\n\\( ^{5} \\) Folio 107 C-1\n\n\\( ^{6} \\) Folio 132 C-1\n\n\\( ^{7} \\) Folio 140 C-1\n\n<--- Page Split --->\n\nEn lo concerniente a VELÁSQUEZ VELÁSQUEZ', a partir de la prueba practicada colige que el inconveniente para que este retorne a su predio es el problema de linderos que tiene con su vecino, lo que no le impidió hacer presencia en forma permanente en la finca de su propiedad y pernoctar en el municipio de San Carlos.\n\n\n[Documento Relevante 4]\n\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solicitudes acumuladas, se analizarán los hechos en forma separada.\n\n## 1.1. La Solicitud De MARTA OLGA GALLEGO GARCÍA.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "NONE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.516,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 16,
+        "content_preview": "\n\\( ^{2} \\) Folio 52 C-1\n\n\\( ^{3} \\) Folio 63 C-1\n\n\\( ^{4} \\) Folio 106 C-1\n\n\\( ^{5} \\) Folio 107 C-1\n\n\\( ^{6} \\) Folio 132 C-1\n\n\\( ^{7} \\) Folio 140 C-1\n\n<--- Page Split --->\n\nEn lo concerniente a VE..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.511,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 15,
+        "content_preview": "\n\\( ^{1} \\) Folio 29 C-1\n\n\\( ^{2} \\) Folio 52 C-1\n\n\\( ^{3} \\) Folio 63 C-1\n\n\\( ^{4} \\) Folio 106 C-1\n\n\\( ^{5} \\) Folio 107 C-1\n\n\\( ^{6} \\) Folio 132 C-1\n\n\\( ^{7} \\) Folio 140 C-1\n\n<--- Page Split --->..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.464,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 27,
+        "content_preview": "\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulida..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.416,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 22,
+        "content_preview": "\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. De..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.382,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 59,
+        "content_preview": "\n\\( ^{24} \\)CORTE CONSTITUCIONAL Sentencia C-542-2010. Ref. Exp: D-7903. Fecha 30 de julio de 2010. M.P. Jorge Iván Palacio Palacio\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n\\( ^{2} \\) Folio 52 C-1\n\n\\( ^{3} \\) Folio 63 C-1\n\n\\( ^{4} \\) Folio 106 C-1\n\n\\( ^{5} \\) Folio 107 C-1\n\n\\( ^{6} \\) Folio 132 C-1\n\n\\( ^{7} \\) Folio 140 C-1\n\n<--- Page Split --->\n\nEn lo concerniente a VELÁSQUEZ VELÁSQUEZ', a partir de la prueba practicada colige que el inconveniente para que este retorne a su predio es el problema de linderos que tiene con su vecino, lo que no le impidió hacer presencia en forma permanente en la finca de su propiedad y pernoctar en el municipio de San Carlos.\n\n\n[Documento Relevante 2]\n\n\\( ^{1} \\) Folio 29 C-1\n\n\\( ^{2} \\) Folio 52 C-1\n\n\\( ^{3} \\) Folio 63 C-1\n\n\\( ^{4} \\) Folio 106 C-1\n\n\\( ^{5} \\) Folio 107 C-1\n\n\\( ^{6} \\) Folio 132 C-1\n\n\\( ^{7} \\) Folio 140 C-1\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulidad que invalide lo actuado, procede la Sala a resolver el asunto sometido a consideración.\n\n## 3.1. Problema Jurídico.\n\n\n[Documento Relevante 4]\n\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\n\n[Documento Relevante 5]\n\n\\( ^{24} \\)CORTE CONSTITUCIONAL Sentencia C-542-2010. Ref. Exp: D-7903. Fecha 30 de julio de 2010. M.P. Jorge Iván Palacio Palacio\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "GRADO DE CONSULTA",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.705,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 27,
+        "content_preview": "\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulida..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.67,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 46,
+        "content_preview": "\nEn este sentido, se ha precisado que las providencias sujetas a consulta no quedan ejecutoriadas, mientras no se surta el mencionado grado de jurisdicción, donde es obligación del juez que ha adoptad..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.639,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 45,
+        "content_preview": "\n18 CORTE CONSTITUCIONAL. Sentencias t-389 de 2006 y t-364 de 2007.\n\n<--- Page Split --->\n\nAsí las cosas, se tiene que la consulta es un trámite que debe surtirse en los casos en que la Ley lo exige \\..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.636,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 24,
+        "content_preview": "\nEl Ministerio Público se pronunció a través del Procurador 20 Judicial II de Restitución de Tierras rindiendo el respectivo concepto el cual fue allegado al proceso el 18 de julio de 2019 \\( ^{10} \\)..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.634,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 28,
+        "content_preview": "\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección soli..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulidad que invalide lo actuado, procede la Sala a resolver el asunto sometido a consideración.\n\n## 3.1. Problema Jurídico.\n\n\n[Documento Relevante 2]\n\nEn este sentido, se ha precisado que las providencias sujetas a consulta no quedan ejecutoriadas, mientras no se surta el mencionado grado de jurisdicción, donde es obligación del juez que ha adoptado la decisión consultable, remitirla al superior funcional y el incumplimiento de esta obligación, implica que dicha sentencia o fallo no adquiera ejecutoria y por lo mismo no es obligatoria \\( ^{21} \\) .\n\n\n[Documento Relevante 3]\n\n18 CORTE CONSTITUCIONAL. Sentencias t-389 de 2006 y t-364 de 2007.\n\n<--- Page Split --->\n\nAsí las cosas, se tiene que la consulta es un trámite que debe surtirse en los casos en que la Ley lo exige \\( ^{19} \\) , toda vez que siendo una institución procesal independiente de los recursos propiamente dichos, constituye un factor de competencia que aboga por la realización de objetivos superiores, como lo es la consecución de un orden justo y la prevalencia del derecho sustancial \\( ^{20} \\) .\n\n\n[Documento Relevante 4]\n\nEl Ministerio Público se pronunció a través del Procurador 20 Judicial II de Restitución de Tierras rindiendo el respectivo concepto el cual fue allegado al proceso el 18 de julio de 2019 \\( ^{10} \\) ; solicitando, luego de un relato de los casos acumulados, la confirmación de la sentencia objeto de consulta al considerar que “no es contrario al ordenamiento jurídico, ni vulnera el principio de legalidad”.\n\n\n[Documento Relevante 5]\n\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección solicitaron MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ; en condiciones fácticas disímiles.\n\n## 3.2. Competencia.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.635,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 27,
+        "content_preview": "\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulida..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.565,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 137,
+        "content_preview": "\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administran..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.553,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 3,
+        "content_preview": "\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solici..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.542,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 138,
+        "content_preview": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para e..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.542,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3. CONSIDERACIONES\n\n\\( ^{9} \\) Folio 4 C2\n\n\\( ^{10} \\) Folio 8 C2\n\n<--- Page Split --->\n\nCumplidos los trámites propios del grado jurisdiccional de consulta, sin que exista causal alguna de nulidad que invalide lo actuado, procede la Sala a resolver el asunto sometido a consideración.\n\n## 3.1. Problema Jurídico.\n\n\n[Documento Relevante 2]\n\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\n## RESUELVE:\n\n\n[Documento Relevante 3]\n\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solicitudes acumuladas, se analizarán los hechos en forma separada.\n\n## 1.1. La Solicitud De MARTA OLGA GALLEGO GARCÍA.\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.\n\n[Documento Relevante 5]\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{9} \\) , se dispuso avocar el conocimiento del grado jurisdiccional de consulta de la sentencia de fecha 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia; disponiéndose en el mismo proveído el traslado respectivo a los sujetos procesales.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"MARTA OLGA\", \"segundo_nombre\": null, \"primer_apellido\": \"GALLEGO\", \"segundo_apellido\": \"GARCÍA\", \"numero_documento\": \"43.474.284\", \"rol\": \"titular\"}, {\"primer_nombre\": \"CARLOS ARTURO\", \"segundo_nombre\": null, \"primer_apellido\": \"VELÁSQUEZ\", \"segundo_apellido\": \"VELÁSQUEZ\", \"numero_documento\": \"8.273.0867\", \"rol\": \"titular\"}, {\"primer_nombre\": \"GONZALO DE JESUS\", \"segundo_nombre\": null, \"primer_apellido\": \"ZULUAGA\", \"segundo_apellido\": \"ARISTIZÁBAL\", \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"PEDRO\", \"segundo_nombre\": null, \"primer_apellido\": \"MONTOYA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"VELÁSQUEZ\", \"segundo_nombre\": null, \"primer_apellido\": \"VELÁSQUEZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"titular\"}, {\"primer_nombre\": \"JUAN\", \"segundo_nombre\": \"ALBERTO\", \"primer_apellido\": \"GARCIA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Jorge\", \"segundo_nombre\": null, \"primer_apellido\": \"García\", \"segundo_apellido\": \"Duque\", \"numero_documento\": null, \"rol\": null}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.643,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 13,
+        "content_preview": "\nLa Procuraduría General de la Nación, a través de la Procuradora 38 Judicial I de Restitución de Tierras, presentó su escrito \\( ^{7} \\) en el cual hace un repaso de la calidad de los solicitantes, l..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.625,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 137,
+        "content_preview": "\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administran..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.617,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 10,
+        "content_preview": "\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\nPor reparto le correspondió el conocimiento del presente trámite al Juzgado Segu..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.615,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 8,
+        "content_preview": "\n## 1.3. De Las Pretensiones\n\nMARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en la solicitud presentada a través de la UNIDAD solicitan la protección del derecho fundamental a la resti..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.612,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 138,
+        "content_preview": "\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para e..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.595,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.574,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 142,
+        "content_preview": "\n29 por medio del cual se expide el Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural.\n\n<--- Page Split --->\n\n0004-00010-0000-00000; y una vez obtenido..."
+      },
+      {
+        "rank": 8,
+        "similarity": 0.568,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.568,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": 10,
+        "similarity": 0.566,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 29,
+        "content_preview": "\n## 3.2. Competencia.\n\nDe conformidad con el artículo 79 de la Ley 1448 de 2011, esta Sala es competente para conocer en grado jurisdiccional de consulta, el fallo de única instancia proferido por el ..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.557,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 56,
+        "content_preview": "\nAsí las cosas, las Salas Especializadas en Restitución de Tierras, tienen la potestad no sólo de corregir o enmendar los yerros en los que puedan incurrir los Jueces Civiles del Circuito Especializad..."
+      },
+      {
+        "rank": 12,
+        "similarity": 0.555,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 22,
+        "content_preview": "\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. De..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.555,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.5. De La Consulta En Los Procesos De Restitución De Tierras.\n\nEn el marco de la Ley 1448 de 2011, el artículo 79 establece que las sentencias proferidas por los Jueces Civiles del Circuito Espec..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.532,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 155,
+        "content_preview": "\nNOVENO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS (UARIV) que, de no estarlo aún, incluya a MARTA OLGA GALLEGO GARCÍA como a CARLOS ARTURO VELÁ..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.528,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 134,
+        "content_preview": "\n## 4.5. A MANERA De CONCLUSIÓN.\n\nLa sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.526,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 68,
+        "content_preview": "\n<--- Page Split --->\n\nse estaba frente a un caso de víctimas de desplazamiento forzado o despojo, no se puede acceder a las pretensiones incoadas en la solicitud.\n\n4. 2. Se argumenta en la sentencia ..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.525,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 3,
+        "content_preview": "\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solici..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.522,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 152,
+        "content_preview": "\nSÉPTIMO: NO RECONOCER el derecho fundamental a la restitución y formalización de tierras a CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula\n\n<--- Page Split --->\n\nde ciudadanía número 8.273...."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.519,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 144,
+        "content_preview": "\n2. 4. CONCEDER al FONDO DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS, un término de TRES (3) MESES, para la realización de la compensación, para lo cual El FON..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.516,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 57,
+        "content_preview": "\n## 4. Del CASO CONCRETO\n\n4. 1. Como se dijo renglones atrás, el Juzgado Segundo Civil del Circuito Especializado de Restitución de Tierras de Antioquia en la sentencia que es objeto de ésta consulta,..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.507,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 149,
+        "content_preview": "\nCUARTO: MANTENER el statu quo sobre el inmueble ubicado en la calle 18A No. 28-64 del municipio de San Carlos (Ant.), identificado con folio de matrícula inmobiliaria 018-42702 de la oficina de regis..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.505,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 153,
+        "content_preview": "\nOCTAVO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS como medida de atención a favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, que formule e implemente en e..."
+      },
+      {
+        "rank": 23,
+        "similarity": 0.505,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 41,
+        "content_preview": "\nLa Corte Constitucional respecto del grado jurisdiccional de consulta, ha dicho que:\n"
+      },
+      {
+        "rank": 24,
+        "similarity": 0.504,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 42,
+        "content_preview": "\nLa Corte Constitucional respecto del grado jurisdiccional de consulta, ha dicho que:\n\n\"... un grado jurisdiccional en virtud del cual el superior jerárquico del juez que ha proferido una sentencia, e..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.493,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 44,
+        "content_preview": "\n16 En casos, como cuando la consulta es obligatoria para evitar fallos que puedan afectar los derechos de los trabajadores o el patrimonio público\n\n17 CORTE CONSTITUCIONAL. Sentencia C-055 de 1993. R..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.485,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 50,
+        "content_preview": "\nLa consulta, es un instituto jurídico en virtud del cual se busca garantizar la prevalencia de los derechos de las víctimas del despojo y el abandono forzado, debido a las infracciones al Derecho Int..."
+      },
+      {
+        "rank": 27,
+        "similarity": 0.482,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 164,
+        "content_preview": "\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)\n\nNOTIFÍQUESE Y CÚMPLASE\n\nLos Magistrados,\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n(Con salvamento de voto).\n\nANGELA MARÍA PELÁEZ ARENAS\n\n(Con a..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.482,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 55,
+        "content_preview": "\nEn este contexto, el superior funcional tiene amplias facultades para confirmar, aclarar, modificar o revocar las providencias consultadas y, por ende, dictar las que en derecho correspondan \\( ^{23}..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.476,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 45,
+        "content_preview": "\n18 CORTE CONSTITUCIONAL. Sentencias t-389 de 2006 y t-364 de 2007.\n\n<--- Page Split --->\n\nAsí las cosas, se tiene que la consulta es un trámite que debe surtirse en los casos en que la Ley lo exige \\..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.473,
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 28,
+        "content_preview": "\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección soli..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312100220180006001_1792712542",
+        "chunk_index": 2,
+        "content_preview": "- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo ..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLa Procuraduría General de la Nación, a través de la Procuradora 38 Judicial I de Restitución de Tierras, presentó su escrito \\( ^{7} \\) en el cual hace un repaso de la calidad de los solicitantes, la identificación de los predios, el desplazamiento forzado y un análisis de las pruebas que obran al proceso, solicitando finalmente proteger el derecho fundamental a la restitución de MARTA OLGA GALLEGO GARCIA y abstenerse de ordenar la restitución solicitada por CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.\n\n[Documento Relevante 2]\n\n## 5. FALLO\n\n<--- Page Split --->\n\nEn mérito de lo expuesto, el Tribunal Superior de Distrito Judicial de Antioquia Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\n## RESUELVE:\n\n\n[Documento Relevante 3]\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n## 2.1. De La Admisión De La Solicitud Y Las Notificaciones.\n\nPor reparto le correspondió el conocimiento del presente trámite al Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el cual por auto fechado el 29 de noviembre de 2018¹, inicialmente dispuso su corrección, por lo que una vez realizada ordenó la admisión de las solicitudes formuladas por MARTA OLGA GALLEGO GARCÍA y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, según auto adiado 13 de diciembre de 2018².\n\n[Documento Relevante 4]\n\n## 1.3. De Las Pretensiones\n\nMARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en la solicitud presentada a través de la UNIDAD solicitan la protección del derecho fundamental a la restitución y a la formalización de tierras, sobre sus predios, el reconocimiento de las medidas de protección y reparación previstas en la Ley de Victimas y Restitución de Tierras, para el goce efectivo del derecho a la restitución del predio.\n\n<--- Page Split --->\n\n## 2. ACTUACIÓN PROCESAL SURTIDA.\n\n\n[Documento Relevante 5]\n\n## RESUELVE:\n\nPRIMERO: REVOCAR la sentencia consultada (#011), proferida el 25 de junio de 2019, por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, para en su lugar, RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA identificada con la cédula de ciudadanía número 43.474.284, y a su vez ORDENAR medidas de asistencia en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula de ciudadanía número 8.273.0867, conforme a lo expuesto en la parte motiva de este fallo.\n\n[Documento Relevante 6]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n\n[Documento Relevante 7]\n\n29 por medio del cual se expide el Decreto Único Reglamentario del Sector Administrativo Agropecuario, Pesquero y de Desarrollo Rural.\n\n<--- Page Split --->\n\n0004-00010-0000-00000; y una vez obtenido el correspondiente informe, deberá ser remitido de manera INMEDIATA a este Tribunal y al FONDO de la UNIDAD, allegando las correspondientes constancias.\n\n\n[Documento Relevante 8]\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\nUna vez que por reparto correspondiera a esta Sala el conocimiento del presente trámite; por auto adiado el 16 de julio de 2019 \\( ^{9} \\) , se dispuso avocar el conocimiento del grado jurisdiccional de consulta de la sentencia de fecha 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia; disponiéndose en el mismo proveído el traslado respectivo a los sujetos procesales.\n\n[Documento Relevante 9]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Documento Relevante 10]\n\n## 3.2. Competencia.\n\nDe conformidad con el artículo 79 de la Ley 1448 de 2011, esta Sala es competente para conocer en grado jurisdiccional de consulta, el fallo de única instancia proferido por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, que denegó la protección al derecho fundamental a la restitución invocada por MARTA OLGA GALLEGO GARCÍA y de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.\n\n## 3.3. Protección Constitucional.\n\n\n[Documento Relevante 11]\n\nAsí las cosas, las Salas Especializadas en Restitución de Tierras, tienen la potestad no sólo de corregir o enmendar los yerros en los que puedan incurrir los Jueces Civiles del Circuito Especializados en Restitución de Tierras \\( ^{24} \\) , sino que además adquieren plena competencia para emitir pronunciamientos que reemplacen las sentencias consultadas, dictadas en única instancia por los citados jueces, con el propósito de lograr el goce efectivo del derecho fundamental a obtener la restitución y explotación de la tierra, de quienes, por su situación de vulnerabilidad y debilidad manifiesta, han sufrido individual o colectivamente el despojo y abandono forzado de sus predios \\( ^{25} \\) .\n\n[Documento Relevante 12]\n\n\\( ^{8} \\) Folio 148 C1.\n\n<--- Page Split --->\n\ninadecuado de la entidad encargada de diseñar, administrar y conservar el Registro de Tierras Despojadas y Abandonadas Forzosamente (...)\".\n\n## 2.4. Del Trámite Surtido En Grado Jurisdiccional De Consulta.\n\n\n[Documento Relevante 13]\n\n## 3.5. De La Consulta En Los Procesos De Restitución De Tierras.\n\nEn el marco de la Ley 1448 de 2011, el artículo 79 establece que las sentencias proferidas por los Jueces Civiles del Circuito Especializado en Restitución de Tierras, que no decreten la restitución a favor del despojado, serán objeto de consulta ante la Sala Civil Especializada del Tribunal Superior de Distrito Judicial, en defensa del ordenamiento jurídico y de los derechos y garantías de los despojados.\n\n\n[Documento Relevante 14]\n\nNOVENO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS (UARIV) que, de no estarlo aún, incluya a MARTA OLGA GALLEGO GARCÍA como a CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, con sus correspondientes núcleos familiares, en el Plan de Asistencia, Atención y Reparación Integral (PAARI), para que adelante de forma armónica y articulada con las distintas entidades que conforman el Sistema Nacional de Atención y Reparación a las víctimas, las acciones pertinentes para la reparación de acuerdo con sus necesidades y en garantía de sus derechos mínimos en salud, educación, alimentación, vivienda digna, etc., según lo preceptuado en el parágrafo 1° del art. 66 de la Ley 1448 de 2011.\n\n[Documento Relevante 15]\n\n## 4.5. A MANERA De CONCLUSIÓN.\n\nLa sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia, de la forma como habrá de precisarse en la parte resolutiva de este fallo.\n\n[Documento Relevante 16]\n\n<--- Page Split --->\n\nse estaba frente a un caso de víctimas de desplazamiento forzado o despojo, no se puede acceder a las pretensiones incoadas en la solicitud.\n\n4. 2. Se argumenta en la sentencia consultada que el Decreto 440 de 2016 (Art 2.15.1.1.7.) faculta a la Unidad de Tierras (UAEGRTD) para aplicar subsidios de vivienda rural o urbana, asignación de proyectos productivos, o alivio de pasivos, a aquellas víctimas del conflicto armado que, en los términos del artículo 75 de la Ley 1448 de 2011, se hayan visto obligados a abandonar temporalmente los predios de que sean propietarios, y hayan retornado a esos inmuebles libre y voluntariamente, y que tengan el pleno goce y disposición de los mismos, situación distinta a la que se presenta cuando se trata de derechos no consolidados, donde se requiere la actuación del juez para lograr la formalización del predio, como en el caso de la posesión y/o ocupación, donde es imprescindible la participación del juez transicional. Además, en ningún momento se cohíbe la actuación de la jurisdicción, pues lo que se busca es una asistencia inmediata a la víctima vía administrativa, que, de no lograrse en dicha forma, abierta se encuentra la posibilidad de concurrir ante el juez especializado.\n\n[Documento Relevante 17]\n\nDISTRITO JUDICIAL DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nAl tratarse de dos (2) solicitudes acumuladas, se analizarán los hechos en forma separada.\n\n## 1.1. La Solicitud De MARTA OLGA GALLEGO GARCÍA.\n\n<--- Page Split --->\n\n\n[Documento Relevante 18]\n\nSÉPTIMO: NO RECONOCER el derecho fundamental a la restitución y formalización de tierras a CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ identificado con cédula\n\n<--- Page Split --->\n\nde ciudadanía número 8.273.0867, sobre el predio urbano por él reclamado, ubicado en la calle 22A # 26-05, interior 101, del municipio de San Carlos (Ant.), pero se dispondrán algunas medidas de atención, por las razones expuestas en la parte motiva de este fallo.\n\n\n[Documento Relevante 19]\n\n2. 4. CONCEDER al FONDO DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS, un término de TRES (3) MESES, para la realización de la compensación, para lo cual El FONDO dará participación directa y suficientemente informada a MARTA OLGA GALLEGO GARCÍA; así como deberá informar a esta Sala, mes a mes los avances en la gestión ordenada.\n\n\n[Documento Relevante 20]\n\n## 4. Del CASO CONCRETO\n\n4. 1. Como se dijo renglones atrás, el Juzgado Segundo Civil del Circuito Especializado de Restitución de Tierras de Antioquia en la sentencia que es objeto de ésta consulta, desestimó en los dos (2) casos acumulados incoados por MARTA OLGA GALLEGO GARCÍA y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ la protección al derecho fundamental a la restitución de inmuebles despojados o abandonados en razón del conflicto armado interno que ha sucedido en el país.\n\n\n[Documento Relevante 21]\n\nCUARTO: MANTENER el statu quo sobre el inmueble ubicado en la calle 18A No. 28-64 del municipio de San Carlos (Ant.), identificado con folio de matrícula inmobiliaria 018-42702 de la oficina de registro de instrumentos públicos de Marinilla (Ant.), y cédula catastral número 649-1-001-003-0004-00010-0000-00000; por lo expuesto en la parte motiva de este fallo.\n\n\n[Documento Relevante 22]\n\nOCTAVO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS como medida de atención a favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, que formule e implemente en el predio referido un proyecto productivo con el debido acompañamiento y asistencia técnica, acorde con los usos del suelo. Igualmente, otorgar de manera preferente a favor del beneficiario, los programas y proyectos de subsidio de construcción de vivienda, conforme a la normatividad vigente que regula la materia.\n\n[Documento Relevante 23]\n\nLa Corte Constitucional respecto del grado jurisdiccional de consulta, ha dicho que:\n\n\n[Documento Relevante 24]\n\nLa Corte Constitucional respecto del grado jurisdiccional de consulta, ha dicho que:\n\n\"... un grado jurisdiccional en virtud del cual el superior jerárquico del juez que ha proferido una sentencia, en ejercicio de la competencia funcional de que está dotado, se encuentra habilitado para revisar o examinar oficiosamente, esto es, sin que medie petición o instancia de parte, la decisión adoptada en primera instancia, y de este modo, corregir, enmendar los errores jurídicos de que ésta adolezca, con el fin de lograr certeza jurídica y el juzgamiento justo, lo cual significa que la competencia funcional del superior que conoce de la consulta es automática, porque no requiere para que se pueda conocer de la revisión del asunto de una petición o de un acto procesal de la parte en cuyo favor ha sido instituida\"18.\n\n[Documento Relevante 25]\n\n16 En casos, como cuando la consulta es obligatoria para evitar fallos que puedan afectar los derechos de los trabajadores o el patrimonio público\n\n17 CORTE CONSTITUCIONAL. Sentencia C-055 de 1993. Ref. Exp.: D-133. Fecha: 18 de febrero de 1993. M.P.: José Gregorio Hernández Galindo\n\n18 CORTE CONSTITUCIONAL. Sentencias t-389 de 2006 y t-364 de 2007.\n\n<--- Page Split --->\n\n\n[Documento Relevante 26]\n\nLa consulta, es un instituto jurídico en virtud del cual se busca garantizar la prevalencia de los derechos de las víctimas del despojo y el abandono forzado, debido a las infracciones al Derecho Internacional Humanitario o de las violaciones graves y manifiestas a las normas internacionales de Derechos Humanos, ocurridas con ocasión del conflicto armado interno.\n\n\n[Documento Relevante 27]\n\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)\n\nNOTIFÍQUESE Y CÚMPLASE\n\nLos Magistrados,\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n(Con salvamento de voto).\n\nANGELA MARÍA PELÁEZ ARENAS\n\n(Con aclaración de voto).\n\n\n[Documento Relevante 28]\n\nEn este contexto, el superior funcional tiene amplias facultades para confirmar, aclarar, modificar o revocar las providencias consultadas y, por ende, dictar las que en derecho correspondan \\( ^{23} \\) , en defensa del ordenamiento jurídico y de los derechos y garantías de quienes, han sido presuntamente privados, arbitrariamente de la propiedad, posesión u ocupación de sus tierras.\n\n\n[Documento Relevante 29]\n\n18 CORTE CONSTITUCIONAL. Sentencias t-389 de 2006 y t-364 de 2007.\n\n<--- Page Split --->\n\nAsí las cosas, se tiene que la consulta es un trámite que debe surtirse en los casos en que la Ley lo exige \\( ^{19} \\) , toda vez que siendo una institución procesal independiente de los recursos propiamente dichos, constituye un factor de competencia que aboga por la realización de objetivos superiores, como lo es la consecución de un orden justo y la prevalencia del derecho sustancial \\( ^{20} \\) .\n\n\n[Documento Relevante 30]\n\n## 3.1. Problema Jurídico.\n\nCorresponde a esta Sala determinar si fue debidamente denegado en la sentencia objeto de consulta, el derecho a la restitución de inmuebles despojados cuya protección solicitaron MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ; en condiciones fácticas disímiles.\n\n## 3.2. Competencia.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR\n\n- Lugar y fecha: Medellín, trece (13) de diciembre de dos mil diecinueve (2019)\n- <fcel>sentencia Consulta No.<fcel>028<nl><fcel>radicado: <fcel>050003121002-2018-00060-01<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>Marta Olga Gallego García y Carlos Arturo Velásquez Velásquez<nl><fcel>Sinopsis:<fcel>La sentencia consultada (#011) del 25 de junio de 2019, proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, será revocada para en su lugar: reconocer y proteger el derecho fundamental a la restitución y formalización de tierras de MARTA OLGA GALLEGO GARCÍA, en cuyo favor y exclusivamente se le ordenará la compensación por equivalencia; y en igual forma, se dictarán órdenes de atención en favor de CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n- Lugar y fecha: Procede esta Sala, a resolver el grado jurisdiccional de consulta previsto en el inciso 4º del artículo 79 de la Ley 1448 de 2011, sobre la sentencia proferida por el Juzgado Segundo Civil del Circuito Especializado en Restitución de Tierras de Antioquia, el 25 de junio de 2019, mediante la cual, resolvió negar las pretensiones de restitución y formalización jurídica a MARTA OLGA GALLEGO GARCÍA Y CARLOS ARTURO VELÁSQUEZ VELÁSQUEZ, en el proceso con acumulación de solicitudes por ellos promovido, sobre dos (2) predios urbanos ubicados en el municipio de San Carlos (Ant.), reclamantes que se encuentra representados en el presente proceso por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas Forzosamente (en adelante UAEGRTD o simplemente la UNIDAD).\n"
+  }
+}

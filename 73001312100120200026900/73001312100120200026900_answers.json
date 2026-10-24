@@ -1,0 +1,59 @@
+{
+  "orden_sentencia": [],
+  "sentencia": {
+    "area": "52",
+    "fecha_notificacion_urt": "0000-00-00",
+    "id_tipo_sentencia": 56490,
+    "observaciones_sentencia": "No hay observaciones generales relevantes más allá de lo estándar.",
+    "fecha_sentencia": "2025-09-09",
+    "numero_sentencia": "DESCONOCIDO",
+    "id_sentido_decision": 53025,
+    "id_unidad_area1": 3302
+  },
+  "sentencia_radicado": {
+    "radicado": "73001312100120200026900"
+  },
+  "sentencia_persona": [],
+  "predio_sentencia": [
+    {
+      "tipo_predio": "principal",
+      "nombre_direccion_predio": "LA FLORESTA",
+      "predio_rural": "True",
+      "matricula": "420-106093",
+      "circulo": "420",
+      "numero_predial": "184100001000000040261000000000",
+      "departamento": "Caquetá",
+      "municipio": "La Montañita",
+      "vereda": "Palma Azul Coconuco",
+      "corregimiento": "None",
+      "barrio": "None",
+      "inspeccion": "None",
+      "area_terreno_fuente": "524149",
+      "area_terreno_hec": "52.4149",
+      "id_unidad_terreno_fuente": "3304",
+      "nota": "None",
+      "folio": "106093",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "tipo_predio": "referencia",
+      "nombre_direccion_predio": "420-12468",
+      "predio_rural": "True",
+      "matricula": "420-12468",
+      "circulo": "420",
+      "numero_predial": "None",
+      "departamento": "None",
+      "municipio": "None",
+      "vereda": "None",
+      "corregimiento": "None",
+      "barrio": "None",
+      "inspeccion": "None",
+      "area_terreno_fuente": "None",
+      "area_terreno_hec": "None",
+      "id_unidad_terreno_fuente": "3304",
+      "nota": "None",
+      "folio": "12468",
+      "usuario_registro": "ia_system"
+    }
+  ]
+}

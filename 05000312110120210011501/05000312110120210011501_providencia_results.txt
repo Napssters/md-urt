@@ -1,0 +1,1098 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "PRIMERO: DECLARAR impróspera la oposición formulada por ROSA MELIDA GALEANO (C.C. # 43.419.810) y MIGUEL ANTONIO SÁNCHEZ GARCÍA (C.C. # 3.596.381). En consecuencia, no se concede la compensación económica de que trata el artículo 98 de la Ley 1448 de 2011 por no haber acreditado buena fe exenta de culpa.\n\nEn todo caso, se les reconoce la condición de segundos ocupantes, en cuyo favor se deban adoptar medidas diferenciales.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "\nSEGUNDO: PROTEGER el derecho fundamental a la restitución de tierras incoado por LUZ PIEDAD SÁNCHEZ TOBÓN (C.C. # 39.356.878), quien acudió en calidad de legitimada del fallecido LUIS ALFONSO SÁNCHEZ BUSTAMANTE (C.C. # 3.595.872).\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "\nTERCERO: Como consecuencia de la protección del derecho, se dispone la restitución material y jurídica en favor de: 1) la masa hereditaria de LUIS ALFONSO SÁNCHEZ BUSTAMANTE (50%), que para todos los efectos de este fallo estará representada por su hija LUZ PIEDAD, sin perjuicio de que los herederos designen a otro representante si a bien lo tienen. 2) MARÍA DE LA CRUZ TOBÓN DE SÁNCHEZ (C.C. # 22.050.664), (50%), cónyuge supérstite de aquel, respecto del predio que se identifica e individualiza a continuación:",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_4": {
+    "pregunta": "CUARTO:",
+    "respuesta": "\nCUARTO: ORDENAR la entrega efectiva de la parcela identificada en el ordinal anterior a 1) LUZ PIEDAD SÁNCHEZ TOBÓN, en representación de la masa hereditaria de LUIS ALFONSO SÁNCHEZ BUSTAMANTE, y a 2) MARÍA DE LA CRUZ TOBÓN DE SÁNCHEZ.\n\nLa entrega deberá realizarse dentro de los tres (3) días siguientes a la ejecutoria de esta sentencia, y en el evento en que no se realice la entrega voluntaria debe llevarse a cabo la diligencia de desalojo en un término perentorio de cinco (5) días.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "\nQUINTO: ORDENAR a las Fuerzas Militares de Colombia, a la Policía Nacional Departamental de Antioquia y Municipal de San Vicente, que, de ser necesario, garanticen la seguridad en la diligencia de entrega de la parcela, y, en todo caso, en el retorno y la permanencia de los beneficiados con la restitución en el inmueble, para que puedan disfrutar de él en condiciones de seguridad y dignidad.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "\nSEXTO: DECLARAR la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con el numeral 5º del art. 77 de la Ley 1448 de 2011.\n\nSÉPTIMO: DECLARAR, conforme con el numeral 2 del artículo 77 de la Ley 1448 de 2011, la inexistencia del negocio jurídico de compraventa plasmado en la Escritura Pública N.º 210 del 15 de mayo de 2006, otorgada en la Notaría Única de San Vicente.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_8": {
+    "pregunta": "OCTAVO:",
+    "respuesta": "OCTAVO: ORDENAR a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas que, de no estarlo aún, incluya a MARÍA DE LA CRUZ TOBÓN SÁNCHEZ, LUZ PIEDAD, OSCAR DE JESÚS, BLANCA MARINA y SONIA DE LA TRINIDAD TOBÓN SÁNCHEZ, al RUV por los hechos aquí analizados.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Rionegro — Antioquia:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "\nA la ORIP se le conceden quince (15) días para acatar lo acá dispuesto.\n\nDÉCIMO: ORDENAR al municipio de San Vicente que aplique, en relación con el predio restituido, los mecanismos de condonación y exoneración del pago de impuestos, tasas y contribuciones municipales adoptadas por el municipio, de manera que el inmueble quede libre y exonerado de pasivos según lo dispuesto por el art. 121 de la Ley 1448 de 2011.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "\nPara el cumplimiento de esta orden se concede el término máximo de un (1) mes contado a partir del día siguiente a la notificación de la providencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_12": {
+    "pregunta": "DÉCIMO SEGUNDO:",
+    "respuesta": "\nPara priorizar los programas de vivienda tendrá un término máximo de dos (2) meses desde la notificación de esta sentencia.\n\nDÉCIMO SEGUNDO: ORDENAR a la Alcaldía de San Vicente, o donde finalmente residan, que a través de su Secretaría de Salud o la que haga sus veces, y en conjunto con los responsables del Sistema General de Seguridad Social en Salud, y si es del caso, garantice la cobertura de la asistencia en salud a los restituidos; priorizándolos de acuerdo con sus necesidades particulares.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "\nPara el cumplimiento de estas órdenes, se dispone del término máximo de un (1) mes siguiente a la notificación de esta providencia.\n\nDÉCIMO TERCERO: ORDENAR al Servicio Nacional de Aprendizaje (SENA) - Regional Antioquia, o el pertinente, según lo dispuesto por el art. 130 de la Ley 1448 de 2011, comunicarle a los restituidos la oferta institucional, y de acuerdo con la voluntad que estos expresen, inscribirlos en los programas y proyectos de capacitación, formación y acceso a empleo.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_14": {
+    "pregunta": "DÉCIMO CUARTO:",
+    "respuesta": "DÉCIMO CUARTO: ORDENAR a la Gerencia de Catastro Antioquia, Asociación de Municipios del Altiplano del Oriente Antioqueño – MASORA, o el competente, que actualice los registros cartográficos y alfanuméricos del bien restituido, a partir del informe técnico predial y de georreferenciación realizados por la UAEGRTD.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_15": {
+    "pregunta": "DÉCIMO QUINTO:",
+    "respuesta": "\nLo anterior se deberá cumplir con la colaboración armónica entre las entidades, en el término máximo de un (1) mes, de lo cual se allegará el informe de cumplimiento con los soportes respectivos.\n\nDÉCIMO QUINTO: ORDENAR a la Defensoría del Pueblo, a través de la regional que corresponda, que designe uno de sus profesionales en derecho para que asesore a los accionantes sobre el proceso sucesorio de LUIS ALFONSO SÁNCHEZ BUSTAMANTE y adelante a favor de ellos el trámite de sucesión notarial o judicial, según mejor corresponda. Trámite en el cual se garantizará la gratuidad por tratarse de víctimas del conflicto armado.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_16": {
+    "pregunta": "DÉCIMO SEXTO:",
+    "respuesta": "\nDÉCIMO SEXTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: CONMINAR a los destinatarios de las órdenes judiciales para que las cumplan oportunamente, so pena de incurrir en una falta gravísima, siendo fundamental la colaboración armónica y el apoyo mutuo entre las entidades, según lo previsto en el parágrafo 3º del art. 91 en concordancia con el art. 26 de la Ley 1448 de 2011.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_18": {
+    "pregunta": "DÉCIMO OCTAVO:",
+    "respuesta": "\nDÉCIMO OCTAVO: NOTIFÍQUESE esta providencia por estado, de conformidad con las reglas previstas en el Código General del Proceso, el artículo 18 del Acuerdo PCSJA20-11632, el artículo 17 del Acuerdo PCSJA21-11840 y el artículo 9 de la Ley 2213 de 2022, que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de 2011.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "0",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.487,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.485,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 176,
+        "content_preview": "\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- P..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.48,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.479,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 129,
+        "content_preview": "\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.469,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 179,
+        "content_preview": "\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Ins..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 2]\n\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Documento Relevante 4]\n\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Rionegro — Antioquia:\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.606,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.602,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 33,
+        "content_preview": "\n\\( ^{14} \\) Entre muchas otras, véase la sentencia del 2 de febrero de 2023, Expediente 05045312100120190019901, y del 22 de febrero de 2023, Expediente 05045312100120190025501, MP. Nattan Nisimblat ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.596,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 129,
+        "content_preview": "\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.595,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 179,
+        "content_preview": "\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Ins..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.588,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 199,
+        "content_preview": "\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Documento Relevante 2]\n\n\\( ^{14} \\) Entre muchas otras, véase la sentencia del 2 de febrero de 2023, Expediente 05045312100120190019901, y del 22 de febrero de 2023, Expediente 05045312100120190025501, MP. Nattan Nisimblat Murillo.\n\n\\( ^{15} \\) Sentencia T-034 de 2017.\n\n\n[Documento Relevante 3]\n\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Rionegro — Antioquia:\n\n\n[Documento Relevante 5]\n\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210011501\n\nProceso : Restitución y formalización de tierras\n\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.697,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 165,
+        "content_preview": "\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.693,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.692,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 173,
+        "content_preview": "\nPara ello se comisiona al Juzgado Civil Circuito Especializado en Restitución de Tierras Itinerante de Antioquia, el cual tendrá el mismo término para cumplir con la comisión; diligencia en la cual d..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.686,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 120,
+        "content_preview": "\nAdemás, se declarará la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.686,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República de Colombia y por autoridad de la ley,\n\nFALLA:\n\n<--- Page Split --->\n\n\n[Documento Relevante 2]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Documento Relevante 3]\n\nPara ello se comisiona al Juzgado Civil Circuito Especializado en Restitución de Tierras Itinerante de Antioquia, el cual tendrá el mismo término para cumplir con la comisión; diligencia en la cual deberá levantar un acta, verificar la identidad del inmueble y no aceptar oposición alguna, según lo preceptuado en el art. 100 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 4]\n\nAdemás, se declarará la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con el numeral 5º del art. 77 de la Ley 1448 de 2011, precisando que se refiere a la que iniciaron los opositores e incluyendo al hijo de aquellos.\n\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Despojo",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.544,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 175,
+        "content_preview": "\nSEXTO: DECLARAR la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con e..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.537,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 118,
+        "content_preview": "\nEn suma, la valoración de las pruebas en este expediente da cuenta efectiva de un daño sufrido por la familia SÁNCHEZ TOBÓN, la cual, como consecuencia de las secuelas nocivas de los hechos victimiza..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.515,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 164,
+        "content_preview": "\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.513,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 120,
+        "content_preview": "\nAdemás, se declarará la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.505,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 30,
+        "content_preview": "\nFrente a la acción de restitución, esta Sala Especializada se ha referido en los siguientes términos:\\(^{14}\\)\n\nLa Ley 1448 introdujo la acción de restitución como una acción de naturaleza civil y co..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nSEXTO: DECLARAR la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con el numeral 5º del art. 77 de la Ley 1448 de 2011.\n\nSÉPTIMO: DECLARAR, conforme con el numeral 2 del artículo 77 de la Ley 1448 de 2011, la inexistencia del negocio jurídico de compraventa plasmado en la Escritura Pública N.º 210 del 15 de mayo de 2006, otorgada en la Notaría Única de San Vicente.\n\n\n[Documento Relevante 2]\n\nEn suma, la valoración de las pruebas en este expediente da cuenta efectiva de un daño sufrido por la familia SÁNCHEZ TOBÓN, la cual, como consecuencia de las secuelas nocivas de los hechos victimizantes sufrió la pérdida de la relación material con la tierra.\n\n\n[Documento Relevante 3]\n\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad con criterios diferenciados y transformadores, en la parte resolutiva se dispensará en favor de los restituidos diversas medidas de atención, asistencia y reparación contenidas en la Ley 1448 de 2011 que sean acordes con el sentido de la protección del derecho.\n\n## 3.9. Costas\n\n\n[Documento Relevante 4]\n\nAdemás, se declarará la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con el numeral 5º del art. 77 de la Ley 1448 de 2011, precisando que se refiere a la que iniciaron los opositores e incluyendo al hijo de aquellos.\n\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\nFrente a la acción de restitución, esta Sala Especializada se ha referido en los siguientes términos:\\(^{14}\\)\n\nLa Ley 1448 introdujo la acción de restitución como una acción de naturaleza civil y constitucional,\\(^{15}\\) especial, preferente, real, autónoma, de expedito y sumario trámite, en la cual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y un régimen especial de presunciones basado en el contexto generalizado de violencia del lugar de ubicación del bien, ya que los mecanismos previstos en la legislación civil ordinaria resultaban inidóneos para llegar a la verdad sobre los hechos de abandono y despojo forzados de tierras y adoptar medidas reparativas en un lapso breve.\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.488,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 200,
+        "content_preview": "\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\nJOSÉ GILDARDO RAMÍREZ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.482,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 158,
+        "content_preview": "\n<fcel>EXPEDIENTE<fcel>OG2-085116<nl><fcel>MODALIDAD<fcel>CONTRATO DE CONCESIÓN (L 685)<nl><fcel>ESTADO<fcel>Solicitud en evaluación<nl><fcel>ÁREA ha.<fcel>1751,9406<nl><fcel>SOLICITANTE<fcel>(11739) ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.478,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 6,
+        "content_preview": "\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{2} \\)\n\nLUZ PIEDAD SÁNCHEZ TOBÓN es hija de LUIS ALFONSO SÁNCHEZ BUSTAMANTE y MARÍA DE LA CRUZ TOBÓN DE SÁNCHEZ, quienes tuvieron ocho hijos más, tres de e..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.47,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 5,
+        "content_preview": "\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA G..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.463,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 175,
+        "content_preview": "\nSEXTO: DECLARAR la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con e..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\n(Firmado electrónicamente)\n\nJAVIER ENRIQUE CASTILLO CADENA\n\n(Firmado electrónicamente)\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n(Salvamento parcial de voto)\n\n# Firmado Electrónicamente Por El (la) Doctor(a):\n\nPUNO ALIRIO CORREAL BELTRAN\n\nFirma Salvamento parcial de voto\n\n\n[Documento Relevante 2]\n\n<fcel>EXPEDIENTE<fcel>OG2-085116<nl><fcel>MODALIDAD<fcel>CONTRATO DE CONCESIÓN (L 685)<nl><fcel>ESTADO<fcel>Solicitud en evaluación<nl><fcel>ÁREA ha.<fcel>1751,9406<nl><fcel>SOLICITANTE<fcel>(11739) MIRANDA GOLD COLOMBIA II LTD SUCURSAL COLOMBIA<nl><fcel>MINERALES<fcel>MINERALES DE ORO Y SUS CONCENTRADOS<nl><fcel>FECHA SOLICITUD<fcel>2 de jul. de 2013 8:51<nl><fcel>% DE ÁREA DEL PREDIO<fcel>100%<nl><fcel>GRUPO DE TRABAJO<fcel>GOBERNACIÓN DE ANTIOQUIA<nl>\n\n\n[Documento Relevante 3]\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{2} \\)\n\nLUZ PIEDAD SÁNCHEZ TOBÓN es hija de LUIS ALFONSO SÁNCHEZ BUSTAMANTE y MARÍA DE LA CRUZ TOBÓN DE SÁNCHEZ, quienes tuvieron ocho hijos más, tres de ellos fallecidos al momento de iniciar la solicitud.\n\nLUIS ALFONSO SÁNCHEZ B. adquirió el inmueble objeto de solicitud por compra que hizo a ELEAZAR DE JESÚS LÓPEZ MARÍN mediante Escritura Pública N.° 132 del 8 de abril de 1980, otorgada en la Notaría Única de San Vicente.\n\n\n[Documento Relevante 4]\n\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA GEORREFERENCIADA POR LA UNIDAD:<fcel>1 ha 30 m2<nl>\n\nAdemás, que se profieran todas las órdenes complementarias a la restitución contempladas en el artículo 91 de la Ley 1448 de 2011 que permitan la reparación integral.\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{2} \\)\n\n\n[Documento Relevante 5]\n\nSEXTO: DECLARAR la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con el numeral 5º del art. 77 de la Ley 1448 de 2011.\n\nSÉPTIMO: DECLARAR, conforme con el numeral 2 del artículo 77 de la Ley 1448 de 2011, la inexistencia del negocio jurídico de compraventa plasmado en la Escritura Pública N.º 210 del 15 de mayo de 2006, otorgada en la Notaría Única de San Vicente.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.642,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.628,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 173,
+        "content_preview": "\nPara ello se comisiona al Juzgado Civil Circuito Especializado en Restitución de Tierras Itinerante de Antioquia, el cual tendrá el mismo término para cumplir con la comisión; diligencia en la cual d..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.619,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.618,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 14,
+        "content_preview": "\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicit..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.602,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 199,
+        "content_preview": "\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Documento Relevante 2]\n\nPara ello se comisiona al Juzgado Civil Circuito Especializado en Restitución de Tierras Itinerante de Antioquia, el cual tendrá el mismo término para cumplir con la comisión; diligencia en la cual deberá levantar un acta, verificar la identidad del inmueble y no aceptar oposición alguna, según lo preceptuado en el art. 100 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 3]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 4]\n\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 17 de noviembre de 2021, \\( ^{3} \\) ordenando las notificaciones dispuestas en los artículos 86 y 87 de la Ley 1448 de 2011, las cuales se surtieron eficazmente, así:\n\n\n[Documento Relevante 5]\n\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210011501\n\nProceso : Restitución y formalización de tierras\n\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.662,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 199,
+        "content_preview": "\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.609,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 164,
+        "content_preview": "\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.592,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 196,
+        "content_preview": "\nLo anterior se deberá cumplir con la colaboración armónica entre las entidades, en el término máximo de un (1) mes, de lo cual se allegará el informe de cumplimiento con los soportes respectivos.\n\nDÉ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.591,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 130,
+        "content_preview": "\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n\naccedieron a la venta o ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.582,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210011501\n\nProceso : Restitución y formalización de tierras\n\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\n\n[Documento Relevante 2]\n\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad con criterios diferenciados y transformadores, en la parte resolutiva se dispensará en favor de los restituidos diversas medidas de atención, asistencia y reparación contenidas en la Ley 1448 de 2011 que sean acordes con el sentido de la protección del derecho.\n\n## 3.9. Costas\n\n\n[Documento Relevante 3]\n\nLo anterior se deberá cumplir con la colaboración armónica entre las entidades, en el término máximo de un (1) mes, de lo cual se allegará el informe de cumplimiento con los soportes respectivos.\n\nDÉCIMO QUINTO: ORDENAR a la Defensoría del Pueblo, a través de la regional que corresponda, que designe uno de sus profesionales en derecho para que asesore a los accionantes sobre el proceso sucesorio de LUIS ALFONSO SÁNCHEZ BUSTAMANTE y adelante a favor de ellos el trámite de sucesión notarial o judicial, según mejor corresponda. Trámite en el cual se garantizará la gratuidad por tratarse de víctimas del conflicto armado.\n\n[Documento Relevante 4]\n\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n\naccedieron a la venta o abandonaron la tierra; de allí que se exija probar que, además de obrar con la convicción interna de no estar haciendo daño al adquirir el bien que es materia de disputa en el juicio transicional, se realizaron indagaciones, pesquisas, averiguaciones adicionales que permitieran al adquirente consolidar su creencia de obrar sin aprovechamiento y así afianzar su derecho sobre la tierra, al no encontrar evidencias de que el bien había sido transferido o abandonado por razón del conflicto armado.\n\n[Documento Relevante 5]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2024-12-04",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.597,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 179,
+        "content_preview": "\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Ins..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.587,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 33,
+        "content_preview": "\n\\( ^{14} \\) Entre muchas otras, véase la sentencia del 2 de febrero de 2023, Expediente 05045312100120190019901, y del 22 de febrero de 2023, Expediente 05045312100120190025501, MP. Nattan Nisimblat ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.58,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 129,
+        "content_preview": "\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.554,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 176,
+        "content_preview": "\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- P..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.543,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nPara el cumplimiento de lo anterior se concede el término máximo de un (1) mes contado a partir del día siguiente de la notificación de esta sentencia\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Rionegro — Antioquia:\n\n\n[Documento Relevante 2]\n\n\\( ^{14} \\) Entre muchas otras, véase la sentencia del 2 de febrero de 2023, Expediente 05045312100120190019901, y del 22 de febrero de 2023, Expediente 05045312100120190025501, MP. Nattan Nisimblat Murillo.\n\n\\( ^{15} \\) Sentencia T-034 de 2017.\n\n\n[Documento Relevante 3]\n\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "027",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.495,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 17,
+        "content_preview": "\n\\( ^{5} \\) Portal de Tierras, trámite en otros despachos, consecutivo 40.\n\n\\( ^{6} \\) Portal de Tierras, trámite en otros despachos, consecutivo 38.\n\n<--- Page Split --->\n\n## 2.2. Oposición\n\nPor inte..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.467,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 158,
+        "content_preview": "\n<fcel>EXPEDIENTE<fcel>OG2-085116<nl><fcel>MODALIDAD<fcel>CONTRATO DE CONCESIÓN (L 685)<nl><fcel>ESTADO<fcel>Solicitud en evaluación<nl><fcel>ÁREA ha.<fcel>1751,9406<nl><fcel>SOLICITANTE<fcel>(11739) ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.465,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 5,
+        "content_preview": "\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA G..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.446,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 200,
+        "content_preview": "\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\nJOSÉ GILDARDO RAMÍREZ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.446,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 16,
+        "content_preview": "\n\\( ^{3} \\) Portal de Tierras, trámite en otros despachos, consecutivo 6.\n\n\\( ^{4} \\) Portal de Tierras, trámite en otros despachos, consecutivo 10.\n\n\\( ^{5} \\) Portal de Tierras, trámite en otros des..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n\\( ^{5} \\) Portal de Tierras, trámite en otros despachos, consecutivo 40.\n\n\\( ^{6} \\) Portal de Tierras, trámite en otros despachos, consecutivo 38.\n\n<--- Page Split --->\n\n## 2.2. Oposición\n\nPor intermedio de apoderado contractual y dentro de la oportunidad legal, \\( ^{7} \\) MIGUEL ANTONIO SÁNCHEZ GARCÍA y ROSA MELIDA ARIAS GALEANO aceptaron los hechos victimizantes padecidos por la familia SÁNCHEZ TOBÓN, pero defendieron su vínculo con la tierra, argumentando que lo hicieron de buena fe.\n\n\n[Documento Relevante 2]\n\n<fcel>EXPEDIENTE<fcel>OG2-085116<nl><fcel>MODALIDAD<fcel>CONTRATO DE CONCESIÓN (L 685)<nl><fcel>ESTADO<fcel>Solicitud en evaluación<nl><fcel>ÁREA ha.<fcel>1751,9406<nl><fcel>SOLICITANTE<fcel>(11739) MIRANDA GOLD COLOMBIA II LTD SUCURSAL COLOMBIA<nl><fcel>MINERALES<fcel>MINERALES DE ORO Y SUS CONCENTRADOS<nl><fcel>FECHA SOLICITUD<fcel>2 de jul. de 2013 8:51<nl><fcel>% DE ÁREA DEL PREDIO<fcel>100%<nl><fcel>GRUPO DE TRABAJO<fcel>GOBERNACIÓN DE ANTIOQUIA<nl>\n\n\n[Documento Relevante 3]\n\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA GEORREFERENCIADA POR LA UNIDAD:<fcel>1 ha 30 m2<nl>\n\nAdemás, que se profieran todas las órdenes complementarias a la restitución contempladas en el artículo 91 de la Ley 1448 de 2011 que permitan la reparación integral.\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{2} \\)\n\n\n[Documento Relevante 4]\n\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\n(Firmado electrónicamente)\n\nJAVIER ENRIQUE CASTILLO CADENA\n\n(Firmado electrónicamente)\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n(Salvamento parcial de voto)\n\n# Firmado Electrónicamente Por El (la) Doctor(a):\n\nPUNO ALIRIO CORREAL BELTRAN\n\nFirma Salvamento parcial de voto\n\n\n[Documento Relevante 5]\n\n\\( ^{3} \\) Portal de Tierras, trámite en otros despachos, consecutivo 6.\n\n\\( ^{4} \\) Portal de Tierras, trámite en otros despachos, consecutivo 10.\n\n\\( ^{5} \\) Portal de Tierras, trámite en otros despachos, consecutivo 40.\n\n\\( ^{6} \\) Portal de Tierras, trámite en otros despachos, consecutivo 38.\n\n<--- Page Split --->\n\n## 2.2. Oposición\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "05000312110120210011501",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.444,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 176,
+        "content_preview": "\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- P..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.4,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 17,
+        "content_preview": "\n\\( ^{5} \\) Portal de Tierras, trámite en otros despachos, consecutivo 40.\n\n\\( ^{6} \\) Portal de Tierras, trámite en otros despachos, consecutivo 38.\n\n<--- Page Split --->\n\n## 2.2. Oposición\n\nPor inte..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.373,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 16,
+        "content_preview": "\n\\( ^{3} \\) Portal de Tierras, trámite en otros despachos, consecutivo 6.\n\n\\( ^{4} \\) Portal de Tierras, trámite en otros despachos, consecutivo 10.\n\n\\( ^{5} \\) Portal de Tierras, trámite en otros des..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.372,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 129,
+        "content_preview": "\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.363,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- Page Split --->\n\n\n[Documento Relevante 2]\n\n\\( ^{5} \\) Portal de Tierras, trámite en otros despachos, consecutivo 40.\n\n\\( ^{6} \\) Portal de Tierras, trámite en otros despachos, consecutivo 38.\n\n<--- Page Split --->\n\n## 2.2. Oposición\n\nPor intermedio de apoderado contractual y dentro de la oportunidad legal, \\( ^{7} \\) MIGUEL ANTONIO SÁNCHEZ GARCÍA y ROSA MELIDA ARIAS GALEANO aceptaron los hechos victimizantes padecidos por la familia SÁNCHEZ TOBÓN, pero defendieron su vínculo con la tierra, argumentando que lo hicieron de buena fe.\n\n\n[Documento Relevante 3]\n\n\\( ^{3} \\) Portal de Tierras, trámite en otros despachos, consecutivo 6.\n\n\\( ^{4} \\) Portal de Tierras, trámite en otros despachos, consecutivo 10.\n\n\\( ^{5} \\) Portal de Tierras, trámite en otros despachos, consecutivo 40.\n\n\\( ^{6} \\) Portal de Tierras, trámite en otros despachos, consecutivo 38.\n\n<--- Page Split --->\n\n## 2.2. Oposición\n\n\n[Documento Relevante 4]\n\n42 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n43 Artículo 98 Ley 1448/11.\n\n44 C-330 de 2016.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "RESTITUYE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.664,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.624,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 126,
+        "content_preview": "\nLa Corte Constitucional analizó la constitucionalidad de la buena fe exenta de culpa exigible en el artículo 88 de la Ley 1448 de 2011 al opositor y ratificó dicho estándar de conducta como regla gen..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.615,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 197,
+        "content_preview": "\nDÉCIMO SEXTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: CONMINAR a los destinatarios de las órdenes..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.614,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 14,
+        "content_preview": "\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicit..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.613,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 2]\n\nLa Corte Constitucional analizó la constitucionalidad de la buena fe exenta de culpa exigible en el artículo 88 de la Ley 1448 de 2011 al opositor y ratificó dicho estándar de conducta como regla general, \\( ^{44} \\) empero, llamó a los operadores jurídicos a aplicarlo de manera diferenciada y/o atenuada respecto de los «opositores/segundos ocupantes» para efectos de desarrollar el enfoque de acción sin daño, y mediante Auto 373 de 2016 indicó que los jueces y magistrados contaban con amplias facultades para que, una vez comprendida la situación socioeconómica del opositor, de ser el caso, dispensara medidas para atender la situación de vulnerabilidad en la que estos pudieran quedar en aspectos como la vivienda, sustento, productividad y acceso a la propiedad tras la orden de devolver el bien...\n\n[Documento Relevante 3]\n\nDÉCIMO SEXTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: CONMINAR a los destinatarios de las órdenes judiciales para que las cumplan oportunamente, so pena de incurrir en una falta gravísima, siendo fundamental la colaboración armónica y el apoyo mutuo entre las entidades, según lo previsto en el parágrafo 3º del art. 91 en concordancia con el art. 26 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 4]\n\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 17 de noviembre de 2021, \\( ^{3} \\) ordenando las notificaciones dispuestas en los artículos 86 y 87 de la Ley 1448 de 2011, las cuales se surtieron eficazmente, así:\n\n\n[Documento Relevante 5]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Hectáreas",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.558,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 14,
+        "content_preview": "\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicit..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.547,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 5,
+        "content_preview": "\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA G..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.546,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.53,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.526,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 121,
+        "content_preview": "\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\nEn lo que sigue, se ocupa la Sala de analizar el tema de la buena fe exenta de culpa y de pos..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 17 de noviembre de 2021, \\( ^{3} \\) ordenando las notificaciones dispuestas en los artículos 86 y 87 de la Ley 1448 de 2011, las cuales se surtieron eficazmente, así:\n\n\n[Documento Relevante 2]\n\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA GEORREFERENCIADA POR LA UNIDAD:<fcel>1 ha 30 m2<nl>\n\nAdemás, que se profieran todas las órdenes complementarias a la restitución contempladas en el artículo 91 de la Ley 1448 de 2011 que permitan la reparación integral.\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{2} \\)\n\n\n[Documento Relevante 3]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 4]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Documento Relevante 5]\n\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\nEn lo que sigue, se ocupa la Sala de analizar el tema de la buena fe exenta de culpa y de posibles segundos ocupantes.\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{42}\\)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"LUZ PIEDAD\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"titular\"}, {\"primer_nombre\": \"LUIS ALFONSO\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"BUSTAMANTE\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MARÍA DE LA CRUZ\", \"segundo_nombre\": null, \"primer_apellido\": \"TOBÓN\", \"segundo_apellido\": \"DE SÁNCHEZ\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"ELEAZAR DE JESÚS\", \"segundo_nombre\": null, \"primer_apellido\": \"LÓPEZ\", \"segundo_apellido\": \"MARÍN\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUIS ALBEIRO\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"LUIS ALONSO\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MAURICIO DE JESÚS\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MIGUEL\", \"segundo_nombre\": \"ANTONIO\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"GARCÍA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ROSA\", \"segundo_nombre\": \"MELIDA\", \"primer_apellido\": \"ARIAS\", \"segundo_apellido\": \"GALEANO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MARÍA\", \"segundo_nombre\": \"DE\", \"primer_apellido\": \"LA\", \"segundo_apellido\": \"CRUZ\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MARTA\", \"segundo_nombre\": \"LUCÍA\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MIGUEL\", \"segundo_nombre\": \"GIL\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSÉ LEONEL\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"ARIAS\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"SONIA\", \"segundo_nombre\": null, \"primer_apellido\": \"DE LA TRINIDAD\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MIGUEL\", \"segundo_nombre\": null, \"primer_apellido\": \"GIL\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"EZEQUIEL\", \"segundo_nombre\": \"HERNÁN\", \"primer_apellido\": \"LÓPEZ\", \"segundo_apellido\": \"LÓPEZ\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSÉ\", \"segundo_nombre\": \"LEONEL\", \"primer_apellido\": \"LÓPEZ\", \"segundo_apellido\": \"HENAO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MARÍA\", \"segundo_nombre\": null, \"primer_apellido\": \"DE LA CRUZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MIGUEL ANTONIO\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"GARCÍA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"BEATRIZ\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"JOSÉ LEONEL\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"ROSA MELIDA\", \"segundo_nombre\": null, \"primer_apellido\": \"ARIAS\", \"segundo_apellido\": \"GALEANO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUIS ALFONSO\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ TOBÓN\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MAURICIO DE JESÚS\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ TOBÓN\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"MARÍA\", \"segundo_nombre\": \"DE LA CRUZ\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"SONIA\", \"segundo_nombre\": \"DE LA TRINIDAD\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"BLANCA\", \"segundo_nombre\": \"MARINA\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"ÓSCAR\", \"segundo_nombre\": \"DE JESÚS\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"TOBÓN\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"LUIS\", \"segundo_nombre\": \"ALFONSO\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"BUSTAMENTE\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUZ\", \"segundo_nombre\": \"PIEDAD\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"titular\"}, {\"primer_nombre\": \"ROSA\", \"segundo_nombre\": \"GALEANO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MARÍA\", \"segundo_nombre\": \"DE LA CRUZ\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"EDIER FERNEY\", \"segundo_nombre\": null, \"primer_apellido\": \"MONTOYA\", \"segundo_apellido\": \"CASTAÑO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"HÉCTOR ISAÍAS\", \"segundo_nombre\": null, \"primer_apellido\": \"CASTAÑO\", \"segundo_apellido\": \"CASTAÑO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ROSA MELIDA\", \"segundo_nombre\": null, \"primer_apellido\": \"GALEANO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ROSA\", \"segundo_nombre\": \"MELIDA\", \"primer_apellido\": \"MELIDA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ROSA\", \"segundo_nombre\": \"MELIDA\", \"primer_apellido\": \"GALEANO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MARÍA\", \"segundo_nombre\": \"DE LA CRUZ\", \"primer_apellido\": \"TOBÓN\", \"segundo_apellido\": \"DE SÁNCHEZ\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"OSCAR DE JESÚS\", \"segundo_nombre\": null, \"primer_apellido\": \"TOBÓN\", \"segundo_apellido\": \"SÁNCHEZ\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"BLANCA MARINA\", \"segundo_nombre\": null, \"primer_apellido\": \"TOBÓN\", \"segundo_apellido\": \"SÁNCHEZ\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"SONIA DE LA TRINIDAD\", \"segundo_nombre\": null, \"primer_apellido\": \"TOBÓN\", \"segundo_apellido\": \"SÁNCHEZ\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"JOSÉ GILDARDO\", \"segundo_nombre\": null, \"primer_apellido\": \"RAMÍREZ\", \"segundo_apellido\": \"GIRALDO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JAVIER ENRIQUE\", \"segundo_nombre\": null, \"primer_apellido\": \"CASTILLO\", \"segundo_apellido\": \"CADENA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"PUNO ALIRIO\", \"segundo_nombre\": null, \"primer_apellido\": \"CORREAL\", \"segundo_apellido\": \"BELTRÁN\", \"numero_documento\": null, \"rol\": null}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[{\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"INNOMINADO\", \"predio_rural\": true, \"matricula\": \"020-4257\", \"circulo\": \"020\", \"numero_predial\": null, \"departamento\": \"Antioquia\", \"municipio\": \"San Vicente\", \"vereda\": \"Las Cruces\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": null, \"area_terreno_hec\": null, \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"4257\"}, {\"tipo_predio\": \"referencia\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": true, \"matricula\": \"232-7079\", \"circulo\": \"232\", \"numero_predial\": null, \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": null, \"area_terreno_hec\": null, \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"7079\"}]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.654,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 194,
+        "content_preview": "\n<--- Page Split --->\n\nPara el cumplimiento de esta orden se concede el término máximo de un (1) mes.\n\nDÉCIMO CUARTO: ORDENAR a la Gerencia de Catastro Antioquia, Asociación de Municipios del Altiplan..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.653,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 199,
+        "content_preview": "\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.597,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 198,
+        "content_preview": "\nDÉCIMO OCTAVO: NOTIFÍQUESE esta providencia por estado, de conformidad con las reglas previstas en el Código General del Proceso, el artículo 18 del Acuerdo PCSJA20-11632, el artículo 17 del Acuerdo ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.58,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 181,
+        "content_preview": "\nb) . ACTUALIZAR el área y los linderos de esta parcela en el folio, conforme a la individualización indicada en esta sentencia, teniendo en cuenta el trabajo de georreferenciación realizado por la UA..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.571,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 161,
+        "content_preview": "\n47 Portal de Tierras, trámite en otros despachos, consecutivo 73.\n\n<--- Page Split --->\n\npara garantizar la restitución y no obstaculizar el goce efectivo de la tierra, según lo expuesto en esta sent..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.565,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 173,
+        "content_preview": "\nPara ello se comisiona al Juzgado Civil Circuito Especializado en Restitución de Tierras Itinerante de Antioquia, el cual tendrá el mismo término para cumplir con la comisión; diligencia en la cual d..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.556,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 54,
+        "content_preview": "\n29 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado C1 3 FF82CF25768F8D616A9ABB0D13C08965D16DC21B8FE167E777D1E6D566B177CB.\n\n30 Portal de Tierras, trámite en otros despachos, ..."
+      },
+      {
+        "rank": 8,
+        "similarity": 0.548,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 177,
+        "content_preview": "\n<--- Page Split --->\n\nOCTAVO: ORDENAR a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas que, de no estarlo aún, incluya a MARÍA DE LA CRUZ TOBÓN SÁNCHEZ, LUZ P..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.544,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 23,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le co..."
+      },
+      {
+        "rank": 10,
+        "similarity": 0.543,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 52,
+        "content_preview": "\n25 Ver MASACRE DE SAN VICENTE, DICIEMBRE 2000. Disponible en: https://rutasdelconflicto.com/masacres/san-vicente-diciembre-2000\n\n26 Portal de Tierras, trámite en otros despachos, consecutivo 1, certi..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.542,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 121,
+        "content_preview": "\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\nEn lo que sigue, se ocupa la Sala de analizar el tema de la buena fe exenta de culpa y de pos..."
+      },
+      {
+        "rank": 12,
+        "similarity": 0.54,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 14,
+        "content_preview": "\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicit..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.538,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 163,
+        "content_preview": "\nDe esta manera, es menester que la Unidad tenga en cuenta las consideraciones plasmadas en el informe a la hora de desarrollar el proyecto productivo que corresponda, así como el uso agroforestal y p..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.528,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 28,
+        "content_preview": "\n<--- Page Split --->\n\n## 3.3. Problema Jurídico Y Esquema De Resolución\n\nCorresponde determinar si hay lugar a amparar el derecho fundamental a la restitución de tierras que solicita LUZ PIEDAD SÁNCH..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.523,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 180,
+        "content_preview": "\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Rionegro — Antioquia:\n\na) . INSCRIBIR esta sentencia en el FMI N.º 020-4257 en los términos acá indicados. La ORIP materializará l..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.518,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 5,
+        "content_preview": "\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA G..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.512,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 186,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n\nPrevia caracterización de los restituidos y del predio formule e implemente a su favor el..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.512,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 196,
+        "content_preview": "\nLo anterior se deberá cumplir con la colaboración armónica entre las entidades, en el término máximo de un (1) mes, de lo cual se allegará el informe de cumplimiento con los soportes respectivos.\n\nDÉ..."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.504,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 187,
+        "content_preview": "\nIgualmente, otorgar a su favor los programas y proyectos de subsidio de vivienda según la normatividad vigente que regula la materia.\n\nAntes de la adjudicación deberá dicha entidad, con la colaboraci..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.501,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 120,
+        "content_preview": "\nAdemás, se declarará la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad ..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.497,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 24,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.491,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 53,
+        "content_preview": "\n27 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 6BF7932C07BDFAADD335F678A5FD6DAB7928EC9E24E88AF386FDCF05CBEBA0CA.\n\n28 Portal de Tierras, trámite en otros despachos, conse..."
+      },
+      {
+        "rank": 23,
+        "similarity": 0.486,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      },
+      {
+        "rank": 24,
+        "similarity": 0.486,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 48,
+        "content_preview": "\n## 3.5.2. De La Relación Jurídica Con La Tierra —legitimación— Y La Calidad De Víctima. Análisis De Los Medios De Convicción\n\nEl artículo 75 de la Ley de Víctimas y Restitución de Tierras dispone que..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.485,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 185,
+        "content_preview": "\nPara el cumplimiento de esta orden se concede el término máximo de un (1) mes contado a partir del día siguiente a la notificación de la providencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Unidad Administrati..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.483,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 26,
+        "content_preview": "\nEl requisito de procedibilidad está satisfecho (art. 76 Ley 1448/11), según constancia expedida por la Directora Territorial de Antioquia de la UAEGRTD.\\(^{13}\\)\n\n\\( ^{8} \\) Portal de Tierras, trámit..."
+      },
+      {
+        "rank": 27,
+        "similarity": 0.48,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 35,
+        "content_preview": "\n\\( ^{17} \\) Corte Constitucional. Sentencia C-715 de 2012. MP: LUÍS ERNESTO VARGAS SILVA.\n\n\\( ^{18} \\) Tomado de la Corte Constitucional, Sentencia T-129 de 2019 MP: JOSÉ FERNANDO REYES CUARTAS.\n\n<--..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.477,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 42,
+        "content_preview": "\n20 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 04D91A5593E3FF698E06640F5267B7B3C823845C19EDEABED4E6EEDF8BA7E1C5.\n\n21 En el mismo lugar, pág. 3.\n\n<--- Page Split --->\n\nPa..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.471,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 4,
+        "content_preview": "\nLUZ PIEDAD SÁNCHEZ TOBÓN solicita se proteja su derecho fundamental a la restitución de tierras y, en consecuencia, se le restituya material y jurídicamente el siguiente inmueble:\n\n<fcel>NOMBRE DEL P..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.47,
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 176,
+        "content_preview": "\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- P..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Pro..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210011501_1792794502",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<--- Page Split --->\n\nPara el cumplimiento de esta orden se concede el término máximo de un (1) mes.\n\nDÉCIMO CUARTO: ORDENAR a la Gerencia de Catastro Antioquia, Asociación de Municipios del Altiplano del Oriente Antioqueño – MASORA, o el competente, que actualice los registros cartográficos y alfanuméricos del bien restituido, a partir del informe técnico predial y de georreferenciación realizados por la UAEGRTD.\n\n\n[Documento Relevante 2]\n\nLa Secretaría de esta Sala remitirá las copias necesarias para la adecuada ejecución de la sentencia, privilegiando los medios electrónicos.\n\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210011501\n\nProceso : Restitución y formalización de tierras\n\nReclamante : LUZ PIEDAD SÁNCHEZ TOBÓN\n\nOpositores : ROSA MELIDA GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA\n\n## NOTIFÍQUESE Y CÚMPLASE\n\nLOS MAGISTRADOS,\n\n(Firmado electrónicamente)\n\n\n[Documento Relevante 3]\n\nDÉCIMO OCTAVO: NOTIFÍQUESE esta providencia por estado, de conformidad con las reglas previstas en el Código General del Proceso, el artículo 18 del Acuerdo PCSJA20-11632, el artículo 17 del Acuerdo PCSJA21-11840 y el artículo 9 de la Ley 2213 de 2022, que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 4]\n\nb) . ACTUALIZAR el área y los linderos de esta parcela en el folio, conforme a la individualización indicada en esta sentencia, teniendo en cuenta el trabajo de georreferenciación realizado por la UAEGRTD, para que la Gerencia de Catastro Antioquia, o quien haga sus veces, realice la correspondiente actualización catastral, como corresponda.\n\nc) CANCELAR en el FMI las medidas cautelares ordenadas en este proceso por el juzgado instructor.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\n47 Portal de Tierras, trámite en otros despachos, consecutivo 73.\n\n<--- Page Split --->\n\npara garantizar la restitución y no obstaculizar el goce efectivo de la tierra, según lo expuesto en esta sentencia.\n\n\n[Documento Relevante 6]\n\nPara ello se comisiona al Juzgado Civil Circuito Especializado en Restitución de Tierras Itinerante de Antioquia, el cual tendrá el mismo término para cumplir con la comisión; diligencia en la cual deberá levantar un acta, verificar la identidad del inmueble y no aceptar oposición alguna, según lo preceptuado en el art. 100 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 7]\n\n29 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado C1 3 FF82CF25768F8D616A9ABB0D13C08965D16DC21B8FE167E777D1E6D566B177CB.\n\n30 Portal de Tierras, trámite en otros despachos, consecutivo 5.\n\n<--- Page Split --->\n\nEn consecuencia, existe legitimación por la parte activa, en tanto la demanda fue instaurada por quienes son los llamados a suceder al señor SÁNCHEZ BUSTAMANTE.\n\n\n[Documento Relevante 8]\n\n<--- Page Split --->\n\nOCTAVO: ORDENAR a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas que, de no estarlo aún, incluya a MARÍA DE LA CRUZ TOBÓN SÁNCHEZ, LUZ PIEDAD, OSCAR DE JESÚS, BLANCA MARINA y SONIA DE LA TRINIDAD TOBÓN SÁNCHEZ, al RUV por los hechos aquí analizados.\n\n\n[Documento Relevante 9]\n\n## 2.4. Fase De Decisión\n\nEl 11 de mayo de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia.\\(^{10}\\)\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 19 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso.\\(^{11}\\)\n\n\n[Documento Relevante 10]\n\n25 Ver MASACRE DE SAN VICENTE, DICIEMBRE 2000. Disponible en: https://rutasdelconflicto.com/masacres/san-vicente-diciembre-2000\n\n26 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 0D1EC0AB715D6F108C44337BD23C2CB6F6CCA3A3CB43F9FB7182DA6EE262327A.\n\n27 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 6BF7932C07BDFAADD335F678A5FD6DAB7928EC9E24E88AF386FDCF05CBEBA0CA.\n\n\n[Documento Relevante 11]\n\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\nEn lo que sigue, se ocupa la Sala de analizar el tema de la buena fe exenta de culpa y de posibles segundos ocupantes.\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{42}\\)\n\n\n[Documento Relevante 12]\n\n## 2. ACTUACIÓN PROCESAL\n\n## 2.1. Admisión De La Solicitud, Notificaciones Y Traslado\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 17 de noviembre de 2021, \\( ^{3} \\) ordenando las notificaciones dispuestas en los artículos 86 y 87 de la Ley 1448 de 2011, las cuales se surtieron eficazmente, así:\n\n\n[Documento Relevante 13]\n\nDe esta manera, es menester que la Unidad tenga en cuenta las consideraciones plasmadas en el informe a la hora de desarrollar el proyecto productivo que corresponda, así como el uso agroforestal y pecuario que puede darse según la cartografía del PBOT del municipio.\n\n## 3.8. De Las Medidas Complementarias A La Restitución\n\n\n[Documento Relevante 14]\n\n<--- Page Split --->\n\n## 3.3. Problema Jurídico Y Esquema De Resolución\n\nCorresponde determinar si hay lugar a amparar el derecho fundamental a la restitución de tierras que solicita LUZ PIEDAD SÁNCHEZ TOBÓN en favor de la masa herencial del señor LUIS ALFONSO SÁNCHEZ BUSTAMANTE, respecto de un predio rural innominado ubicado en la vereda Las Cruces del municipio de San Vicente — Antioquia, conforme con los presupuestos establecidos en la Ley 1448 de 2011.\n\n\n[Documento Relevante 15]\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Rionegro — Antioquia:\n\na) . INSCRIBIR esta sentencia en el FMI N.º 020-4257 en los términos acá indicados. La ORIP materializará la inscripción del derecho de dominio que se adiciona a favor de MARÍA DE LA CRUZ TOBÓN DE SÁNCHEZ en un (50%), como cónyuge supérstite de quien figura como propietario, esto en aplicación normativa de los artículos 91 (parágrafo 4º) y 118 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 16]\n\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n<--- Page Split --->\n\n<fcel>NATURALEZA JURÍDICA DEL BIEN:<fcel>Privada<nl><fcel>RELACIÓN JURÍDICA:<fcel>Poseedora hereditaria<nl><fcel>ÁREA GEORREFERENCIADA POR LA UNIDAD:<fcel>1 ha 30 m2<nl>\n\nAdemás, que se profieran todas las órdenes complementarias a la restitución contempladas en el artículo 91 de la Ley 1448 de 2011 que permitan la reparación integral.\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{2} \\)\n\n\n[Documento Relevante 17]\n\nDÉCIMO PRIMERO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n\nPrevia caracterización de los restituidos y del predio formule e implemente a su favor el proyecto productivo acorde al uso razonable y sostenible del suelo, proporcionando el debido acompañamiento y asistencia técnica para garantizar la sostenibilidad del proyecto, encaminándolo a la generación de ingresos y utilidades.\n\n\n[Documento Relevante 18]\n\nLo anterior se deberá cumplir con la colaboración armónica entre las entidades, en el término máximo de un (1) mes, de lo cual se allegará el informe de cumplimiento con los soportes respectivos.\n\nDÉCIMO QUINTO: ORDENAR a la Defensoría del Pueblo, a través de la regional que corresponda, que designe uno de sus profesionales en derecho para que asesore a los accionantes sobre el proceso sucesorio de LUIS ALFONSO SÁNCHEZ BUSTAMANTE y adelante a favor de ellos el trámite de sucesión notarial o judicial, según mejor corresponda. Trámite en el cual se garantizará la gratuidad por tratarse de víctimas del conflicto armado.\n\n[Documento Relevante 19]\n\nIgualmente, otorgar a su favor los programas y proyectos de subsidio de vivienda según la normatividad vigente que regula la materia.\n\nAntes de la adjudicación deberá dicha entidad, con la colaboración del Ministerio de Vivienda, Ciudad y Desarrollo, o el competente al materializar la orden, estudiar su viabilidad en el predio restituido, y cuando sea imposible su materialización, se\n\n<--- Page Split --->\n\n\n[Documento Relevante 20]\n\nAdemás, se declarará la inexistencia de la posesión ejercida por cualquier tercero con posterioridad a los hechos victimizantes acá analizados, y en relación con el predio restituido, de conformidad con el numeral 5º del art. 77 de la Ley 1448 de 2011, precisando que se refiere a la que iniciaron los opositores e incluyendo al hijo de aquellos.\n\n41 Declaraciones en Portal de Tierras, trámite en otros despachos, consecutivo 62.\n\n<--- Page Split --->\n\n\n[Documento Relevante 21]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo.\\(^{12}\\)\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado.\n\nLa Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 22]\n\n27 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 6BF7932C07BDFAADD335F678A5FD6DAB7928EC9E24E88AF386FDCF05CBEBA0CA.\n\n28 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 2E14217349D8BD070365BA97FE5762FD1D14F45330AA5AA8A8A35CB9CBC6FB22.\n\n29 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado C1 3 FF82CF25768F8D616A9ABB0D13C08965D16DC21B8FE167E777D1E6D566B177CB.\n\n\n[Documento Relevante 23]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n\n[Documento Relevante 24]\n\n## 3.5.2. De La Relación Jurídica Con La Tierra —legitimación— Y La Calidad De Víctima. Análisis De Los Medios De Convicción\n\nEl artículo 75 de la Ley de Víctimas y Restitución de Tierras dispone que la persona que demuestre haber sido propietaria de un predio y se haya visto obligada a abandonarlo o hubiese sido despojada de él (como consecuencia directa o indirecta de los hechos que configuren las violaciones de que trata el artículo 3 de igual ley, y a partir del 1 de enero de 1991) es titular del derecho a la restitución.\n\n[Documento Relevante 25]\n\nPara el cumplimiento de esta orden se concede el término máximo de un (1) mes contado a partir del día siguiente a la notificación de la providencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n\n\n[Documento Relevante 26]\n\nEl requisito de procedibilidad está satisfecho (art. 76 Ley 1448/11), según constancia expedida por la Directora Territorial de Antioquia de la UAEGRTD.\\(^{13}\\)\n\n\\( ^{8} \\) Portal de Tierras, trámite en otros despachos, consecutivo 46.\n\n\\( ^{9} \\) Portal de Tierras, trámite en otros despachos, consecutivo 54.\n\n\\( ^{10} \\) Portal de Tierras, trámite en otros despachos, consecutivo 75.\n\n\\( ^{11} \\) Portal de Tierras, trámite en el despacho, consecutivo 7.\n\n\n[Documento Relevante 27]\n\n\\( ^{17} \\) Corte Constitucional. Sentencia C-715 de 2012. MP: LUÍS ERNESTO VARGAS SILVA.\n\n\\( ^{18} \\) Tomado de la Corte Constitucional, Sentencia T-129 de 2019 MP: JOSÉ FERNANDO REYES CUARTAS.\n\n<--- Page Split --->\n\nser aplicados como pautas de obligatorio cumplimiento en materia de protección del derecho a la propiedad inmueble de las personas en situación de desplazamiento.\n\n\n[Documento Relevante 28]\n\n20 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado 04D91A5593E3FF698E06640F5267B7B3C823845C19EDEABED4E6EEDF8BA7E1C5.\n\n21 En el mismo lugar, pág. 3.\n\n<--- Page Split --->\n\nPara lo que interesa, el mayor número de estas «corresponden al periodo entre 1997 y 2005, que coincide además con el momento de mayor intensidad del conflicto armado». Esto, por cuanto «a partir de 1996 se tienen registro de hechos de violencia atribuidos a las autodefensas. En respuesta a la expansión paramilitar el ELN incrementó su presencia en el municipio; estableció campamentos y ocupó propiedades en veredas como Santa Isabel, Potrerito, Guamal, en límites con Peñol y Concepción. En el 2000 se presentó el ingreso masivo de miembros del Bloque Metro de las Autodefensas, situación que incrementó los niveles de confrontación en el municipio y produjo el mayor número de víctimas. En 2003, el BM fue sustituido por el Bloque Héroes de Granada (BHG) que se mantuvo hasta 2005». \\( ^{22} \\)\n\n[Documento Relevante 29]\n\nLUZ PIEDAD SÁNCHEZ TOBÓN solicita se proteja su derecho fundamental a la restitución de tierras y, en consecuencia, se le restituya material y jurídicamente el siguiente inmueble:\n\n<fcel>NOMBRE DEL PREDIO:<fcel>INNOMINADO<nl><fcel>VEREDA:<fcel>LAS CRUCES<nl><fcel>MUNICIPIO<fcel>SAN VICENTE<nl><fcel>DEPARTAMENTO:<fcel>ANTIOQUIA<nl><fcel>FOLIO DE MATRÍCULA INMOBILIARIA —FMI—:<fcel>020-4257 de la ORIP\\( ^{1} \\) de Rionegro<nl>\n\n\\( ^{1} \\) Oficina de Registro de Instrumentos Públicos.\n\n\n[Documento Relevante 30]\n\nParágrafo: Se ordena oficiar a la notaría en mención para que inserte nota marginal de lo aquí dispuesto e informe de ello a esta Sala. Para lo cual se concede el término de quince (15) días.\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, cuatro (4) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>027<nl><fcel>Radicado:<fcel>05000312110120210011501<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitante:<fcel>LUZ PIEDAD SÁNCHEZ TOBÓN<nl><fcel>Opositores:<fcel>ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. Se otorgan medidas en favor de los opositores como segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por LUZ PIEDAD SÁNCHEZ TOBÓN, a la cual se opone ROSA MELIDA ARIAS GALEANO y MIGUEL ANTONIO SÁNCHEZ GARCÍA.\n\n## 1.1. Pretensiones\n\n"
+  }
+}

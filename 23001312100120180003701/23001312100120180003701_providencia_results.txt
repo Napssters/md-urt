@@ -1,0 +1,1122 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "\nRESUELVE:\n\nPRIMERO: DECLARAR impróspera la oposición planteada mediante apoderado judicial por MAGALDY ENRIQUE JIMÉNEZ DORIA identificado con la CC 10.897.027 de Valencia; en consecuencia, no reconocer la compensación de que trata la Ley 1448 de 2011, por no acreditarse el obrar de buena fe exenta de culpa, de conformidad con lo establecido en la parte motiva de esta providencia.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "\nSEGUNDO: DECLARAR no probadas las excepciones de fondo denominadas \"buena fe exenta de culpa\" e \"inexistencia de la calidad de despojado de LUIS NÚÑEZ LUNA\", incoadas por MAGALDY ENRIQUE JIMÉNEZ DORIA a través de apoderado judicial, de conformidad con lo establecido en la parte motiva de esta providencia.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "\nTERCERO: DENEGAR a MAGALDY ENRIQUE JIMÉNEZ DORIA, el reconocimiento de la calidad de segundo ocupante de la parcela objeto de reclamación, en razón a las consideraciones que se dejaron precisadas en la anterior motivación.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_4": {
+    "pregunta": "CUARTO:",
+    "respuesta": "\nCUARTO: RECONOCER Y PROTEGER el derecho fundamental a la restitución y formalización de tierras a favor de LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, en los términos de la Ley 1448 de 2011 y de conformidad con lo considerado en la parte motiva de esta providencia.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "\nEl artículo 72 de la Ley 1448 plantea dos supuestos en su inciso quinto: la imposibilidad de restitución jurídica y material del inmueble y la imposibilidad de la víctima para su retorno por riesgo a su vida o integridad personal; generando para ellos dos opciones, la primera conocida como \"restitución por equivalente\" y la segunda el \"reconocimiento de una compensación\".\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "SEXTO: TENER como INEXISTENTE la posesión, ejercida desde 1999, por MAGALDY ENRIQUE JIMÉNEZ DORIA y su familia, sobre el área de terreno de 14 has 9.242 mts² georreferenciada así por la Unidad y que le había sido adjudicado por el INCORA a LUIS ENRIQUE NÚÑEZ LUNA mediante Resolución Nº.01959 del 22 de julio de 1991, ubicado en la vereda El Faro, corregimiento de igual denominación del municipio de Valencia (Cór.), atendiendo lo expuesto en la parte motiva.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_7": {
+    "pregunta": "SÉPTIMO:",
+    "respuesta": "\nSÉPTIMO: ORDENAR que la restitución y formalización de tierras del solicitante se haga de manera subsidiaria a través de compensación por equivalencia a cargo del FONDO DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS, de la manera como se precisa a continuación, en consonancia con lo referido en la parte motiva del presente proveído:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_8": {
+    "pregunta": "OCTAVO:",
+    "respuesta": "\n## OCTAVO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De MONTERÍA, Para Que Dé Cumplimento A Las Siguientes Órdenes En Relación Con La Parcela Objeto De Restitución, En El Corregimiento El Faro, Vereda De Igual Denominación Del Municipio De Valencia (cór.):\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "NOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, transfiera el derecho de 1/5 parte que le corresponde sobre el predio denominado EL FARO GRUPO 5 LA ESPERANZA de 72 hectáreas 8.500 m², ubicado en el corregimiento El Faro,",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "\nDÉCIMO: ORDENAR al Instituto Geográfico Agustín Codazzi- IGAC y a la Oficina de registro de instrumentos públicos de Montería, que en coordinación con la Unidad de Restitución de Tierras, conforme al art. 96 de la Ley 1448 de 2011 y en concordancia con el procedimiento previsto en el artículo 59 de inciso 2 y 5 de la Ley 1579 de 2012 y demás normas complementarias, procedan a actualizar y unificar sus bases de datos catastrales y registrales, teniendo como derrotero la identificación e individualización realizada por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas a través de los Informes Tecnico Prediales (ITP), los informes técnicos de georreferenciación (ITG) y los archivos digitales cartográficos en formato shape (SHP). En caso de inconsistencias, deberán estarse a lo probado en esta sentencia.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "Para el cumplimiento de esta orden se dispone del término de veinte (20) días y deberá informarse de ello a este Tribunal Superior del Distrito Judicial de Antioquia-Sala Civil Especializada en Restitución de Tierras.\n\nDÉCIMO PRIMERO: ORDENAR a la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV):",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_12": {
+    "pregunta": "DÉCIMO SEGUNDO:",
+    "respuesta": "DÉCIMO SEGUNDO: ORDENAR a la Alcaldía Municipal de Valencia (Cór.) con relación a la parcela objeto de restitución, así como la eventualmente otorgada en compensación en favor del solicitante, la exoneración del pago de tasas, contribuciones y otros impuestos municipales por un periodo de dos (2) años a partir de la fecha de la restitución jurídica, de conformidad con lo estatuido en el Acuerdo 017 del 29 de agosto de 2013 del Concejo Municipal del municipio de Valencia.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "\nPara el cumplimiento de esta orden, se le concede el término de diez (10) días contado a partir de la correspondiente comunicación.\n\nDÉCIMO TERCERO: ORDENAR a la Alcaldía Municipal de Valencia (Cór.), que a través de su Secretaría Municipal de Salud o quien haga sus veces, en ayuda con las entidades responsables a nivel asistencial como Empresas Sociales del Estado, Instituciones Prestadoras de Servicios de Salud, Empresas Promotoras de Salud, entre otras, y los coparticipes y aliados estratégicos que hacen parte del programa, les garantice a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030 y su respectivo núcleo familiarar la asistencia en atención psicosocial, por lo que deberán ser evaluadas por un equipo de profesionales interdisciplinario para que emitan su correspondiente concepto de acuerdo a las necesidades particulares que requieran, incluyendo el acceso a medicamentos de ser necesarios. Además, deberán incluirlas en los programas de atención, prevención y protección que ofrece el Municipio a favor de las víctimas.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_14": {
+    "pregunta": "DÉCIMO CUARTO:",
+    "respuesta": "\nDÉCIMO CUARTO: ORDENAR al SERVICIO NACIONAL DE APRENDIZAJE (SENA)- REGIONAL CÓRDOBA que voluntariamente ingrese al restituido con su respectivo núcleo familiar, sin costo alguno para ellos, a los programas de formación, capacitación técnica y proyectos especiales para la generación de empleo rural y urbanos que tengan implementados, de acuerdo a su edad, preferencias, grado de estudios y oferta académica, garantizándose que efectivamente la víctima sea receptora del subsidio que el SENA otorga de los fondos obtenidos por los aportes parafiscales y contribuciones, que conforman su patrimonio conforme lo establece el artículo 30 de la Ley 119 de 1994.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_15": {
+    "pregunta": "DÉCIMO QUINTO:",
+    "respuesta": "\nPara el cumplimiento de esta orden, se dispone el término de 15 días debiendo presentar informes detallados del avance de la gestión de manera bimestral.\n\nDÉCIMO QUINTO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS -DIRECCIÓN TERRITORIAL CÓRDOBA, que priorice y postule ante la entidad respectiva a los restituidos, a fin que de reunir las demás exigencias de Ley, se les beneficie con subsidio para la construcción o mejoramiento de vivienda de acuerdo con la competencia prevista en el Decreto 4829 de 2011 compilado en el Decreto 1071 de",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_16": {
+    "pregunta": "DÉCIMO SEXTO:",
+    "respuesta": "\nDÉCIMO SEXTO: ORDENAR la entrega efectiva de los inmuebles objeto de la presente sentencia, con la presencia de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas -Dirección Territorial Córdoba, dentro de los tres (3) días siguientes a la ejecutoria de esta sentencia. Si no se realiza la entrega voluntaria, deberá practicarse la diligencia de desalojo en un término perentorio de cinco (5) días, para lo cual se comisionará al Juez Primero Civil del Circuito Especializado en Restitución de Tierras de Montería, quien deberá levantar el acta respectiva verificando la identidad del predio y sin aceptar oposición de ninguna clase. Por secretaría líbrese despacho comisorio, sin que medie orden adicional a la aquí emitida.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_17": {
+    "pregunta": "DÉCIMO SÉPTIMO:",
+    "respuesta": "\nDÉCIMO SÉPTIMO: ORDENAR a las Fuerzas Militares de Colombia y a la Policiía Nacional-Municipio de Valencia Córdoba a través del comandante Operativo de Seguridad Ciudadana y a las autoridades de policía de esta municipalidad, para que acompañen y colaboren en la diligencia de entrega material de los bienes a restituir, brindando la seguridad para la diligencia y además la requerida para el efectivo retorno y permanencia de los solicitantes en las parcelas objeto de esta acción.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_18": {
+    "pregunta": "DÉCIMO OCTAVO:",
+    "respuesta": "DÉCIMO OCTAVO: ORDENAR al DEPARTAMENTO DE POLICÍA DE CORDOBA, a las AUTORIDADES DE POLICÍA DEL MUNICIPIO DE VALENCIA (COR.) y al EJÉRCITO NACIONAL, que coordinen y lleven a cabo en forma efectiva, un programa o estrategia que ofrezca condiciones de seguridad en la parcelación de EL FARO y SUS DISTINTOS GRUPOS, donde se encuentra ubicado el bien objeto de este proceso, de modo que con base en las gestiones que mancomunada y corresponsablemente efectúen, se le brinde un oportuno y adecuado nivel de seguridad a las víctimas, y así puedan tanto retornar como permanecer en su predio y disfrutar de su derecho fundamental a la libertad de locomoción, con niveles de seguridad y dignidad favorables, según corresponda.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_19": {
+    "pregunta": "DÉCIMO NOVENO:",
+    "respuesta": "\nPara tal efecto, las autoridades en mención cada tres (3) meses, deberán rendir un informe particularizado de seguridad para el caso concreto de los restituidos.\n\nDÉCIMO NOVENO: No se condenará en costas a ninguna de las partes porque no se dan los presupuestos del literal s) del art. 91 de la Ley 1448 de 2011 respecto de la actuación procesal de los opositores.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_20": {
+    "pregunta": "VIGÉSIMO:",
+    "respuesta": "\nVIGÉSIMO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que, para el cumplimiento de éstas, deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011.\n\nVIGÉSIMO PRIMERO: Por la Secretaria de la Sala, expídanse las copias auténticas necesarias, a quienes así lo requieran.\n\nVIGÉSIMO SEGUNDO: NOTIFIQUESE esta providencia a las partes por el medio más expedito.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "0",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.543,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 41,
+        "content_preview": "\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.539,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 233,
+        "content_preview": "\n6. 3.5. Se ordenará que una vez registrada la presente sentencia junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, se transfiera por LUIS ENRIQUE NÚÑEZ LUNA el derecho de 1/..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.515,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.501,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 179,
+        "content_preview": "\nLa Corte Suprema de Justicia acatando el criterio establecido por la Corte Constitucional iteró que son los jueces de esta especialidad los encargados del reconocimiento de esa calidad y especificar ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.489,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 222,
+        "content_preview": "\n\\( ^{64} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 14:57 a 15:20.\n\n<--- Page Split --->\n\nA partir de lo anterior..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente; entre otras que consideró pertinente decretar.\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n3. 2. Nulidades. No se advierte ningún vicio que pueda invalidar lo actuado dentro del presente trámite.\n\n\n[Documento Relevante 2]\n\n6. 3.5. Se ordenará que una vez registrada la presente sentencia junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, se transfiera por LUIS ENRIQUE NÚÑEZ LUNA el derecho de 1/5 parte que le corresponde sobre el predio denominado EL FARO GRUPO 5 LA ESPERANZA de 72 hectáreas 8.500 m², ubicado en la en el corregimiento El Faro, vereda de igual denominación del municipio de Valencia (Cór.), identificado con el número predial 238550000000000310041000000000 y matrícula inmobiliaria 140-37410 de la oficina de registro de instrumentos públicos de Montería; al FONDO DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS, de conformidad con la Ley, entidad que adelantará a su costa las\n\n[Documento Relevante 3]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 4]\n\nLa Corte Suprema de Justicia acatando el criterio establecido por la Corte Constitucional iteró que son los jueces de esta especialidad los encargados del reconocimiento de esa calidad y especificar las medidas de atención a los segundos aun en etapa pos fallo, (Rad.11001-02-03-000-2017-00599-00. STC3722-2017) \\( ^{51} \\) ; debiendo en todo caso tener en cuenta los siguientes elementos al momento mismo de adoptar cualquier determinación: i. habitar el predio objeto de restitución o derivar de ellos su mínimo vital; ii. Que se encuentren en situación de vulnerabilidad y iii. Que no exista (ni directa o indirectamente) relación con el despojo o el abandono forzado del predio; por lo que a continuación la Sala profundizará sobre ello.\n\n[Documento Relevante 5]\n\n\\( ^{64} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 14:57 a 15:20.\n\n<--- Page Split --->\n\nA partir de lo anterior, el artículo 97 de la citada Ley 1448 teniendo como eje el concepto de “imposibilidad”, enunció indistintamente como “compensaciones en especie” cuatro eventos de aplicación, los cuales en modo alguno pueden tenerse como taxativos, por cuanto el interés de la Ley es el desarrollo de un derecho ius fundamental, cual es la reparación de las víctimas del conflicto interno, como se ha dejado establecido.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.586,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 25,
+        "content_preview": "\nLos 15 días para que eventuales terceros presentaran escritos de oposición vencieron el 20 de abril de 2018, no obstante el 19 de ese mismo mes y año, es decir, en término, MAGALDY ENRIQUE JIMÉNEZ DO..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.576,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 188,
+        "content_preview": "\n53 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 32:18 a 33:08 y 37:04 a 39:07.\n\n54 Corte Suprema de Justicia, Sala de ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.572,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 41,
+        "content_preview": "\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.559,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 256,
+        "content_preview": "\na) Registrar la presente sentencia en la matrícula inmobiliaria 140-37410; así como la actualización del área y los linderos de la parcela restituida, teniendo en cuenta el informe técnico predial -I..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.55,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 260,
+        "content_preview": "\nNOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, t..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLos 15 días para que eventuales terceros presentaran escritos de oposición vencieron el 20 de abril de 2018, no obstante el 19 de ese mismo mes y año, es decir, en término, MAGALDY ENRIQUE JIMÉNEZ DORIA presentó escrito de\n\n\\( ^{8} \\) Documento 5 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{9} \\) Documento 9 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\n[Documento Relevante 2]\n\n53 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 32:18 a 33:08 y 37:04 a 39:07.\n\n54 Corte Suprema de Justicia, Sala de Casación Civil. Providencia de 18 de noviembre de 1949, G.J. Tomo XLIV, páginas 799 a 802\n\n<--- Page Split --->\n\n## 5.8.1. Las Presunciones A Aplicar En El Caso Específico.\n\n\n[Documento Relevante 3]\n\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente; entre otras que consideró pertinente decretar.\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n3. 2. Nulidades. No se advierte ningún vicio que pueda invalidar lo actuado dentro del presente trámite.\n\n\n[Documento Relevante 4]\n\na) Registrar la presente sentencia en la matrícula inmobiliaria 140-37410; así como la actualización del área y los linderos de la parcela restituida, teniendo en cuenta el informe técnico predial -ITP levantado por la Unidad de Tierras.\n\n\n[Documento Relevante 5]\n\nNOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, transfiera el derecho de 1/5 parte que le corresponde sobre el predio denominado EL FARO GRUPO 5 LA ESPERANZA de 72 hectáreas 8.500 m², ubicado en el corregimiento El Faro,\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.767,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 240,
+        "content_preview": "\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombr..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.744,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 259,
+        "content_preview": "\nd) La cancelación de las anotaciones donde figuran las medidas cautelares (admisión solicitud de restitución y sustracción provisional del comercio) ordenadas por el Juzgado Civil del Circuito Especi..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.715,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 3,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\nProcede la Sala a dictar sentencia, de conformidad con el trámite establecido en ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.688,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 169,
+        "content_preview": "\n47 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 8:13.\n\nPágina 27 de 46\n\n<--- Page Split --->\n\nlo que verdaderamente es..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.682,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 222,
+        "content_preview": "\n\\( ^{64} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 14:57 a 15:20.\n\n<--- Page Split --->\n\nA partir de lo anterior..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\nRESUELVE:\n\n\n[Documento Relevante 2]\n\nd) La cancelación de las anotaciones donde figuran las medidas cautelares (admisión solicitud de restitución y sustracción provisional del comercio) ordenadas por el Juzgado Civil del Circuito Especializado en Restitución de Tierras de Montería (Cór).\n\n\n[Documento Relevante 3]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\nProcede la Sala a dictar sentencia, de conformidad con el trámite establecido en el capítulo IV de la Ley 1448 de 2011, con respecto a la solicitud de formalización y restitución de tierras despojadas, presentada por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas-Dirección Territorial Antioquia (en adelante LA UNIDAD) en favor de LUIS ENRIQUE NUÑEZ LUNA; proceso que fue instruido por el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Montería (Cór.).\n\n[Documento Relevante 4]\n\n47 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 8:13.\n\nPágina 27 de 46\n\n<--- Page Split --->\n\nlo que verdaderamente estaba comprando, por lo menos de la porción de terreno que en este proceso está siendo reclamada en restitución, sin que allegara prueba alguna sobre las actuaciones superiores que se exigen en aras de un actuar de buena fe exenta de culpa: motivos e intenciones de la venta, el deber de cuidado en razón precisamente a que siempre ha vivido en Valencia y era conocedor de la situación de orden público en el área y los desplazamientos en esa zona, sin que sea de recibo para esta Corporación el desconocimiento que sobre el particular adujeron los testigos traídos a su instancia, que contrarían directamente los hechos de violencia en el área y que es de naturaleza \"notorio\", como ha sido reconocido por la jurisprudencia nacional.\n\n[Documento Relevante 5]\n\n\\( ^{64} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 14:57 a 15:20.\n\n<--- Page Split --->\n\nA partir de lo anterior, el artículo 97 de la citada Ley 1448 teniendo como eje el concepto de “imposibilidad”, enunció indistintamente como “compensaciones en especie” cuatro eventos de aplicación, los cuales en modo alguno pueden tenerse como taxativos, por cuanto el interés de la Ley es el desarrollo de un derecho ius fundamental, cual es la reparación de las víctimas del conflicto interno, como se ha dejado establecido.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Despojo",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.602,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 271,
+        "content_preview": "\n10. 3. Que los restituidos sean incluidos en el PAARI de retorno y reparación, por lo que insta a la entidad para que establezca ruta especial de atención para estas víctimas beneficiarias de la rest..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.601,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 224,
+        "content_preview": "\nEl presente evento es uno de los pocos en donde la aplicación rigurosa de la restitución a favor de la víctima solicitante terminaría afectando su vida, integridad personal y su propia dignidad human..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.599,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 216,
+        "content_preview": "\nLa Ley 1448 de 2011 regula a partir del artículo 72 las posibilidades de reparación para las víctimas, señalando como vía principal la restitución jurídica y material del inmueble despojado, pero enu..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.585,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 269,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV):\n\n10. 1. Que proceda a inscribir en el Registro Único de Víctimas (RUV), por el hecho victimizante de..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.568,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 220,
+        "content_preview": "\nEl artículo 72 de la Ley 1448 plantea dos supuestos en su inciso quinto: la imposibilidad de restitución jurídica y material del inmueble y la imposibilidad de la víctima para su retorno por riesgo a..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n10. 3. Que los restituidos sean incluidos en el PAARI de retorno y reparación, por lo que insta a la entidad para que establezca ruta especial de atención para estas víctimas beneficiarias de la restitución y de las medidas de compensación; debiendo adelantar oportunamente a favor de estas, las acciones pertinentes ante las distintas entidades que conforman el Sistema Nacional de Atención y Reparación a las víctimas, previa valoración de sus situaciones actuales y de necesidad, su inclusión en proyectos de estabilización socio económica así como la garantía del goce efectivo de los derechos a la salud, educación, alimentación, vivienda y orientación ocupacional.\n\n[Documento Relevante 2]\n\nEl presente evento es uno de los pocos en donde la aplicación rigurosa de la restitución a favor de la víctima solicitante terminaría afectando su vida, integridad personal y su propia dignidad humana, que como es sabido, equivale al merecimiento de un trato especial que tiene toda persona por el hecho de ser tal, ello en razón a la imposibilidad física (por razones de edad y/o salud) del reclamante para su eventual retorno con la finalidad de explotación de la tierra y la consecución de proyectos productivos en ella; por lo que esta Sala dispondrá la posibilidad subsidiiaria de “compensación”, lo que estará a cargo del FONDO DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCIÓN DE TIERRAS DESPOJADAS, a fin que se le entregue al solicitante un bien inmueble equivalente al que detentaba para el momento del despojo y/o desplazamiento.\n\n[Documento Relevante 3]\n\nLa Ley 1448 de 2011 regula a partir del artículo 72 las posibilidades de reparación para las víctimas, señalando como vía principal la restitución jurídica y material del inmueble despojado, pero enunciando a su vez en forma subsidiaria la posibilidad de la restitución por equivalente o el reconocimiento de una compensación.\n\n(...)\n\n\n[Documento Relevante 4]\n\nDÉCIMO PRIMERO: ORDENAR a la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV):\n\n10. 1. Que proceda a inscribir en el Registro Único de Víctimas (RUV), por el hecho victimizante de desplazamiento, abandono forzado y/o despojo, en el caso que aún no lo estén, a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030 y su respectivo núcleo familiar descrito en la solicitud (FI. 35 C1 solicitud).\n\n\n[Documento Relevante 5]\n\nEl artículo 72 de la Ley 1448 plantea dos supuestos en su inciso quinto: la imposibilidad de restitución jurídica y material del inmueble y la imposibilidad de la víctima para su retorno por riesgo a su vida o integridad personal; generando para ellos dos opciones, la primera conocida como \"restitución por equivalente\" y la segunda el \"reconocimiento de una compensación\".\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.53,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.525,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 11,
+        "content_preview": "\n\\( ^{1} \\) De la Notaría Segunda de Montería.\n\n\\( ^{2} \\) De la Notaría Segunda de Montería.\n\n\\( ^{3} \\) Resolución 0237 de 1978, que fuera posteriormente revocada mediante resoluciones 2587 de 2007 ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.504,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 172,
+        "content_preview": "\n## 5.7. De Los SEGUNDOS OCUPANTES.\n\nAunque la Ley 1448/2011, no tiene ninguna disposición legal que haga referencia a los segundos ocupantes, la Corte Constitucional en la sentencia C-330 de 2016 \\( ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.501,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 212,
+        "content_preview": "\n## 6. CONCLUSION (EFECTOS Y CONSECUENCIAS)\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.484,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 289,
+        "content_preview": "\nVIGÉSIMO SEGUNDO: NOTIFIQUESE esta providencia a las partes por el medio más expedito.\n\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)\n\nNOTIFIQUESE Y CÚMPLASE.\n\nLos Magistrados,\n\nJ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 2]\n\n\\( ^{1} \\) De la Notaría Segunda de Montería.\n\n\\( ^{2} \\) De la Notaría Segunda de Montería.\n\n\\( ^{3} \\) Resolución 0237 de 1978, que fuera posteriormente revocada mediante resoluciones 2587 de 2007 y 303 de 2008, por haberse adjudicado sin el lleno de los requisitos legales.\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n## 5.7. De Los SEGUNDOS OCUPANTES.\n\nAunque la Ley 1448/2011, no tiene ninguna disposición legal que haga referencia a los segundos ocupantes, la Corte Constitucional en la sentencia C-330 de 2016 \\( ^{48} \\) , acoge la regla 17 de los principios Pinheiro \\( ^{49} \\) , de conformidad con el Manual de aplicación de estos principios \\( ^{50} \\) , estableciendo que los segundos ocupantes u ocupantes secundarios son: todas aquellas personas que hubieran establecido su residencia en viviendas o tierras abandonadas por sus propietarios legítimos a consecuencia de, entre otras cosas, el desplazamiento o el desalojamiento forzosos, la violencia o amenazas, o las catástrofes naturales así como las causadas por el hombre\" (Destaca la Sala).\n\n[Documento Relevante 4]\n\n## 6. CONCLUSION (EFECTOS Y CONSECUENCIAS)\n\n\n[Documento Relevante 5]\n\nVIGÉSIMO SEGUNDO: NOTIFIQUESE esta providencia a las partes por el medio más expedito.\n\n(Proyecto discutido y aprobado, según consta en Acta de la fecha)\n\nNOTIFIQUESE Y CÚMPLASE.\n\nLos Magistrados,\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nPUNO ALIRIO CORREAL BELTRÁN\n\nCon salvamento de voto\n\nANGELA MARIA PELAEZ ARENAS\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.715,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 240,
+        "content_preview": "\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombr..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.667,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.654,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 259,
+        "content_preview": "\nd) La cancelación de las anotaciones donde figuran las medidas cautelares (admisión solicitud de restitución y sustracción provisional del comercio) ordenadas por el Juzgado Civil del Circuito Especi..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.648,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 41,
+        "content_preview": "\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.645,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 179,
+        "content_preview": "\nLa Corte Suprema de Justicia acatando el criterio establecido por la Corte Constitucional iteró que son los jueces de esta especialidad los encargados del reconocimiento de esa calidad y especificar ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\nRESUELVE:\n\n\n[Documento Relevante 2]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 3]\n\nd) La cancelación de las anotaciones donde figuran las medidas cautelares (admisión solicitud de restitución y sustracción provisional del comercio) ordenadas por el Juzgado Civil del Circuito Especializado en Restitución de Tierras de Montería (Cór).\n\n\n[Documento Relevante 4]\n\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente; entre otras que consideró pertinente decretar.\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n3. 2. Nulidades. No se advierte ningún vicio que pueda invalidar lo actuado dentro del presente trámite.\n\n\n[Documento Relevante 5]\n\nLa Corte Suprema de Justicia acatando el criterio establecido por la Corte Constitucional iteró que son los jueces de esta especialidad los encargados del reconocimiento de esa calidad y especificar las medidas de atención a los segundos aun en etapa pos fallo, (Rad.11001-02-03-000-2017-00599-00. STC3722-2017) \\( ^{51} \\) ; debiendo en todo caso tener en cuenta los siguientes elementos al momento mismo de adoptar cualquier determinación: i. habitar el predio objeto de restitución o derivar de ellos su mínimo vital; ii. Que se encuentren en situación de vulnerabilidad y iii. Que no exista (ni directa o indirectamente) relación con el despojo o el abandono forzado del predio; por lo que a continuación la Sala profundizará sobre ello.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "Se declara impróspera la oposición planteada por Magaldy Enrique Jiménez Doria sin reconocimiento de la calidad de segundo ocupante, y se ampara el derecho fundamental a la restitución de tierras del solicitante Luis Enrique Núñez Luna a quien se le compensó por equivalencia.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.713,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 58,
+        "content_preview": "\n## 4. El CASO CONCRETO.\n\nDe las premisas anteriores, la Sala abordará el estudio de la solicitud, abarcando para tal efecto: i. El contexto de violencia (general y especial); ii. Verificación de la c..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.644,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 114,
+        "content_preview": "\nDe las versiones estudiadas con antelación, junto a la prueba documental revisada, de fardo resalta la condición de víctima del conflicto armado interno del solicitante y su grupo familiar, por lo qu..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.63,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 109,
+        "content_preview": "\n\\( ^{34} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 8:56; 13:40 a 14:27.\n\n<--- Page Split --->\n\nAl analizar el ma..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.621,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 259,
+        "content_preview": "\nd) La cancelación de las anotaciones donde figuran las medidas cautelares (admisión solicitud de restitución y sustracción provisional del comercio) ordenadas por el Juzgado Civil del Circuito Especi..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.619,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 123,
+        "content_preview": "\nLo anterior significa que acreditada se encuentra la relación del solicitante con la parcela objeto de súplica, no obstante, el derecho por NÚÑEZ LUNA reclamado, deberán entenderse única y exclusivam..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 4. El CASO CONCRETO.\n\nDe las premisas anteriores, la Sala abordará el estudio de la solicitud, abarcando para tal efecto: i. El contexto de violencia (general y especial); ii. Verificación de la calidad de víctima del solicitante; iii. La vinculación o relación del solicitante con el predio y iv. La temporalidad de los hechos y su interrelación con la Ley de víctimas. Para luego examinar la buena fe exenta de culpa planteada por el opositor, la configuración de las presunciones de que trata el artículo 77 de la Ley 1448 de 2011 y como último, las conclusiones del caso.\n\n[Documento Relevante 2]\n\nDe las versiones estudiadas con antelación, junto a la prueba documental revisada, de fardo resalta la condición de víctima del conflicto armado interno del solicitante y su grupo familiar, por lo que a modo de conclusión parcial, se tendrá como probado que el reclamante en el proceso, ostenta dicha calidad a la luz de la Ley 1448 de 2011, legitimado en la causa por activa y consecuencialmente apto para reclamar la aplicación del mencionado instrumento legal, sin que sea del caso, iterar su estudio en esta providencia.\n\n[Documento Relevante 3]\n\n\\( ^{34} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 8:56; 13:40 a 14:27.\n\n<--- Page Split --->\n\nAl analizar el material probatorio que milita en el expediente, se tiene que aparte de contar con las versiones esbozadas en el acápite anterior, también se encuentran pruebas documentales que permiten acreditar la calidad de víctima del conflicto armado tanto del reclamante como de su grupo familiar.\n\n\n[Documento Relevante 4]\n\nd) La cancelación de las anotaciones donde figuran las medidas cautelares (admisión solicitud de restitución y sustracción provisional del comercio) ordenadas por el Juzgado Civil del Circuito Especializado en Restitución de Tierras de Montería (Cór).\n\n\n[Documento Relevante 5]\n\nLo anterior significa que acreditada se encuentra la relación del solicitante con la parcela objeto de súplica, no obstante, el derecho por NÚÑEZ LUNA reclamado, deberán entenderse única y exclusivamente frente a uno del que gozaba con otros adjudicatarios, en común y proindiviso, como ya se dejó anotado y así habrá de entenderse para todos los efectos legales.\n\n## 4.7. La Temporalidad De Los Hechos Victimizantes.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2019-12-13",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.578,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 41,
+        "content_preview": "\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.564,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 188,
+        "content_preview": "\n53 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 32:18 a 33:08 y 37:04 a 39:07.\n\n54 Corte Suprema de Justicia, Sala de ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.527,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 25,
+        "content_preview": "\nLos 15 días para que eventuales terceros presentaran escritos de oposición vencieron el 20 de abril de 2018, no obstante el 19 de ese mismo mes y año, es decir, en término, MAGALDY ENRIQUE JIMÉNEZ DO..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.515,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 282,
+        "content_preview": "\nPARÁGRAFO: Para verificar el cumplimiento de lo acá ordenado, se concederá el término de quince (15) días a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS-DIRECCIÓN TERRITORIA..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.507,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente; entre otras que consideró pertinente decretar.\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n3. 2. Nulidades. No se advierte ningún vicio que pueda invalidar lo actuado dentro del presente trámite.\n\n\n[Documento Relevante 2]\n\n53 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 32:18 a 33:08 y 37:04 a 39:07.\n\n54 Corte Suprema de Justicia, Sala de Casación Civil. Providencia de 18 de noviembre de 1949, G.J. Tomo XLIV, páginas 799 a 802\n\n<--- Page Split --->\n\n## 5.8.1. Las Presunciones A Aplicar En El Caso Específico.\n\n\n[Documento Relevante 3]\n\nLos 15 días para que eventuales terceros presentaran escritos de oposición vencieron el 20 de abril de 2018, no obstante el 19 de ese mismo mes y año, es decir, en término, MAGALDY ENRIQUE JIMÉNEZ DORIA presentó escrito de\n\n\\( ^{8} \\) Documento 5 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{9} \\) Documento 9 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\n[Documento Relevante 4]\n\nPARÁGRAFO: Para verificar el cumplimiento de lo acá ordenado, se concederá el término de quince (15) días a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS-DIRECCIÓN TERRITORIAL CÓRDOBA, para que inicie su cumplimiento, presentando un informe de avances en el término máximo de dos (2) meses, así como informes periódicos de la gestión con destino a este proceso.\n\n\n[Documento Relevante 5]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "23001-31-21-001-2018-00037-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.506,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 265,
+        "content_preview": "\nCoordenadas\n\n<fcel>PUNTO<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (\" \" \")<fcel>LONG (\" \" \")<nl><fcel>66066<fcel>1402064,68<fcel>109..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.506,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 4,
+        "content_preview": "\n## 1. ANTECEDENTES\n\n## 1.1. De Las Pretensiones\n"
+      },
+      {
+        "rank": 3,
+        "similarity": 0.501,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 21,
+        "content_preview": "\n## 2. ACTUACIÓN PROCESAL.\n\n## 2.1. De La Admisión De La Solicitud.\n\nLa solicitud \\( ^{7} \\) correspondió en conocimiento al Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.475,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.462,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 255,
+        "content_preview": "\n## OCTAVO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De MONTERÍA, Para Que Dé Cumplimento A Las Siguientes Órdenes En Relación Con La Parcela Objeto De Restitución, En El Corregimient..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nCoordenadas\n\n<fcel>PUNTO<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (\" \" \")<fcel>LONG (\" \" \")<nl><fcel>66066<fcel>1402064,68<fcel>1095636,95<fcel>8° 13' 51,403\" N<fcel>76° 12' 34,331\" W<nl><fcel>86003<fcel>1401907,90<fcel>1095993,75<fcel>8° 13' 46,275\" N<fcel>76° 12' 22,685\" W<nl><fcel>32870<fcel>1401844,86<fcel>1095984,24<fcel>8° 13' 44,224\" N<fcel>76° 12' 23,000\" W<nl><fcel>32871<fcel>1401748,29<fcel>1095958,83<fcel>8° 13' 41,083\" N<fcel>76° 12' 23,837\" W<nl><fcel>32868<fcel>1401519,48<fcel>1095908,93<fcel>8° 13' 33,639\" N<fcel>76° 12' 25,484\" W<nl><fcel>66059<fcel>1401700,44<fcel>1095550,98<fcel>8° 13' 39,554\" N<fcel>76° 12' 37,165\" W<nl><ecel><ecel><ecel><ecel><ecel><nl>\n\n[Documento Relevante 2]\n\n## 1. ANTECEDENTES\n\n## 1.1. De Las Pretensiones\n\n\n[Documento Relevante 3]\n\n## 2. ACTUACIÓN PROCESAL.\n\n## 2.1. De La Admisión De La Solicitud.\n\nLa solicitud \\( ^{7} \\) correspondió en conocimiento al Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Montería (Cór.), el cual por auto del 16\n\n7 Presentada el 09 de marzo de 2018.\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 5]\n\n## OCTAVO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De MONTERÍA, Para Que Dé Cumplimento A Las Siguientes Órdenes En Relación Con La Parcela Objeto De Restitución, En El Corregimiento El Faro, Vereda De Igual Denominación Del Municipio De Valencia (cór.):\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "23001312100120180003700",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.472,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 265,
+        "content_preview": "\nCoordenadas\n\n<fcel>PUNTO<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (\" \" \")<fcel>LONG (\" \" \")<nl><fcel>66066<fcel>1402064,68<fcel>109..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.444,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 212,
+        "content_preview": "\n## 6. CONCLUSION (EFECTOS Y CONSECUENCIAS)\n"
+      },
+      {
+        "rank": 3,
+        "similarity": 0.431,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 17,
+        "content_preview": "\n\\( ^{4} \\) Con folio 140-4871\n\n\\( ^{5} \\) Con folios 140-32610 y 140-3734\n\n\\( ^{6} \\) Del predio Villa María: se derivó el 140-8753 Faro 2; 140-8757 Faro 6; 140-8758 Faro 7, 140-8751 El Faro; 140-875..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.413,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 263,
+        "content_preview": "\nLinderos y colindancias\n\n<fcel>NORTE:<fcel>Partiendo desde el punto 66066 en linea recta en dirección nororiental hasta llegar al punto 86003 con una distancia de 389,73 metros con Hugo Ríos<nl><fcel..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.412,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 260,
+        "content_preview": "\nNOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, t..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nCoordenadas\n\n<fcel>PUNTO<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (\" \" \")<fcel>LONG (\" \" \")<nl><fcel>66066<fcel>1402064,68<fcel>1095636,95<fcel>8° 13' 51,403\" N<fcel>76° 12' 34,331\" W<nl><fcel>86003<fcel>1401907,90<fcel>1095993,75<fcel>8° 13' 46,275\" N<fcel>76° 12' 22,685\" W<nl><fcel>32870<fcel>1401844,86<fcel>1095984,24<fcel>8° 13' 44,224\" N<fcel>76° 12' 23,000\" W<nl><fcel>32871<fcel>1401748,29<fcel>1095958,83<fcel>8° 13' 41,083\" N<fcel>76° 12' 23,837\" W<nl><fcel>32868<fcel>1401519,48<fcel>1095908,93<fcel>8° 13' 33,639\" N<fcel>76° 12' 25,484\" W<nl><fcel>66059<fcel>1401700,44<fcel>1095550,98<fcel>8° 13' 39,554\" N<fcel>76° 12' 37,165\" W<nl><ecel><ecel><ecel><ecel><ecel><nl>\n\n[Documento Relevante 2]\n\n## 6. CONCLUSION (EFECTOS Y CONSECUENCIAS)\n\n\n[Documento Relevante 3]\n\n\\( ^{4} \\) Con folio 140-4871\n\n\\( ^{5} \\) Con folios 140-32610 y 140-3734\n\n\\( ^{6} \\) Del predio Villa María: se derivó el 140-8753 Faro 2; 140-8757 Faro 6; 140-8758 Faro 7, 140-8751 El Faro; 140-8754 Faro 3; 140-8755 Faro 4, 140-8756 Faro 5.\n\nDel predio La Gloria (140-3734) se derivaron los folios 140-140-8753 Faro 2; 140-8757 Faro 6; 140-8758 Faro 7; 140-8751 El Faro y 140-8755 Faro 4.\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\nLinderos y colindancias\n\n<fcel>NORTE:<fcel>Partiendo desde el punto 66066 en linea recta en dirección nororiental hasta llegar al punto 86003 con una distancia de 389,73 metros con Hugo Ríos<nl><fcel>ORIENTE:<fcel>Partiendo desde el punto 86003 pasando por los puntos 32870,32871, hasta llegar al punto 32868 con una distancia de 397,8 metros con Alejandro Morales<nl><fcel>SUR:<fcel>Partiendo desde el punto 32868 en linea recta en dirección Suroccidente hasta llegar al punto 66059 con una distancia de 401,09 metros con Alejandro Morales<nl><fcel>OCCIDENTE:<fcel>Partiendo desde el punto 66059 en linea recta en dirección Noroccidente, hasta llegar al punto 66066 con una distancia de 374,24 con José Luis Negrete<nl>\n\n[Documento Relevante 5]\n\nNOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, transfiera el derecho de 1/5 parte que le corresponde sobre el predio denominado EL FARO GRUPO 5 LA ESPERANZA de 72 hectáreas 8.500 m², ubicado en el corregimiento El Faro,\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "RESTITUYE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.738,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 41,
+        "content_preview": "\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.676,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.662,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 239,
+        "content_preview": "\n## 6.4.4. Sin Costas En Esta Instancia.\n\n<--- Page Split --->\n\n6. 4.5. Finalmente, se advertirá a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que, para el cumplim..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.637,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 222,
+        "content_preview": "\n\\( ^{64} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 14:57 a 15:20.\n\n<--- Page Split --->\n\nA partir de lo anterior..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.62,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 40,
+        "content_preview": "\nLas pruebas específicas del caso corresponden a las allegadas y peticionadas en el escrito de contradicción.\n\n## 2.4. Etapa Probatoria.\n\n<--- Page Split --->\n\nPor auto del 04 de mayo de 2018 \\( ^{14}..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente; entre otras que consideró pertinente decretar.\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n3. 2. Nulidades. No se advierte ningún vicio que pueda invalidar lo actuado dentro del presente trámite.\n\n\n[Documento Relevante 2]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 3]\n\n## 6.4.4. Sin Costas En Esta Instancia.\n\n<--- Page Split --->\n\n6. 4.5. Finalmente, se advertirá a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que, para el cumplimiento de éstas, deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011.\n\n## 7. FALLO\n\n\n[Documento Relevante 4]\n\n\\( ^{64} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 14:57 a 15:20.\n\n<--- Page Split --->\n\nA partir de lo anterior, el artículo 97 de la citada Ley 1448 teniendo como eje el concepto de “imposibilidad”, enunció indistintamente como “compensaciones en especie” cuatro eventos de aplicación, los cuales en modo alguno pueden tenerse como taxativos, por cuanto el interés de la Ley es el desarrollo de un derecho ius fundamental, cual es la reparación de las víctimas del conflicto interno, como se ha dejado establecido.\n\n[Documento Relevante 5]\n\nLas pruebas específicas del caso corresponden a las allegadas y peticionadas en el escrito de contradicción.\n\n## 2.4. Etapa Probatoria.\n\n<--- Page Split --->\n\nPor auto del 04 de mayo de 2018 \\( ^{14} \\) el juez instructor, reconoció como opositor a MAGALDY ENRIQUE JIMÉNEZ DORIA y en el mismo acto procesal, decretó las pruebas solicitadas por los intervinientes, entre otras determinadas de oficio, las que luego de recaudadas, ordenó la remisión de las diligencias a este Tribunal para la continuación del trámite de que trata la Ley 1448 de 2011.\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.607,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.577,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 41,
+        "content_preview": "\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.564,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 240,
+        "content_preview": "\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombr..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.563,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 147,
+        "content_preview": "\n41 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 7:02 a 8:28;\n\n42 Documento 18 Portal de Restitución de Tierras para la..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.56,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 43,
+        "content_preview": "\n3. 4. Requisito de Procedibilidad. En cumplimiento de lo dispuesto en el artículo 76 de la Ley 1448 de 2011, la Unidad con su escrito de solicitud, allegó la constancia CR00121 del 13 de febrero de 2..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 2]\n\n## 2.5. Fase De Decisión (fallo)\n\nPor auto del 20 de junio de 2018 \\( ^{15} \\) , esta Sala dispuso avocar el conocimiento del proceso de la referencia y tener como pruebas las aportadas al expediente; entre otras que consideró pertinente decretar.\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n3. 2. Nulidades. No se advierte ningún vicio que pueda invalidar lo actuado dentro del presente trámite.\n\n\n[Documento Relevante 3]\n\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\nRESUELVE:\n\n\n[Documento Relevante 4]\n\n41 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 7:02 a 8:28;\n\n42 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 9:04 a 9:15; 11:20 a 11:58; 16:08 a 18:41.\n\n43 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 6:44 a 12:00.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\n3. 4. Requisito de Procedibilidad. En cumplimiento de lo dispuesto en el artículo 76 de la Ley 1448 de 2011, la Unidad con su escrito de solicitud, allegó la constancia CR00121 del 13 de febrero de 2018 \\( ^{16} \\) , a través de la cual se certifica la inscripción en el Registro de Tierras Despojadas y Abandonadas Forzosamente del predio objeto de reclamación.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"JULIO CESAR\", \"segundo_nombre\": null, \"primer_apellido\": \"HERNÁNDEZ\", \"segundo_apellido\": \"TORDECILLA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"EUNICE\", \"segundo_nombre\": null, \"primer_apellido\": \"DEL CASTILLO\", \"segundo_apellido\": \"SIERRA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ELIGIO\", \"segundo_nombre\": \"MANUEL\", \"primer_apellido\": \"MERCADO\", \"segundo_apellido\": \"BENÍTEZ\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ALFREDO\", \"segundo_nombre\": \"BALLESTEROS\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MICAELA\", \"segundo_nombre\": \"MADERA\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ALEJANDRO\", \"segundo_nombre\": \"MORALES\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"EDUARDO\", \"segundo_nombre\": \"PACHECO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ELADINO\", \"segundo_nombre\": \"GARCÍA\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUIS\", \"segundo_nombre\": \"ENRIQUE\", \"primer_apellido\": \"NÚÑEZ\", \"segundo_apellido\": \"LUNA\", \"numero_documento\": \"8.515.030\", \"rol\": \"titular\"}, {\"primer_nombre\": \"PEDRO\", \"segundo_nombre\": \"PABLO\", \"primer_apellido\": \"CORREA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JULIO\", \"segundo_nombre\": \"MANUEL\", \"primer_apellido\": \"MARTÍNEZ\", \"segundo_apellido\": \"MORALES\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"NERYS\", \"segundo_nombre\": \"RAQUEL\", \"primer_apellido\": \"MERCADO\", \"segundo_apellido\": \"PÉREZ\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"VICTOR\", \"segundo_nombre\": \"UDELIO\", \"primer_apellido\": \"ROSARIO\", \"segundo_apellido\": \"SARMIENTO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUIS\", \"segundo_nombre\": \"FELIPE\", \"primer_apellido\": \"BLANCO\", \"segundo_apellido\": \"CASTILLO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ANGELICA\", \"segundo_nombre\": \"MARÍA\", \"primer_apellido\": \"GUERRA\", \"segundo_apellido\": \"RAMOS\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FRANCISCO\", \"segundo_nombre\": \"MANUEL\", \"primer_apellido\": \"ARROYO\", \"segundo_apellido\": \"CABALLERO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"SIGIFREDO\", \"segundo_nombre\": \"BRAVO\", \"primer_apellido\": \"PERTUZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MAGALDY\", \"segundo_nombre\": \"ENRIQUE\", \"primer_apellido\": \"JIMÉNEZ\", \"segundo_apellido\": \"DORIA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"DEYANIRA\", \"segundo_nombre\": \"DE JESÚS\", \"primer_apellido\": \"JIMÉNEZ\", \"segundo_apellido\": \"DORIA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSÉ MIGUEL\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"ARGUMEDO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JONÁS\", \"segundo_nombre\": \"GONZÁLEZ\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FELIPE\", \"segundo_nombre\": \"BLANCO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FRANCISCO\", \"segundo_nombre\": \"ARROYO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"VICTOR\", \"segundo_nombre\": \"ROSARIO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"RAFAEL\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ESTEBANA\", \"segundo_nombre\": \"MARÍA\", \"primer_apellido\": \"NERIO\", \"segundo_apellido\": \"BRAVO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"AMADO\", \"segundo_nombre\": null, \"primer_apellido\": \"DURÁN\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"GONZÁLEZ\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MIGUEL\", \"segundo_nombre\": null, \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"SALVADORIA\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FELIPE\", \"segundo_nombre\": null, \"primer_apellido\": \"BLANCO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSÉ\", \"segundo_nombre\": null, \"primer_apellido\": \"VILORA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LOS\", \"segundo_nombre\": null, \"primer_apellido\": \"CASTAÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUIS ENRIQUE\", \"segundo_nombre\": null, \"primer_apellido\": \"NÚÑEZ\", \"segundo_apellido\": \"LUNA\", \"numero_documento\": null, \"rol\": \"titular\"}, {\"primer_nombre\": \"ESTEBANA MARÍA\", \"segundo_nombre\": null, \"primer_apellido\": \"NERIO BRAVO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FRANCISCO MANUEL\", \"segundo_nombre\": null, \"primer_apellido\": \"PASTRANA ROSARIO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSE\", \"segundo_nombre\": \"MIGUEL\", \"primer_apellido\": \"SÁNCHEZ\", \"segundo_apellido\": \"ARGUMEDO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MIGUEL\", \"segundo_nombre\": \"SÁNCHEZ\", \"primer_apellido\": \"ARGUMEDO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"DEYANIRA\", \"segundo_nombre\": null, \"primer_apellido\": \"JIMENEZ\", \"segundo_apellido\": \"DORIA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"MAGALDY\", \"segundo_nombre\": null, \"primer_apellido\": \"ENRIQUE\", \"segundo_apellido\": \"JIMÉNEZ DORIA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ESTEBENA\", \"segundo_nombre\": \"MARÍA\", \"primer_apellido\": \"NERIO\", \"segundo_apellido\": \"BRAVO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Luis Alejandro\", \"segundo_nombre\": null, \"primer_apellido\": \"JIMÉNEZ\", \"segundo_apellido\": \"CASTELLANOS\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"YENIS DE JESÚS\", \"segundo_nombre\": null, \"primer_apellido\": \"ROJAS\", \"segundo_apellido\": \"VILORIA\", \"numero_documento\": \"50.859.470\", \"rol\": \"conyuge\"}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[{\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"EL FARO GRUPO 5 LA ESPERANZA\", \"predio_rural\": true, \"matricula\": \"140-37410\", \"circulo\": \"140\", \"numero_predial\": null, \"departamento\": \"Córdoba\", \"municipio\": \"Valencia\", \"vereda\": \"El Faro\", \"corregimiento\": \"El Faro\", \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"149242\", \"area_terreno_hec\": \"14.9242\", \"id_unidad_terreno_fuente\": 3304, \"nota\": \"Predio objeto de restitución y compensación (14 has 9.242 mts²). El folio de matrícula inmobiliaria 140-37410 se cita en antecedentes como el de la ocupación anterior, pero el texto no vincula explícitamente ese folio con el predio restituido.\", \"folio\": \"37410\"}, {\"tipo_predio\": \"referencia\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": true, \"matricula\": \"232-7079\", \"circulo\": \"232\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"100000\", \"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": \"Predio histórico de la familia del solicitante (10 hectáreas), mencionado en antecedentes; no es objeto de restitución.\", \"folio\": \"7079\"}]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.732,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 237,
+        "content_preview": "\n6. 4.2. Se ordenará al Instituto Geográfico Agustín Codazzi- IGAC y a la Oficina de registro de instrumentos públicos de Montería, que en coordinación con la Unidad de Restitución de Tierras, conform..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.731,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 267,
+        "content_preview": "\nDÉCIMO: ORDENAR al Instituto Geográfico Agustín Codazzi- IGAC y a la Oficina de registro de instrumentos públicos de Montería, que en coordinación con la Unidad de Restitución de Tierras, conforme al..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.658,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 115,
+        "content_preview": "\n35 Documento 04 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea.\n\n<--- Page Split --->\n\n## 4.6. La Relación Del Solicitante Con La Tierra.\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.642,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 254,
+        "content_preview": "\n7. 6. Concluida la gestión de compensación aquí ordenada la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, dará cuenta de ella, allegando copia autentica del instrume..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.64,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 256,
+        "content_preview": "\na) Registrar la presente sentencia en la matrícula inmobiliaria 140-37410; así como la actualización del área y los linderos de la parcela restituida, teniendo en cuenta el informe técnico predial -I..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.634,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 240,
+        "content_preview": "\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombr..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.611,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 228,
+        "content_preview": "\n66 Documento 04, pág. 114 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{67} \\) por medio del cual se expide el Decreto Unico Reglamentario del Sector Adminis..."
+      },
+      {
+        "rank": 8,
+        "similarity": 0.609,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 22,
+        "content_preview": "\n7 Presentada el 09 de marzo de 2018.\n\n<--- Page Split --->\n\nde marzo de 2018⁸, la admitió disponiendo entre otras medidas: su inscripción en la oficina de registro de instrumentos públicos (folio de ..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.606,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 82,
+        "content_preview": "\n26 Documento 4 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 10,
+        "similarity": 0.605,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 139,
+        "content_preview": "\n37 Folio 67 C2 y Documento 17 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{38} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos ..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.603,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 168,
+        "content_preview": "\nAsí entonces, acreditada encuentra la Sala que en la adquisición del fundo, el opositor dejó de lado la realización de averiguaciones necesarias para determinar\n\n46 Documento 18 Portal de Restitución..."
+      },
+      {
+        "rank": 12,
+        "similarity": 0.596,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 94,
+        "content_preview": "\n27 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 4:10 a 9:11; 11:42, 11:53.\n\n28 Documento 18 Portal de Restitución de T..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.596,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 188,
+        "content_preview": "\n53 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 32:18 a 33:08 y 37:04 a 39:07.\n\n54 Corte Suprema de Justicia, Sala de ..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.594,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 43,
+        "content_preview": "\n3. 4. Requisito de Procedibilidad. En cumplimiento de lo dispuesto en el artículo 76 de la Ley 1448 de 2011, la Unidad con su escrito de solicitud, allegó la constancia CR00121 del 13 de febrero de 2..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.591,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 195,
+        "content_preview": "\n56 Documento 04 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n57 Folio 47 a 49 C2 y Documento 15 Portal de Restitución de Tierras para la Gestión de Procesos Judi..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.591,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 236,
+        "content_preview": "\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales s..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.584,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 46,
+        "content_preview": "\n\\( ^{16} \\) Documento 4 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n\nPara abordar la solución del problema jurídico planteado, la Sala, est..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.583,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 3,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\nProcede la Sala a dictar sentencia, de conformidad con el trámite establecido en ..."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.582,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 211,
+        "content_preview": "\nPor lo anterior, esta Sala especializada en restitución de tierras, le ordenará a la AGENCIA NACIONAL DE HIDROCARBUROS – ANH-, o a la autoridad competente para el efecto, que excluya inmediatamente e..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.578,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 147,
+        "content_preview": "\n41 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 7:02 a 8:28;\n\n42 Documento 18 Portal de Restitución de Tierras para la..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.575,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 111,
+        "content_preview": "\n4. 5.2. Además de lo anterior, obra la certificación sobre la inclusión del solicitante y su respectivo predio en el Registro de Tierras despojadas y abandonadas, habiendo sido relacionada en el recu..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.572,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{9} \\) Documento 9 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{10} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judicia..."
+      },
+      {
+        "rank": 23,
+        "similarity": 0.571,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 260,
+        "content_preview": "\nNOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, t..."
+      },
+      {
+        "rank": 24,
+        "similarity": 0.567,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 45,
+        "content_preview": "\n\\( ^{14} \\) Documento 23 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{15} \\) Documento 3 Portal de Restitución de Tierras para la Gestión de Procesos Judici..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.564,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 227,
+        "content_preview": "\n6. 3.2. La compensación en favor de LUIS ENRIQUE NÚÑEZ LUNA y su consorte se hará observando la cabida superficiaria que para el momento del despojo (1999) detentaban, según georreferenciación, de un..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.556,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 107,
+        "content_preview": "\n## 4.5. Aspectos Adicionales A La Calidad De Víctima Del Solicitante.\n\n31 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto..."
+      },
+      {
+        "rank": 27,
+        "similarity": 0.555,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 58,
+        "content_preview": "\n## 4. El CASO CONCRETO.\n\nDe las premisas anteriores, la Sala abordará el estudio de la solicitud, abarcando para tal efecto: i. El contexto de violencia (general y especial); ii. Verificación de la c..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.553,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 109,
+        "content_preview": "\n\\( ^{34} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 8:56; 13:40 a 14:27.\n\n<--- Page Split --->\n\nAl analizar el ma..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.553,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 68,
+        "content_preview": "\nA folio 189 C1, obra oficio DPRC 5007-0527 de fecha 11 de marzo de 2013, suscrito por la Defensora del Pueblo Regional de Córdoba con destino a la Unidad de Restitución de Tierras de Córdoba, a travé..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.549,
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 95,
+        "content_preview": "\n28 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 5:13 a 5:249; 9:11 a 9:16; ; 9:31 a 9:50;\n\n<--- Page Split --->\n\nentre..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 0,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 1,
+        "content_preview": "# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fc..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "23001312100120180003701_1792712546",
+        "chunk_index": 2,
+        "content_preview": "\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n"
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n6. 4.2. Se ordenará al Instituto Geográfico Agustín Codazzi- IGAC y a la Oficina de registro de instrumentos públicos de Montería, que en coordinación con la Unidad de Restitución de Tierras, conforme al art. 96 de la Ley 1448 de 2011 y en concordancia con el procedimiento previsto en el artículo 59 incisos 2 y 5 de la Ley 1579 de 2012 y demás normas complementarias, procedan a actualizar y unificar sus bases de datos catastrales y registrales, teniendo como derrotero la identificación e individualización realizada por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas a través de los Informes Tecnico Prediales (ITP), los informes técnicos de georreferenciación (ITG) y los archivos digitales cartográficos en formato shape (SHP). En caso de inconsistencias, deberán estarse a lo probado en esta sentencia.\n\n[Documento Relevante 2]\n\nDÉCIMO: ORDENAR al Instituto Geográfico Agustín Codazzi- IGAC y a la Oficina de registro de instrumentos públicos de Montería, que en coordinación con la Unidad de Restitución de Tierras, conforme al art. 96 de la Ley 1448 de 2011 y en concordancia con el procedimiento previsto en el artículo 59 de inciso 2 y 5 de la Ley 1579 de 2012 y demás normas complementarias, procedan a actualizar y unificar sus bases de datos catastrales y registrales, teniendo como derrotero la identificación e individualización realizada por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas a través de los Informes Tecnico Prediales (ITP), los informes técnicos de georreferenciación (ITG) y los archivos digitales cartográficos en formato shape (SHP). En caso de inconsistencias, deberán estarse a lo probado en esta sentencia.\n\n[Documento Relevante 3]\n\n35 Documento 04 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea.\n\n<--- Page Split --->\n\n## 4.6. La Relación Del Solicitante Con La Tierra.\n\n\n[Documento Relevante 4]\n\n7. 6. Concluida la gestión de compensación aquí ordenada la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, dará cuenta de ella, allegando copia autentica del instrumento público otorgado y el respectivo folio de matrícula inmobiliaria.\n\n\n[Documento Relevante 5]\n\na) Registrar la presente sentencia en la matrícula inmobiliaria 140-37410; así como la actualización del área y los linderos de la parcela restituida, teniendo en cuenta el informe técnico predial -ITP levantado por la Unidad de Tierras.\n\n\n[Documento Relevante 6]\n\n## 7. FALLO\n\nEn mérito de lo expuesto, el Tribunal Superior del Distrito Judicial de Antioquia, Sala Primera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República y por autoridad de la Ley,\n\nRESUELVE:\n\n\n[Documento Relevante 7]\n\n66 Documento 04, pág. 114 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{67} \\) por medio del cual se expide el Decreto Unico Reglamentario del Sector Administrativo Agropecuario. Pesquero y de Desarrollo Rural.\n\n<--- Page Split --->\n\n\n[Documento Relevante 8]\n\n7 Presentada el 09 de marzo de 2018.\n\n<--- Page Split --->\n\nde marzo de 2018⁸, la admitió disponiendo entre otras medidas: su inscripción en la oficina de registro de instrumentos públicos (folio de matrícula inmobiliaria 140-37410); la sustracción provisional del comercio de los inmuebles afectados; la suspensión de los procesos declarativos de derechos reales y su comunicación a las autoridades pertinentes, las publicaciones de rigor, la notificación y traslado a la Agencia Nacional de Tierras en razón a que el INCORA adjudicó y el beneficiario no registró en instrumentos públicos, el emplazamiento de PEDRO PABLO CORREA, JULIO MANUEL MARTÍNEZ MORALES, NERYS RAQUEL MERCADO PÉREZ, VICTOR UDELIO ROSARIO SARMIENTO, LUIS FELIPE BLANCO CASTILLO, ANGELICA MARÍA GUERRA RAMOS, FRANCISCO MANUEL ARROYO CABALLERO, SIGIFREDO BRAVO PERTUZ, en su calidad de titulares de dominio inscritos en el folio con matrícula inmobiliaria 140-37410. En el mismo proveído, ordenó el traslado a MAGALDY ENRIQUE JIMÉNEZ DORIA y DEYANIRA DE JESÚS JIMÉNEZ DORIA, en razón a que se encuentran habitando y ocupando el predio objeto de restitución.\n\n[Documento Relevante 9]\n\n26 Documento 4 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n\n\n[Documento Relevante 10]\n\n37 Folio 67 C2 y Documento 17 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{38} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 11:20 a 12:23; 13:36 a 14:20; 15:24 a 15:33; 15:54; 16:35 a 16:51.\n\n\\( ^{39} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 17:38; 19:47; 22:00 a 22:17.\n\n\n[Documento Relevante 11]\n\nAsí entonces, acreditada encuentra la Sala que en la adquisición del fundo, el opositor dejó de lado la realización de averiguaciones necesarias para determinar\n\n46 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 27:32.\n\n47 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 8:13.\n\nPágina 27 de 46\n\n<--- Page Split --->\n\n\n[Documento Relevante 12]\n\n27 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 4:10 a 9:11; 11:42, 11:53.\n\n28 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 5:13 a 5:249; 9:11 a 9:16; ; 9:31 a 9:50;\n\n<--- Page Split --->\n\n\n[Documento Relevante 13]\n\n53 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 32:18 a 33:08 y 37:04 a 39:07.\n\n54 Corte Suprema de Justicia, Sala de Casación Civil. Providencia de 18 de noviembre de 1949, G.J. Tomo XLIV, páginas 799 a 802\n\n<--- Page Split --->\n\n## 5.8.1. Las Presunciones A Aplicar En El Caso Específico.\n\n\n[Documento Relevante 14]\n\n3. 4. Requisito de Procedibilidad. En cumplimiento de lo dispuesto en el artículo 76 de la Ley 1448 de 2011, la Unidad con su escrito de solicitud, allegó la constancia CR00121 del 13 de febrero de 2018 \\( ^{16} \\) , a través de la cual se certifica la inscripción en el Registro de Tierras Despojadas y Abandonadas Forzosamente del predio objeto de reclamación.\n\n\n[Documento Relevante 15]\n\n56 Documento 04 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n57 Folio 47 a 49 C2 y Documento 15 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n\n\n[Documento Relevante 16]\n\n## 6.4. Medidas Complementarias A La Restitución.\n\n6. 4.1. Esta Sala en la parte resolutiva especificará las órdenes a la Oficina de Registro de Instrumentos Públicos de Montería (Cór.), las cuales serán acordes con el sentido del fallo que se está adoptando.\n\n\n[Documento Relevante 17]\n\n\\( ^{16} \\) Documento 4 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n\nPara abordar la solución del problema jurídico planteado, la Sala, estudiará inicialmente el contexto normativo de aplicación a este asunto, para proceder posteriormente al de presupuestos axiológicos de la acción y los supuestos de hecho de las presunciones, como la valoración probatoria para el caso sub judice.\n\n## 3.6. Protección Constitucional (reiteración).\n\n\n[Documento Relevante 18]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\nProcede la Sala a dictar sentencia, de conformidad con el trámite establecido en el capítulo IV de la Ley 1448 de 2011, con respecto a la solicitud de formalización y restitución de tierras despojadas, presentada por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas-Dirección Territorial Antioquia (en adelante LA UNIDAD) en favor de LUIS ENRIQUE NUÑEZ LUNA; proceso que fue instruido por el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Montería (Cór.).\n\n[Documento Relevante 19]\n\nPor lo anterior, esta Sala especializada en restitución de tierras, le ordenará a la AGENCIA NACIONAL DE HIDROCARBUROS – ANH-, o a la autoridad competente para el efecto, que excluya inmediatamente el área de terreno objeto de reclamación georreferenciada en 14 has 9.242 mts2, ubicada en la vereda El Faro, corregimiento con igual denominación del municipio de Valencia Cór., de cualquier contrato de evaluación, explotación y/o exploración y demás permisos, concesiones y autorizaciones para el aprovechamiento de los recursos naturales que se hubieren otorgado o se llegaren a otorgar con posterioridad al despojo u abandono del predio objeto de reclamación; sin perjuicio de las acciones legales, sociales y ambientales posteriores que deberán realizar la agencia y/o el contratista en el evento de que el predio restituido deba afectarse [en virtud de un contrato suscrito].\n\n[Documento Relevante 20]\n\n41 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 7:02 a 8:28;\n\n42 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 9:04 a 9:15; 11:20 a 11:58; 16:08 a 18:41.\n\n43 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 6:44 a 12:00.\n\n<--- Page Split --->\n\n\n[Documento Relevante 21]\n\n4. 5.2. Además de lo anterior, obra la certificación sobre la inclusión del solicitante y su respectivo predio en el Registro de Tierras despojadas y abandonadas, habiendo sido relacionada en el recuadro 3.3. del presente proveído, denominado requisito de Procedibilidad.\n\n\n[Documento Relevante 22]\n\n\\( ^{9} \\) Documento 9 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{10} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{11} \\) Documento 12 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{12} \\) Documento 20, 21 y 22 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n\n\n[Documento Relevante 23]\n\nNOVENO: ORDENAR a LUIS ENRIQUE NÚÑEZ LUNA identificado con la CC 8.515.030, que una vez registrada la presente sentencia, junto con la inscripción de la Resolución N°.01059 del 22 de julio de 1991, transfiera el derecho de 1/5 parte que le corresponde sobre el predio denominado EL FARO GRUPO 5 LA ESPERANZA de 72 hectáreas 8.500 m², ubicado en el corregimiento El Faro,\n\n<--- Page Split --->\n\n\n[Documento Relevante 24]\n\n\\( ^{14} \\) Documento 23 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\\( ^{15} \\) Documento 3 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea-Trámite en el Despacho.\n\n\\( ^{16} \\) Documento 4 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n<--- Page Split --->\n\n\n[Documento Relevante 25]\n\n6. 3.2. La compensación en favor de LUIS ENRIQUE NÚÑEZ LUNA y su consorte se hará observando la cabida superficiaria que para el momento del despojo (1999) detentaban, según georreferenciación, de un área superficiaria de 14 hectáreas 9.242 mts², la cual hace parte del predio denominado EL FARO GRUPO 5 LA ESPERANZA de 72 hectáreas 8.500 m², ubicado en la en el corregimiento El Faro,\n\n66 Documento 04, pág. 114 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea.\n\n\n[Documento Relevante 26]\n\n## 4.5. Aspectos Adicionales A La Calidad De Víctima Del Solicitante.\n\n31 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 20:18 a 20:31; 23:11 a 23:44 y 27:32; 28:43 a 30:21.\n\n\\( ^{32} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 7:14 a 8:28; 10:17 a 10:30; 11:20 a 11:58.\n\n\n[Documento Relevante 27]\n\n## 4. El CASO CONCRETO.\n\nDe las premisas anteriores, la Sala abordará el estudio de la solicitud, abarcando para tal efecto: i. El contexto de violencia (general y especial); ii. Verificación de la calidad de víctima del solicitante; iii. La vinculación o relación del solicitante con el predio y iv. La temporalidad de los hechos y su interrelación con la Ley de víctimas. Para luego examinar la buena fe exenta de culpa planteada por el opositor, la configuración de las presunciones de que trata el artículo 77 de la Ley 1448 de 2011 y como último, las conclusiones del caso.\n\n[Documento Relevante 28]\n\n\\( ^{34} \\) Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en línea- Trámite en el Despacho, minuto 8:56; 13:40 a 14:27.\n\n<--- Page Split --->\n\nAl analizar el material probatorio que milita en el expediente, se tiene que aparte de contar con las versiones esbozadas en el acápite anterior, también se encuentran pruebas documentales que permiten acreditar la calidad de víctima del conflicto armado tanto del reclamante como de su grupo familiar.\n\n\n[Documento Relevante 29]\n\nA folio 189 C1, obra oficio DPRC 5007-0527 de fecha 11 de marzo de 2013, suscrito por la Defensora del Pueblo Regional de Córdoba con destino a la Unidad de Restitución de Tierras de Córdoba, a través del cual informa el conocimiento de situaciones de violencia en el Municipio de Valencia. En el aludido documento, se dijo que:\n\n\n[Documento Relevante 30]\n\n28 Documento 18 Portal de Restitución de Tierras para la Gestión de Procesos Judiciales en linea- Trámite en el Despacho, minuto 5:13 a 5:249; 9:11 a 9:16; ; 9:31 a 9:50;\n\n<--- Page Split --->\n\nentre otros parceleros de GUADUA, agregando que “por ahí hubo varios muertos”, que se oía nombrar por muchos, a LOS CASTAÑO como “las personas que daban con el balín” desconociendo qué buscaba esa gente por allí, pero si oía que compraban muchas parcelas; que de donde él vivía, también salieron unos señores por miedo, como AMADO DURÁN, quien le vendió a un señor GONZÁLEZ y se fue para EL JUBO \\( ^{29} \\) .\n\n[Contexto Base 1 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n\n[Contexto Base 2 - PRIORITARIO]\n# TRIBUNAL SUPERIOR De ANTIOQUIA\n\n- Lugar y fecha: Medellín, trece (13) de diciembre dos mil diecinueve (2019)\n- <fcel>sentencia No.<ecel><nl><fcel>radicado: <fcel>23001-31-21-001-2018-00037-00<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras.<nl><fcel>solicitante (s):<fcel>Luis Enrique Núñez Luna.<nl><fcel>Opositor (es):<fcel>Magaldy Enrique Jiménez Doria.<nl><fcel>Sinopsis:<fcel>En el presente asunto se amparó el derecho fundamental a la restitución de tierras del reclamante a quien se le compensó por equivalencia, en tanto que al contradictor se le declaró impróspera la oposición planteada, sin reconocimiento de la calidad de segundo ocupante.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCION DE TIERRAS\n\nSALA PRIMERA\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nMagistrado Ponente\n\n"
+  }
+}

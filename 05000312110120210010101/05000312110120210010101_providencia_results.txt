@@ -1,0 +1,1086 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\nPRIMERO: DECLARAR impróspera la oposición formulada por JOSÉ GILBERTO VILLA VALENCIA acorde con lo analizado en la parte motiva de esta providencia.\n\nNo se reconoce compensación económica.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "\nPRIMERO: DECLARAR impróspera la oposición formulada por JOSÉ GILBERTO VILLA VALENCIA acorde con lo analizado en la parte motiva de esta providencia.\n\nNo se reconoce compensación económica.\n\nSEGUNDO: RECONOCER la calidad de segundo ocupante a JOSÉ GILBERTO VILLA VALENCIA, identificado con la cédula de ciudadanía n°. 1.037.544.445, en consecuencia, se ordena mantener la titularidad en proindiviso del predio que aquí se restituye, según lo motivado.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "\nTERCERO: RECONOCER la calidad de segundo ocupante a GLORIA ALBANY MESA COLORADO, identificada con la cédula de ciudadanía n°. 43.182.213, en consecuencia, se ordena mantener la titularidad en proindiviso del predio que aquí se restituye, conforme a la parte motiva de esta providencia.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_4": {
+    "pregunta": "CUARTO:",
+    "respuesta": "\nCUARTO: NO RECONOCER la calidad de segunda ocupante a CLAUDIA OROZCO SÁNCHEZ, identificada con la cédula de ciudadanía n°. 1.027.886.155, por no los requisitos fijados por el legislador ni la Corte Constitucional en la materia, según lo motivado.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "QUINTO: Como consecuencia de la protección del derecho, se dispone que la restitución se haga a través de compensación por equivalencia a cargo del Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, como se precisa a continuación.\n\nLa compensación será por equivalencia a favor de los reclamantes, para lo cual el Grupo Fondo de Restitución de Tierras y Territorios - GFRTT de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, a través de su Grupo de Trabajo de Evaluación de la Restitución, determinará el valor de la equivalencia, de conformidad con lo establecido en el artículo 10 de la Ley 1437 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "\nPara el efecto, se le otorga al Fondo de la UAEGRTD un término de cuatro (4) meses contados a partir de la recepción del nuevo avalúo, para realizar la compensación ordenada, de lo cual rendirá un informe detallado de las actividades desplegadas para el cumplimiento de lo ordenado y con la participación de los señores BEDOYA DE MEJÍA y MEJÍA LOAIZA.\n\nSEXTO: El predio que se ordena compensar se identifica e individualiza como a continuación se describe:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_7": {
+    "pregunta": "SÉPTIMO:",
+    "respuesta": "\nSÉPTIMO: ORDENAR al Instituto Geográfico Agustín Codazzi (IGAC) —Subdirección de Catastro GIT de Avalúos— realizar un avalúo al predio objeto de la acción, acorde con lo indicado en la parte considerativa de esta providencia para lo cual contará con el término no superior a un (1) mes.\n\nOCTAVO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR esta sentencia en el FMI n.° 028-25992 en los términos acá indicados.\n\nb) . Actualice la cuota parte proindivisa (porcentaje) de los titulares. JOSÉ GILBERTO VILLA VALENCIA 50% y GLORIA ALBANY MESA COLORADO 50%.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "\nc) . CANCELAR en el citado FMI las medidas cautelares ordenadas por el juzgado instructor.\n\nA la ORIP se le conceden quince (15) días para acatar lo dispuesto.\n\nDÉCIMO: ORDENAR a la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas – UARIV que formule y aplique en favor de los reclamantes y su grupo familiar, el Plan de Asistencia, Atención y Reparación Integral (PAARI), de manera articulada con las distintas entidades que conforman el Sistema Nacional de Atención y Reparación a las Víctimas - SNARIV, según lo preceptuado los artículos 66, parágrafo 1°, y 159 a 161 de la Ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "\nPara lo anterior se concede el término de quince (15) días contados a partir de la notificación de esta sentencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Alcaldía Municipal de Sonsón- Antioquia, o al municipio donde se entregue el predio en compensación, a través de las siguientes dependencias o las que correspondan:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_12": {
+    "pregunta": "DÉCIMO SEGUNDO:",
+    "respuesta": "\nPara el cumplimiento de estas órdenes se dispone del término máximo de un (1) mes siguiente a la notificación de la sentencia.\n\nDÉCIMO SEGUNDO: ORDENAR al Servicio Nacional de Aprendizaje - SENA, a través de la regional que corresponda, según lo dispuesto por el artículo 130 de la Ley 1448 de 2011, comunicarle al grupo familiar ya descrito su oferta institucional. Y de acuerdo con su voluntad, los inscriba en los programas y proyectos de capacitación, formación y acceso al empleo.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "\nLo anterior deberá acreditarlo cumplido en un término inicial de quince (15) días.\n\nDÉCIMO TERCERO: EXHORTAR a los reconocidos segundos ocupantes JOSÉ GILBERTO VILLA VALENCIA y GLORIA ALBANY MESA COLORADO, para que realicen buen uso y respeten la zona de la faja de retiro del afluente aledaño el predio, conforme a lo expuesto en la parte motiva.\n\nDÉCIMO CUARTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_15": {
+    "pregunta": "DÉCIMO QUINTO:",
+    "respuesta": "\nDÉCIMO CUARTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n\nDÉCIMO QUINTO: CONMINAR a los destinatarios de las órdenes impartidas en esta sentencia para que las cumplan oportunamente so pena de incurrir en falta gravísima, según lo prevé el parágrafo 3º del art. 91 de la Ley 1448 de 2011, y en sus actuaciones den aplicación a los principios de enfoque diferencial y colaboración armónica previstos en los artículos 13, 26 y 161 de la citada ley.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_16": {
+    "pregunta": "DÉCIMO SEXTO:",
+    "respuesta": "DÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "0",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.523,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 294,
+        "content_preview": "\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.46,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 241,
+        "content_preview": "\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerab..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.459,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 201,
+        "content_preview": "\n81 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se d..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.457,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 198,
+        "content_preview": "\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\nComo regla general, en el proceso de restitución de..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.446,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 275,
+        "content_preview": "\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR esta sentencia en el FMI n.° 028-25992 en los términos acá indicados.\n\nb) . Actualice la cuota parte proindivisa (porcentaje) de los titulares. JOSÉ GILBERTO VILLA VALENCIA 50% y GLORIA ALBANY MESA COLORADO 50%.\n\n\n[Documento Relevante 2]\n\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerabilidad en los que se puedan encontrar y\n\n92 Ibidem\n\n93 Sentencia C-330 de 2016\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n81 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se daba cuando estos «también hayan sido reconocidos como desplazados o despojados del mismo predio».\n\n\n[Documento Relevante 4]\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\nComo regla general, en el proceso de restitución de tierras se les exige a los opositores probar una conducta calificada llamada «buena fe exenta de culpa» para efectos del pago de las compensaciones,\\(^{82}\\) exigencia que alude a un parámetro de probidad y diligencia en las actuaciones al momento de adquirir u ocupar predios en un contexto de violación generalizada a los Derechos Humanos y ambiente de inseguridad y zozobra, justificado en la notoriedad de las graves y sistemáticas violaciones para el momento de las transacciones, y se traduce en que la actuación del opositor debió ir más allá de la simple prudencia que un hombre juicioso emplearía en sus negocios (buena fe simple), para romper así con los patrones de despojo y aprovechamiento derivados de la situación conflictual.\n\n[Documento Relevante 5]\n\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República de Colombia y por autoridad de la ley,\n\n## FALLA:\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.591,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 31,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.562,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 297,
+        "content_preview": "\nPara lo anterior se concede el término de quince (15) días contados a partir de la notificación de esta sentencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Alcaldía Municipal de Sonsón- Antioquia, o al municipi..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.552,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 14,
+        "content_preview": "\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 29 de octubre de 2021², ordenando las notificaciones\n\n\\( ^{2} \\) Portal de Tierra..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.547,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 32,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo \\( ^{16..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.546,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 30,
+        "content_preview": "\n## 2.3. Admisión De La Oposición Y Etapa Probatoria\n\nEl instructor admitió la oposición por auto del 25 de marzo de 2022 \\( ^{12} \\) . Posteriormente, mediante providencia del 29 de abril de ese mism..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 23 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso \\( ^{15} \\) .\n\n\n[Documento Relevante 2]\n\nPara lo anterior se concede el término de quince (15) días contados a partir de la notificación de esta sentencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Alcaldía Municipal de Sonsón- Antioquia, o al municipio donde se entregue el predio en compensación, a través de las siguientes dependencias o las que correspondan:\n\n\n[Documento Relevante 3]\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 29 de octubre de 2021², ordenando las notificaciones\n\n\\( ^{2} \\) Portal de Tierras, trámites en otros despachos, consecutivo 10, certificado (4DECE059E9B208B4662B863D1F0480526A444685DC6F873CB01210A575DBFF82).\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo \\( ^{16} \\) .\n\n12 Portal de Tierras, trámite en otros despachos, consecutivo 52, certificado (EF287BAF9CACB95522B2FEFAB06924738A6EEC0418279FD402DBC4584912FDBE).\n\n\n[Documento Relevante 5]\n\n## 2.3. Admisión De La Oposición Y Etapa Probatoria\n\nEl instructor admitió la oposición por auto del 25 de marzo de 2022 \\( ^{12} \\) . Posteriormente, mediante providencia del 29 de abril de ese mismo año le dio apertura al periodo probatorio \\( ^{13} \\) .\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.712,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 275,
+        "content_preview": "\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.677,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 31,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.675,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 241,
+        "content_preview": "\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerab..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.667,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 37,
+        "content_preview": "\n## 3.3. Problema Jurídico Y Esquema De Resolución\n\nCorresponde determinar si hay lugar a amparar el derecho fundamental a la restitución de tierras que solicita ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM D..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.659,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 305,
+        "content_preview": "\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República de Colombia y por autoridad de la ley,\n\n## FALLA:\n\n\n[Documento Relevante 2]\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 23 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso \\( ^{15} \\) .\n\n\n[Documento Relevante 3]\n\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerabilidad en los que se puedan encontrar y\n\n92 Ibidem\n\n93 Sentencia C-330 de 2016\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\n## 3.3. Problema Jurídico Y Esquema De Resolución\n\nCorresponde determinar si hay lugar a amparar el derecho fundamental a la restitución de tierras que solicita ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, respecto de un predio rural denominado «La Torre» ubicado en la vereda Sirgua Arriba del municipio de Sonsón — Antioquia, conforme con los presupuestos establecidos en la Ley 1448 de 2011.\n\n\n[Documento Relevante 5]\n\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Despojo",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.562,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 172,
+        "content_preview": "\nLo anterior, en concordancia con el artículo 78 ejusdem, de donde se obtiene que bastará con la prueba sumaria de la propiedad, posesión u ocupación «y el reconocimiento como desplazado en el proceso..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.551,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 41,
+        "content_preview": "\n\\( ^{19} \\) Sentencia T-034 de 2017.\n\n<--- Page Split --->\n\ncual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y u..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.515,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 274,
+        "content_preview": "\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.495,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 200,
+        "content_preview": "\nEn casos excepcionales esta carga probatoria se aligera o flexibiliza, por ejemplo, cuando sobre un opositor convergen condiciones que lo ponen en un plano de igualdad frente al reclamante, como cuan..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.493,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 198,
+        "content_preview": "\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\nComo regla general, en el proceso de restitución de..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLo anterior, en concordancia con el artículo 78 ejusdem, de donde se obtiene que bastará con la prueba sumaria de la propiedad, posesión u ocupación «y el reconocimiento como desplazado en el proceso judicial, o en su defecto, la prueba sumaria del despojo, para trasladar la carga de la prueba al demandado o a quienes se opongan a la pretensión de la víctima en el curso del proceso de restitución (...)», salvo que quienes se opongan también hayan sido reconocidos como desplazados o despojados del mismo predio, efecto procesal aquel que opera por ministerio de la ley a partir del momento mismo de la reclamación y durante todo el trámite judicial.\n\n[Documento Relevante 2]\n\n\\( ^{19} \\) Sentencia T-034 de 2017.\n\n<--- Page Split --->\n\ncual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y un régimen especial de presunciones basado en el contexto generalizado de violencia del lugar de ubicación del bien, ya que los mecanismos previstos en la legislación civil ordinaria resultaban inidóneos para llegar a la verdad sobre los hechos de abandono y despojo forzados de tierras y adoptar medidas reparativas en un lapso breve.\n\n[Documento Relevante 3]\n\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad con criterios diferenciados y transformadores, en la parte resolutiva se dispensará en favor de los restituidos diversas medidas de atención, asistencia y reparación contenidas en la Ley 1448 de 2011 que sean acordes con el sentido de la protección del derecho.\n\n## 3.9. Costas\n\n\n[Documento Relevante 4]\n\nEn casos excepcionales esta carga probatoria se aligera o flexibiliza, por ejemplo, cuando sobre un opositor convergen condiciones que lo ponen en un plano de igualdad frente al reclamante, como cuando reviste la calidad de víctima de abandono o despojo de tierras del mismo predio, se encuentra en estado de vulnerabilidad y no tuvo relación directa ni indirecta con el despojo o abandono de la tierra reclamada, y en ese sentido en el artículo 78 de la Ley 1448 de 2011 el legislador estableció un régimen probatorio según el cual a las víctimas les basta probar de manera sumaria los referidos presupuestos sustanciales de la restitución de tierras para trasladar la carga de la prueba a los opositores, pero también\n\n[Documento Relevante 5]\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\nComo regla general, en el proceso de restitución de tierras se les exige a los opositores probar una conducta calificada llamada «buena fe exenta de culpa» para efectos del pago de las compensaciones,\\(^{82}\\) exigencia que alude a un parámetro de probidad y diligencia en las actuaciones al momento de adquirir u ocupar predios en un contexto de violación generalizada a los Derechos Humanos y ambiente de inseguridad y zozobra, justificado en la notoriedad de las graves y sistemáticas violaciones para el momento de las transacciones, y se traduce en que la actuación del opositor debió ir más allá de la simple prudencia que un hombre juicioso emplearía en sus negocios (buena fe simple), para romper así con los patrones de despojo y aprovechamiento derivados de la situación conflictual.\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.492,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 287,
+        "content_preview": "\nSEXTO: El predio que se ordena compensar se identifica e individualiza como a continuación se describe:\n\n<fcel>Predio «La Torre»<lcel><lcel><lcel><nl><fcel>UBICACIÓN<fcel>MATRÍCULA INMOBILIARIA<fcel>..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.479,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 307,
+        "content_preview": "\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n## NOTIFÍQUESE Y CÚMPLASE\n\n## Los MAGISTRADOS,\n\n(Firmado electrónicamente)\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\n(Firmado electrónicamente)\n..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.465,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 198,
+        "content_preview": "\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\nComo regla general, en el proceso de restitución de..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.464,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 294,
+        "content_preview": "\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.463,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 272,
+        "content_preview": "\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\nDe otro lado, desde..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nSEXTO: El predio que se ordena compensar se identifica e individualiza como a continuación se describe:\n\n<fcel>Predio «La Torre»<lcel><lcel><lcel><nl><fcel>UBICACIÓN<fcel>MATRÍCULA INMOBILIARIA<fcel>REFERENCIA PREDIAL<fcel>ÁREA GEORREFERENCIADA Y RESTITUIDA<nl><fcel>Vereda Sirgua Arriba, municipio de Sonsón – Antioquia.<fcel>028-25992 de la ORIP de Sonsón<fcel>05-756-00-03-00-00-0004-0033-0-00-00-0000<fcel>1 hectárea 7.122 metros cuadrados<nl><fcel>LINDEROS Y COORDENADAS<lcel><lcel><lcel><nl>\n\n\n[Documento Relevante 2]\n\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n## NOTIFÍQUESE Y CÚMPLASE\n\n## Los MAGISTRADOS,\n\n(Firmado electrónicamente)\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\n(Firmado electrónicamente)\n\nJAVIER ENRIQUE CASTILLO CADENA\n\n(salvamento parcial de voto)\n\n(Firmado electrónicamente)\n\nPUNO ALIRIO CORREAL BELTRÁN\n\n# Firmado Electrónicamente Por El (la) Doctor(a):\n\nPUNO ALIRIO CORREAL BELTRAN\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nJAVIER ENRIQUE CASTILLO CADENA\n\nFirma Salvamento parcial de voto\n\n\n[Documento Relevante 3]\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\nComo regla general, en el proceso de restitución de tierras se les exige a los opositores probar una conducta calificada llamada «buena fe exenta de culpa» para efectos del pago de las compensaciones,\\(^{82}\\) exigencia que alude a un parámetro de probidad y diligencia en las actuaciones al momento de adquirir u ocupar predios en un contexto de violación generalizada a los Derechos Humanos y ambiente de inseguridad y zozobra, justificado en la notoriedad de las graves y sistemáticas violaciones para el momento de las transacciones, y se traduce en que la actuación del opositor debió ir más allá de la simple prudencia que un hombre juicioso emplearía en sus negocios (buena fe simple), para romper así con los patrones de despojo y aprovechamiento derivados de la situación conflictual.\n\n[Documento Relevante 4]\n\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR esta sentencia en el FMI n.° 028-25992 en los términos acá indicados.\n\nb) . Actualice la cuota parte proindivisa (porcentaje) de los titulares. JOSÉ GILBERTO VILLA VALENCIA 50% y GLORIA ALBANY MESA COLORADO 50%.\n\n\n[Documento Relevante 5]\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\nDe otro lado, desde ya se autoriza que, si agotado todo el trámite administrativo no se logra la compensación en especie, se cumpla en su modalidad dineraria, si tal es la voluntad de la restituida. De esta manera, para su desembolso, no es necesario que la Unidad acuda nuevamente a la judicatura para que la autorice mediante modulación u otros trámites que hagan más dispendiosa la garantía de los derechos de las víctimas.\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.643,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 241,
+        "content_preview": "\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerab..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.638,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 31,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.632,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 305,
+        "content_preview": "\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.606,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 275,
+        "content_preview": "\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.571,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 202,
+        "content_preview": "\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se daba cuando estos «también hayan sido reconocidos como desplazados o despojados del mismo predio».\n\nLa Cor..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerabilidad en los que se puedan encontrar y\n\n92 Ibidem\n\n93 Sentencia C-330 de 2016\n\n<--- Page Split --->\n\n\n[Documento Relevante 2]\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 23 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso \\( ^{15} \\) .\n\n\n[Documento Relevante 3]\n\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\n\n[Documento Relevante 4]\n\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República de Colombia y por autoridad de la ley,\n\n## FALLA:\n\n\n[Documento Relevante 5]\n\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se daba cuando estos «también hayan sido reconocidos como desplazados o despojados del mismo predio».\n\nLa Corte Constitucional analizó la constitucionalidad de la buena fe exenta de culpa exigible en el artículo 88 de la Ley 1448 de 2011 al opositor y ratificó dicho estándar de conducta como regla general, \\( ^{83} \\) empero, llamó a los operadores jurídicos a aplicarlo de manera diferenciada y/o atenuada respecto de los «opositores/segundos ocupantes» para efectos de desarrollar el enfoque de acción sin daño, y mediante Auto 373 de 2016 indicó que los jueces y magistrados contaban con amplias facultades para que, una vez comprendida la situación socioeconómica del opositor, de ser el caso, dispensara medidas para atender la situación de vulnerabilidad en la que estos pudieran quedar en aspectos como la vivienda, sustento, productividad y acceso a la propiedad tras la orden de devolver el bien...\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "Se ampara el derecho fundamental a la restitución de tierras de los solicitantes, no prospera la oposición, no se reconoce compensación económica al opositor por falta de prueba de buena fe exenta de culpa, y se ordena la entrega de un predio equivalente como medida complementaria.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.643,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 172,
+        "content_preview": "\nLo anterior, en concordancia con el artículo 78 ejusdem, de donde se obtiene que bastará con la prueba sumaria de la propiedad, posesión u ocupación «y el reconocimiento como desplazado en el proceso..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.626,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 41,
+        "content_preview": "\n\\( ^{19} \\) Sentencia T-034 de 2017.\n\n<--- Page Split --->\n\ncual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y u..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.618,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 197,
+        "content_preview": "\nEn conclusión, los elementos de juicio analizados lograron probar los presupuestos que exige el legislador para otorgar protección al derecho fundamental de tierras invocado por la parte actora.\n\nEn ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.609,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 274,
+        "content_preview": "\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.586,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 3,
+        "content_preview": "\n## 1.1. Pretensiones\n\nLos reclamantes recurren a la administración de justicia con miras a que mediante esta acción se proteja su derecho fundamental a la restitución de tierras en calidad de expropi..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nLo anterior, en concordancia con el artículo 78 ejusdem, de donde se obtiene que bastará con la prueba sumaria de la propiedad, posesión u ocupación «y el reconocimiento como desplazado en el proceso judicial, o en su defecto, la prueba sumaria del despojo, para trasladar la carga de la prueba al demandado o a quienes se opongan a la pretensión de la víctima en el curso del proceso de restitución (...)», salvo que quienes se opongan también hayan sido reconocidos como desplazados o despojados del mismo predio, efecto procesal aquel que opera por ministerio de la ley a partir del momento mismo de la reclamación y durante todo el trámite judicial.\n\n[Documento Relevante 2]\n\n\\( ^{19} \\) Sentencia T-034 de 2017.\n\n<--- Page Split --->\n\ncual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y un régimen especial de presunciones basado en el contexto generalizado de violencia del lugar de ubicación del bien, ya que los mecanismos previstos en la legislación civil ordinaria resultaban inidóneos para llegar a la verdad sobre los hechos de abandono y despojo forzados de tierras y adoptar medidas reparativas en un lapso breve.\n\n[Documento Relevante 3]\n\nEn conclusión, los elementos de juicio analizados lograron probar los presupuestos que exige el legislador para otorgar protección al derecho fundamental de tierras invocado por la parte actora.\n\nEn lo que sigue, se ocupa la Sala de analizar el tema de la buena fe exenta de culpa y de posibles segundos ocupantes.\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\n\n[Documento Relevante 4]\n\n## 3.8. De Las Medidas Complementarias A La Restitución\n\nComoquiera que complementariamente a la restitución es necesario ofrecer garantías de protección para asegurar su efectividad y sostenibilidad con criterios diferenciados y transformadores, en la parte resolutiva se dispensará en favor de los restituidos diversas medidas de atención, asistencia y reparación contenidas en la Ley 1448 de 2011 que sean acordes con el sentido de la protección del derecho.\n\n## 3.9. Costas\n\n\n[Documento Relevante 5]\n\n## 1.1. Pretensiones\n\nLos reclamantes recurren a la administración de justicia con miras a que mediante esta acción se proteja su derecho fundamental a la restitución de tierras en calidad de expropietarios del predio rural denominado «La Torre», ubicado en la vereda\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2024-12-02",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.548,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 31,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.539,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 297,
+        "content_preview": "\nPara lo anterior se concede el término de quince (15) días contados a partir de la notificación de esta sentencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Alcaldía Municipal de Sonsón- Antioquia, o al municipi..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.495,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 30,
+        "content_preview": "\n## 2.3. Admisión De La Oposición Y Etapa Probatoria\n\nEl instructor admitió la oposición por auto del 25 de marzo de 2022 \\( ^{12} \\) . Posteriormente, mediante providencia del 29 de abril de ese mism..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.469,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 201,
+        "content_preview": "\n81 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se d..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.467,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 183,
+        "content_preview": "\n76 En el mismo lugar, minutos 12:35 a 12:59\n\n<--- Page Split --->\n\ndesplazaron de la heredad en 2004, de manera posterior indicó que la venta se efectuó 6 meses después del abandono forzado.\n\nEs deci..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 23 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso \\( ^{15} \\) .\n\n\n[Documento Relevante 2]\n\nPara lo anterior se concede el término de quince (15) días contados a partir de la notificación de esta sentencia.\n\nDÉCIMO PRIMERO: ORDENAR a la Alcaldía Municipal de Sonsón- Antioquia, o al municipio donde se entregue el predio en compensación, a través de las siguientes dependencias o las que correspondan:\n\n\n[Documento Relevante 3]\n\n## 2.3. Admisión De La Oposición Y Etapa Probatoria\n\nEl instructor admitió la oposición por auto del 25 de marzo de 2022 \\( ^{12} \\) . Posteriormente, mediante providencia del 29 de abril de ese mismo año le dio apertura al periodo probatorio \\( ^{13} \\) .\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\n\n[Documento Relevante 4]\n\n81 Entre otras, sentencia n.º 010 del 14 de junio de 2022, expediente radicado 05045312100220150089001.\n\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se daba cuando estos «también hayan sido reconocidos como desplazados o despojados del mismo predio».\n\n\n[Documento Relevante 5]\n\n76 En el mismo lugar, minutos 12:35 a 12:59\n\n<--- Page Split --->\n\ndesplazaron de la heredad en 2004, de manera posterior indicó que la venta se efectuó 6 meses después del abandono forzado.\n\nEs decir, que si la venta acaeció en abril de 2004 \\( ^{77} \\) , teniendo en cuenta los seis meses anteriores a que hizo mención WILLIAM, efectivamente el desplazamiento tuvo ocasión en el año 2003, fecha que se acompasa con lo indicado tanto por ALBA ROCÍO, como por los testigos que fueron traídos a juicio.\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "026",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.468,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 287,
+        "content_preview": "\nSEXTO: El predio que se ordena compensar se identifica e individualiza como a continuación se describe:\n\n<fcel>Predio «La Torre»<lcel><lcel><lcel><nl><fcel>UBICACIÓN<fcel>MATRÍCULA INMOBILIARIA<fcel>..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.45,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 5,
+        "content_preview": "\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{1} \\)\n\nEl predio denominado «La Torre», que se identifica con el FMI n.° 028-25992 ORIP Sonsón, registralmente se aperturó de acuerdo al englobe de los pr..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.446,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 16,
+        "content_preview": "\n## 2.2. Oposición\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.419,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 35,
+        "content_preview": "\n\\( ^{16} \\) Portal de Tierras, trámite en el despacho, consecutivo 8, certificado (46DD04497B7C6AE0BDA25B638A29396D969C90EF81C36C7BFA5F8375167DFDA8).\n\n<--- Page Split --->\n\n## 3. ASPECTOS PRELIMINARE..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.419,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 168,
+        "content_preview": "\n72 En el mismo lugar, minutos 07:54 a 07:56\n\n73 En el mismo lugar, minutos 09:46 a 10:12\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nSEXTO: El predio que se ordena compensar se identifica e individualiza como a continuación se describe:\n\n<fcel>Predio «La Torre»<lcel><lcel><lcel><nl><fcel>UBICACIÓN<fcel>MATRÍCULA INMOBILIARIA<fcel>REFERENCIA PREDIAL<fcel>ÁREA GEORREFERENCIADA Y RESTITUIDA<nl><fcel>Vereda Sirgua Arriba, municipio de Sonsón – Antioquia.<fcel>028-25992 de la ORIP de Sonsón<fcel>05-756-00-03-00-00-0004-0033-0-00-00-0000<fcel>1 hectárea 7.122 metros cuadrados<nl><fcel>LINDEROS Y COORDENADAS<lcel><lcel><lcel><nl>\n\n\n[Documento Relevante 2]\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{1} \\)\n\nEl predio denominado «La Torre», que se identifica con el FMI n.° 028-25992 ORIP Sonsón, registralmente se aperturó de acuerdo al englobe de los predios que se identificaban con las matrículas inmobiliarias n.° 028-25331 y n.° 028-10094, de los que fueron titulares de derecho de dominio los señores ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, respectivamente, hoy solicitantes.\n\n\n[Documento Relevante 3]\n\n## 2.2. Oposición\n\n\n[Documento Relevante 4]\n\n\\( ^{16} \\) Portal de Tierras, trámite en el despacho, consecutivo 8, certificado (46DD04497B7C6AE0BDA25B638A29396D969C90EF81C36C7BFA5F8375167DFDA8).\n\n<--- Page Split --->\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado. La Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 5]\n\n72 En el mismo lugar, minutos 07:54 a 07:56\n\n73 En el mismo lugar, minutos 09:46 a 10:12\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "05000312110120210010101",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.477,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 99,
+        "content_preview": "\n43 En el mismo lugar, minutos 25:53 a 26:10\n\n44 En el mismo lugar, minutos 27:28 a 27:34\n\n45 En el mismo lugar, minutos 40:41 a 43:30\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.44,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 161,
+        "content_preview": "\n67 En el mismo lugar, minutos 17:57 a 17:59\n\n68 En el mismo lugar, minutos 09:54 a 10:39\n\n69 En el mismo lugar, minutos 13:59 a 14:08\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProc..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.431,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 141,
+        "content_preview": "\n60 En el mismo lugar, minutos 14:04 a 14:20\n\n61 En el mismo lugar, minutos 14:27 a 14:39\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.43,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 168,
+        "content_preview": "\n72 En el mismo lugar, minutos 07:54 a 07:56\n\n73 En el mismo lugar, minutos 09:46 a 10:12\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.423,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 93,
+        "content_preview": "\n40 En el mismo lugar, minutos 16:55 a 17:14\n\n41 En el mismo lugar, minutos 18:39 a 19:03\n\n42 En el mismo lugar, minutos 22:15 a 22:21\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProc..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n43 En el mismo lugar, minutos 25:53 a 26:10\n\n44 En el mismo lugar, minutos 27:28 a 27:34\n\n45 En el mismo lugar, minutos 40:41 a 43:30\n\n<--- Page Split --->\n\n\n[Documento Relevante 2]\n\n67 En el mismo lugar, minutos 17:57 a 17:59\n\n68 En el mismo lugar, minutos 09:54 a 10:39\n\n69 En el mismo lugar, minutos 13:59 a 14:08\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 3]\n\n60 En el mismo lugar, minutos 14:04 a 14:20\n\n61 En el mismo lugar, minutos 14:27 a 14:39\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 4]\n\n72 En el mismo lugar, minutos 07:54 a 07:56\n\n73 En el mismo lugar, minutos 09:46 a 10:12\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 5]\n\n40 En el mismo lugar, minutos 16:55 a 17:14\n\n41 En el mismo lugar, minutos 18:39 a 19:03\n\n42 En el mismo lugar, minutos 22:15 a 22:21\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "RESTITUYE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.614,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 31,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.604,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 304,
+        "content_preview": "\nDÉCIMO CUARTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n\nDÉCIMO QUINTO: CONMINAR a los destinatarios de las órdenes..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.603,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 202,
+        "content_preview": "\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se daba cuando estos «también hayan sido reconocidos como desplazados o despojados del mismo predio».\n\nLa Cor..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.595,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 275,
+        "content_preview": "\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.576,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 172,
+        "content_preview": "\nLo anterior, en concordancia con el artículo 78 ejusdem, de donde se obtiene que bastará con la prueba sumaria de la propiedad, posesión u ocupación «y el reconocimiento como desplazado en el proceso..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 23 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso \\( ^{15} \\) .\n\n\n[Documento Relevante 2]\n\nDÉCIMO CUARTO: NO CONDENAR en costas por no configurarse los presupuestos establecidos en el literal s) del art. 91 de la Ley 1448 de 2011.\n\nDÉCIMO QUINTO: CONMINAR a los destinatarios de las órdenes impartidas en esta sentencia para que las cumplan oportunamente so pena de incurrir en falta gravísima, según lo prevé el parágrafo 3º del art. 91 de la Ley 1448 de 2011, y en sus actuaciones den aplicación a los principios de enfoque diferencial y colaboración armónica previstos en los artículos 13, 26 y 161 de la citada ley.\n\n[Documento Relevante 3]\n\n82 Artículo 98 Ley 1448/11.\n\n<--- Page Split --->\n\nconsideró que la excepción a esa regla se daba cuando estos «también hayan sido reconocidos como desplazados o despojados del mismo predio».\n\nLa Corte Constitucional analizó la constitucionalidad de la buena fe exenta de culpa exigible en el artículo 88 de la Ley 1448 de 2011 al opositor y ratificó dicho estándar de conducta como regla general, \\( ^{83} \\) empero, llamó a los operadores jurídicos a aplicarlo de manera diferenciada y/o atenuada respecto de los «opositores/segundos ocupantes» para efectos de desarrollar el enfoque de acción sin daño, y mediante Auto 373 de 2016 indicó que los jueces y magistrados contaban con amplias facultades para que, una vez comprendida la situación socioeconómica del opositor, de ser el caso, dispensara medidas para atender la situación de vulnerabilidad en la que estos pudieran quedar en aspectos como la vivienda, sustento, productividad y acceso a la propiedad tras la orden de devolver el bien...\n\n[Documento Relevante 4]\n\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República de Colombia y por autoridad de la ley,\n\n## FALLA:\n\n\n[Documento Relevante 5]\n\nLo anterior, en concordancia con el artículo 78 ejusdem, de donde se obtiene que bastará con la prueba sumaria de la propiedad, posesión u ocupación «y el reconocimiento como desplazado en el proceso judicial, o en su defecto, la prueba sumaria del despojo, para trasladar la carga de la prueba al demandado o a quienes se opongan a la pretensión de la víctima en el curso del proceso de restitución (...)», salvo que quienes se opongan también hayan sido reconocidos como desplazados o despojados del mismo predio, efecto procesal aquel que opera por ministerio de la ley a partir del momento mismo de la reclamación y durante todo el trámite judicial.\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.569,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 294,
+        "content_preview": "\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.521,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 275,
+        "content_preview": "\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.515,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 305,
+        "content_preview": "\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.513,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 35,
+        "content_preview": "\n\\( ^{16} \\) Portal de Tierras, trámite en el despacho, consecutivo 8, certificado (46DD04497B7C6AE0BDA25B638A29396D969C90EF81C36C7BFA5F8375167DFDA8).\n\n<--- Page Split --->\n\n## 3. ASPECTOS PRELIMINARE..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.498,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 15,
+        "content_preview": "\n\\( ^{2} \\) Portal de Tierras, trámites en otros despachos, consecutivo 10, certificado (4DECE059E9B208B4662B863D1F0480526A444685DC6F873CB01210A575DBFF82).\n\n<--- Page Split --->\n\ndispuestas en los art..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR esta sentencia en el FMI n.° 028-25992 en los términos acá indicados.\n\nb) . Actualice la cuota parte proindivisa (porcentaje) de los titulares. JOSÉ GILBERTO VILLA VALENCIA 50% y GLORIA ALBANY MESA COLORADO 50%.\n\n\n[Documento Relevante 2]\n\n## 3.9. Costas\n\nPor último, según el literal s) del artículo 91 de la ley, no hay condena en costas.\n\n## 4. DECISIÓN\n\nEn mérito de todo lo expuesto, la Sala Tercera de Decisión Civil Especializada en Restitución de Tierras, administrando justicia en nombre de la República de Colombia y por autoridad de la ley,\n\n## FALLA:\n\n\n[Documento Relevante 3]\n\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\n\n[Documento Relevante 4]\n\n\\( ^{16} \\) Portal de Tierras, trámite en el despacho, consecutivo 8, certificado (46DD04497B7C6AE0BDA25B638A29396D969C90EF81C36C7BFA5F8375167DFDA8).\n\n<--- Page Split --->\n\n## 3. ASPECTOS PRELIMINARES Del PROCESO\n\n## 3.1. Nulidades Y Competencia\n\nNo se avizora vicio que pueda invalidar lo actuado. La Sala es competente para resolver conforme lo dispuesto en los artículos 79 y 80 de la Ley 1448 de 2011, por el factor territorial y por haberse admitido oposición.\n\n\n[Documento Relevante 5]\n\n\\( ^{2} \\) Portal de Tierras, trámites en otros despachos, consecutivo 10, certificado (4DECE059E9B208B4662B863D1F0480526A444685DC6F873CB01210A575DBFF82).\n\n<--- Page Split --->\n\ndispuestas en los artículos 86 y 87 de la Ley 1448 de 2011, las cuales se surtieron eficazmente, así: Al alcalde del municipio de Sonsón y al representante del Ministerio Público, a través de correo electrónico.³ A las personas indeterminadas, con la publicación realizada en el periódico EL ESPECTADOR, el 23 de enero de 2022⁴. A quienes figuran como titulares de derecho de dominio en el FMI, así: JOSÉ GILBERTO VILLA VALENCIA, personalmente el 02 de marzo de 2022⁵, GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ, mediante emplazamiento a través del Registro Nacional de Personas Emplazadas⁶, en virtud del artículo 108 del CGP en concordancia con el artículo 10 de la Ley 2213 de 2022. Adicionalmente el Juez instructor, designó representante judicial⁷ a las emplazadas, de conformidad con el inciso 3° del Art. 87 de la Ley 1448 de 2011.\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"ALBA\", \"segundo_nombre\": \"ROCÍO\", \"primer_apellido\": \"BEDOYA\", \"segundo_apellido\": \"DE MEJÍA\", \"numero_documento\": null, \"rol\": \"titular\"}, {\"primer_nombre\": \"WILLIAM\", \"segundo_nombre\": \"DE JESÚS\", \"primer_apellido\": \"MEJÍA\", \"segundo_apellido\": \"LOAIZA\", \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"HORACIO\", \"segundo_nombre\": \"BEDOYA\", \"primer_apellido\": \"AGUDELO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"JORGE WILLIAM\", \"segundo_nombre\": null, \"primer_apellido\": \"MEJÍA\", \"segundo_apellido\": \"BEDOYA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"EDILSON\", \"segundo_nombre\": null, \"primer_apellido\": \"MEJÍA\", \"segundo_apellido\": \"BEDOYA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"ANDRÉS\", \"segundo_nombre\": null, \"primer_apellido\": \"MEJÍA\", \"segundo_apellido\": \"BEDOYA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"José\", \"segundo_nombre\": null, \"primer_apellido\": \"Bedoya\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Libia\", \"segundo_nombre\": null, \"primer_apellido\": \"Henao\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"BENJAMÍN\", \"segundo_nombre\": null, \"primer_apellido\": \"GIRALDO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSE GILBERTO\", \"segundo_nombre\": null, \"primer_apellido\": \"VILLA\", \"segundo_apellido\": \"VALENCIA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"GLORIA ALBANY\", \"segundo_nombre\": null, \"primer_apellido\": \"MESA\", \"segundo_apellido\": \"COLORADO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"CLAUDIA\", \"segundo_nombre\": null, \"primer_apellido\": \"OROZCO\", \"segundo_apellido\": \"SÁNCHEZ\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"DUBERNEY\", \"segundo_nombre\": \"MARÍN\", \"primer_apellido\": \"MARTÍNEZ\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"EIDER\", \"segundo_nombre\": \"ENRIQUE\", \"primer_apellido\": \"OSPINA\", \"segundo_apellido\": \"ALVARÁN\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Guillermo\", \"segundo_nombre\": \"Orozco\", \"primer_apellido\": \"CAÑAVERAL\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"HÉCTOR FABIO\", \"segundo_nombre\": \"BEDOYA\", \"primer_apellido\": \"OROZCO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"LUIS\", \"segundo_nombre\": \"ALBERTO\", \"primer_apellido\": \"CARMONA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSÉ\", \"segundo_nombre\": \"GILDARDO\", \"primer_apellido\": \"RAMÍREZ\", \"segundo_apellido\": \"GIRALDO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JAVIER\", \"segundo_nombre\": \"ENRIQUE\", \"primer_apellido\": \"CASTILLO\", \"segundo_apellido\": \"CADENA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"PUNO\", \"segundo_nombre\": \"ALIRIO\", \"primer_apellido\": \"CORREAL\", \"segundo_apellido\": \"BELTRÁN\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"mi\", \"segundo_nombre\": null, \"primer_apellido\": \"mamá\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"mi\", \"segundo_nombre\": null, \"primer_apellido\": \"hermano\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Estefanía\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[{\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"La Torre\", \"predio_rural\": true, \"matricula\": \"028-25992\", \"circulo\": \"028\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Antioquia\", \"municipio\": \"Sonsón\", \"vereda\": \"Sirgua Arriba\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\", \"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"25992\"}, {\"tipo_predio\": \"referencia\", \"nombre_direccion_predio\": \"predio de uso habitacional\", \"predio_rural\": false, \"matricula\": null, \"circulo\": null, \"numero_predial\": null, \"departamento\": \"Antioquia\", \"municipio\": \"Guarne\", \"vereda\": null, \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": null, \"area_terreno_hec\": null, \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": null}, {\"tipo_predio\": \"referencia\", \"nombre_direccion_predio\": \"lote de terreno\", \"predio_rural\": false, \"matricula\": null, \"circulo\": null, \"numero_predial\": null, \"departamento\": \"Antioquia\", \"municipio\": \"Hispania\", \"vereda\": null, \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": null, \"area_terreno_hec\": null, \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": null}]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.652,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 305,
+        "content_preview": "\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.622,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 289,
+        "content_preview": "\nSÉPTIMO: ORDENAR al Instituto Geográfico Agustín Codazzi (IGAC) —Subdirección de Catastro GIT de Avalúos— realizar un avalúo al predio objeto de la acción, acorde con lo indicado en la parte consider..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.592,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 14,
+        "content_preview": "\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 29 de octubre de 2021², ordenando las notificaciones\n\n\\( ^{2} \\) Portal de Tierra..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.58,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 197,
+        "content_preview": "\nEn conclusión, los elementos de juicio analizados lograron probar los presupuestos que exige el legislador para otorgar protección al derecho fundamental de tierras invocado por la parte actora.\n\nEn ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.571,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 213,
+        "content_preview": "\n84 Portal de Tierras, trámites en otros despachos, consecutivo 66, págs. 31 a 32 de 148, certificado (B110F956A646BD9651399216E4EBAF45884947FBB4BD61F0FA48BD8C7152E3A8).\n\n<--- Page Split --->\n\nenajena..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.565,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 248,
+        "content_preview": "\n96 Registro de tierras despojadas y abandonadas forzosamente.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO B..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.553,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 256,
+        "content_preview": "\n## 3.7. Protección Del Derecho Fundamental A La Restitución De Tierras – Restitución Material Y Órdenes De Amparo\n"
+      },
+      {
+        "rank": 8,
+        "similarity": 0.551,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 78,
+        "content_preview": "\n34 Ver Masacre de Sonsón, 1996. Rutas del conflicto. Hacemos Memoria. Centro Nacional de Memoria Histórica. Disponible en Internet: https://rutasdelconflicto.com/masacres/sonson-1996\n\n35 Portal de Ti..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.539,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 15,
+        "content_preview": "\n\\( ^{2} \\) Portal de Tierras, trámites en otros despachos, consecutivo 10, certificado (4DECE059E9B208B4662B863D1F0480526A444685DC6F873CB01210A575DBFF82).\n\n<--- Page Split --->\n\ndispuestas en los art..."
+      },
+      {
+        "rank": 10,
+        "similarity": 0.536,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 294,
+        "content_preview": "\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR ..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.536,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 306,
+        "content_preview": "\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLO..."
+      },
+      {
+        "rank": 12,
+        "similarity": 0.53,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 31,
+        "content_preview": "\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto ..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.529,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 32,
+        "content_preview": "\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo \\( ^{16..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.527,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 229,
+        "content_preview": "\n87 LA JUNTA DIRECTIVA DEL INSTITUTO COLOMBIANO DE LA REFORMA AGRARIA, Resolución N°. 041 de 1996, Determinación de extensiones para las UAFs.\n\n88 Portal de Tierras, trámites en otros despachos, conse..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.523,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 3,
+        "content_preview": "\n## 1.1. Pretensiones\n\nLos reclamantes recurren a la administración de justicia con miras a que mediante esta acción se proteja su derecho fundamental a la restitución de tierras en calidad de expropi..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.521,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 4,
+        "content_preview": "\n<--- Page Split --->\n\nSirgua Arriba del municipio de Sonsón Antioquia, identificado con el folio de matrícula inmobiliaria (en adelante FMI) n.° 028-25992 de la Oficina de Registro de Instrumentos Pú..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.518,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 237,
+        "content_preview": "\n91 Portal de Tierras, trámites en otros despachos, consecutivo 66, pág. 119, certificado (B110F956A646BD9651399216E4EBAF45884947FBB4BD61F0FA48BD8C7152E3A8).\n\n<--- Page Split --->\n\nComo bien se indicó..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.517,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 21,
+        "content_preview": "\n\\( ^{9} \\) Contestación Curador Ad-Litem – Portal de Tierras, trámites en otros despachos, consecutivo 44, certificado\n\n(F867DFBF7CD2A746A9CC543B627ECC049DBF6E132FAAF04F5C11C75F47893867).\n\n<--- Page ..."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.515,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 271,
+        "content_preview": "\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.515,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 299,
+        "content_preview": "\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.51,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 241,
+        "content_preview": "\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerab..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.509,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 74,
+        "content_preview": "\n## 3.5.2. De La Relación Jurídica Con La Tierra —legitimación— Y La Calidad De Víctima. Análisis De Los Medios De Convicción\n"
+      },
+      {
+        "rank": 23,
+        "similarity": 0.509,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 37,
+        "content_preview": "\n## 3.3. Problema Jurídico Y Esquema De Resolución\n\nCorresponde determinar si hay lugar a amparar el derecho fundamental a la restitución de tierras que solicita ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM D..."
+      },
+      {
+        "rank": 24,
+        "similarity": 0.508,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 189,
+        "content_preview": "\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.506,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 77,
+        "content_preview": "\nA continuación, se entra a examinar los medios de convicción que obran en el expediente para determinar si efectivamente la venta acaeció en circunstancias anejas al conflicto armado y, por ende, es ..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.505,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 290,
+        "content_preview": "\nOCTAVO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n\n8. 1. Previa caracterización de los restituidos y del predio entregado en compensación, formule e..."
+      },
+      {
+        "rank": 27,
+        "similarity": 0.502,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 39,
+        "content_preview": "\nFrente a la acción de restitución, esta Sala Especializada se ha referido en los siguientes términos:\\(^{18}\\)\n\nLa Ley 1448 introdujo la acción de restitución como una acción de naturaleza civil y co..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.502,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 153,
+        "content_preview": "\nSeguidamente se escuchó al señor BENJAMÍN GIRALDO GIRALDO, testigo traído a juicio por la parte opositora, quien afirmó haber cursado hasta segundo grado de primaria y de ocupación agricultor.\n\n65 Po..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.502,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 41,
+        "content_preview": "\n\\( ^{19} \\) Sentencia T-034 de 2017.\n\n<--- Page Split --->\n\ncual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y u..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.5,
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 247,
+        "content_preview": "\nDe otro lado, en cuanto a la señora CLAUDIA OROZCO SÁNCHEZ, de las probanzas, no queda otro camino que negar el reconocimiento como segunda ocupante, toda vez que su derecho a la vivienda y\nmínimo vi..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 0,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 1,
+        "content_preview": "# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proce..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "05000312110120210010101_1792794507",
+        "chunk_index": 2,
+        "content_preview": "\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTE..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nDÉCIMO SEXTO: NOTIFÍQUESE esta providencia por estado que la Secretaría de la Sala deberá incluir en el Portal Web de Restitución de Tierras para la Gestión de Procesos Judiciales en Línea, conforme lo prevé el artículo 93 de la Ley 1448 de\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\n\n[Documento Relevante 2]\n\nSÉPTIMO: ORDENAR al Instituto Geográfico Agustín Codazzi (IGAC) —Subdirección de Catastro GIT de Avalúos— realizar un avalúo al predio objeto de la acción, acorde con lo indicado en la parte considerativa de esta providencia para lo cual contará con el término no superior a un (1) mes.\n\nOCTAVO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n\n\n[Documento Relevante 3]\n\nEl Juzgado Civil del Circuito Especializado en Restitución de Tierras Itinerante de Antioquia admitió la solicitud el 29 de octubre de 2021², ordenando las notificaciones\n\n\\( ^{2} \\) Portal de Tierras, trámites en otros despachos, consecutivo 10, certificado (4DECE059E9B208B4662B863D1F0480526A444685DC6F873CB01210A575DBFF82).\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\nEn conclusión, los elementos de juicio analizados lograron probar los presupuestos que exige el legislador para otorgar protección al derecho fundamental de tierras invocado por la parte actora.\n\nEn lo que sigue, se ocupa la Sala de analizar el tema de la buena fe exenta de culpa y de posibles segundos ocupantes.\n\n## 3.6. De La Buena Fe Exenta De Culpa Y De La Condición De Segundos Ocupantes\n\nAl respecto esta Corporación ha indicado con suficiencia:\\(^{81}\\)\n\n\n[Documento Relevante 5]\n\n84 Portal de Tierras, trámites en otros despachos, consecutivo 66, págs. 31 a 32 de 148, certificado (B110F956A646BD9651399216E4EBAF45884947FBB4BD61F0FA48BD8C7152E3A8).\n\n<--- Page Split --->\n\nenajenación del inmueble; la carga probatoria de la buena fe exigible en este tipo de asuntos demanda una demostración rigurosa y concluyente de que el actor procedió con la diligencia debida y que, a pesar de ello, no pudo obtener conocimiento alguno sobre los hechos alegados, más precisamente, esos hechos que implicaron en su momento que ALBA ROCÍO y WILLIAM DE JESÚS fuesen obligados a desplazarse del predio y que como consecuencia de ello, se vieran en la precaria y comprometida situación de venderlo. Tal conducta resulta inexcusable, aun considerando el transcurso del tiempo y las alegaciones sobre una supuesta pacificación del territorio en el momento de la adquisición del bien «era un territorio de paz».\n\n[Documento Relevante 6]\n\n96 Registro de tierras despojadas y abandonadas forzosamente.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 7]\n\n## 3.7. Protección Del Derecho Fundamental A La Restitución De Tierras – Restitución Material Y Órdenes De Amparo\n\n\n[Documento Relevante 8]\n\n34 Ver Masacre de Sonsón, 1996. Rutas del conflicto. Hacemos Memoria. Centro Nacional de Memoria Histórica. Disponible en Internet: https://rutasdelconflicto.com/masacres/sonson-1996\n\n35 Portal de Tierras, trámites en otros despachos, consecutivo 9, certificado (970BC97C6F8C2383DBCE1F7968BCE255A87146EDBFE0466F80593816A82639A1).\n\n<--- Page Split --->\n\nEn sede administrativa la solicitante ALBA ROCÍO declaró ante la UAEGRTD lo siguiente \\( ^{36} \\) :\n\n\n[Documento Relevante 9]\n\n\\( ^{2} \\) Portal de Tierras, trámites en otros despachos, consecutivo 10, certificado (4DECE059E9B208B4662B863D1F0480526A444685DC6F873CB01210A575DBFF82).\n\n<--- Page Split --->\n\ndispuestas en los artículos 86 y 87 de la Ley 1448 de 2011, las cuales se surtieron eficazmente, así: Al alcalde del municipio de Sonsón y al representante del Ministerio Público, a través de correo electrónico.³ A las personas indeterminadas, con la publicación realizada en el periódico EL ESPECTADOR, el 23 de enero de 2022⁴. A quienes figuran como titulares de derecho de dominio en el FMI, así: JOSÉ GILBERTO VILLA VALENCIA, personalmente el 02 de marzo de 2022⁵, GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ, mediante emplazamiento a través del Registro Nacional de Personas Emplazadas⁶, en virtud del artículo 108 del CGP en concordancia con el artículo 10 de la Ley 2213 de 2022. Adicionalmente el Juez instructor, designó representante judicial⁷ a las emplazadas, de conformidad con el inciso 3° del Art. 87 de la Ley 1448 de 2011.\n\n[Documento Relevante 10]\n\n8. 5. Realizar la demarcación de la ronda hídrica a la que se hizo referencia en la parte considerativa.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Sonsón:\n\na) . INSCRIBIR esta sentencia en el FMI n.° 028-25992 en los términos acá indicados.\n\nb) . Actualice la cuota parte proindivisa (porcentaje) de los titulares. JOSÉ GILBERTO VILLA VALENCIA 50% y GLORIA ALBANY MESA COLORADO 50%.\n\n\n[Documento Relevante 11]\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n2011 y las reglas previstas en el Código General del Proceso, el Acuerdo PCSJA22-11972 y el artículo 9 de la Ley 2213 de 2022.\n\nProyecto discutido y aprobado según consta en acta de la fecha.\n\n## NOTIFÍQUESE Y CÚMPLASE\n\n## Los MAGISTRADOS,\n\n(Firmado electrónicamente)\n\n\n[Documento Relevante 12]\n\n## 2.4. Fase De Decisión\n\nEl 08 de junio de 2022 se ordenó remitir el expediente a la Sala Civil Especializada en Restitución de Tierras del Tribunal Superior de Antioquia \\( ^{14} \\) .\n\nPor reparto le correspondió el conocimiento a esta Sala, la cual, el 23 de enero de 2023, corrió traslado a las partes e intervinientes para que se pronunciaran sobre eventuales vicios que configuraran nulidades u otras irregularidades del proceso \\( ^{15} \\) .\n\n\n[Documento Relevante 13]\n\nVencido el término en silencio, mediante providencia del 16 de noviembre de 2023 se avocó conocimiento del asunto, ordenando ingresar el expediente al Despacho con el fin de emitir este fallo \\( ^{16} \\) .\n\n12 Portal de Tierras, trámite en otros despachos, consecutivo 52, certificado (EF287BAF9CACB95522B2FEFAB06924738A6EEC0418279FD402DBC4584912FDBE).\n\n\n[Documento Relevante 14]\n\n87 LA JUNTA DIRECTIVA DEL INSTITUTO COLOMBIANO DE LA REFORMA AGRARIA, Resolución N°. 041 de 1996, Determinación de extensiones para las UAFs.\n\n88 Portal de Tierras, trámites en otros despachos, consecutivo 66, págs. 24 y 33, certificado (B110F956A646BD9651399216E4EBAF45884947FBB4BD61F0FA48BD8C7152E3A8).\n\n<--- Page Split --->\n\n\n[Documento Relevante 15]\n\n## 1.1. Pretensiones\n\nLos reclamantes recurren a la administración de justicia con miras a que mediante esta acción se proteja su derecho fundamental a la restitución de tierras en calidad de expropietarios del predio rural denominado «La Torre», ubicado en la vereda\n\n<--- Page Split --->\n\n\n[Documento Relevante 16]\n\n<--- Page Split --->\n\nSirgua Arriba del municipio de Sonsón Antioquia, identificado con el folio de matrícula inmobiliaria (en adelante FMI) n.° 028-25992 de la Oficina de Registro de Instrumentos Públicos (en adelante ORIP) de Sonsón.\n\nAdemás, que se profieran todas las órdenes complementarias a la restitución contempladas en el artículo 91 de la Ley 1448 de 2011 que permitan la reparación integral.\n\n## 1.2. Fundamentos Fácticos Relevantes \\( ^{1} \\)\n\n\n[Documento Relevante 17]\n\n91 Portal de Tierras, trámites en otros despachos, consecutivo 66, pág. 119, certificado (B110F956A646BD9651399216E4EBAF45884947FBB4BD61F0FA48BD8C7152E3A8).\n\n<--- Page Split --->\n\nComo bien se indicó, de acuerdo a lo que obra en el plenario, la señora MESA COLORADO posee un inmueble de uso habitacional en el municipio de Guarne, donde actualmente reside y adicionalmente tiene un lote de terreno en el municipio de Hispania, sin embargo, de este último no recibe ninguna rentabilidad, debido a que no lo explota, pues obedece a una parcelación para la construcción de vivienda. Sobre dicho bien, en el precedido informe se dijo: «cuenta con un predio adicional en el municipio de Hispania, sureste antioqueño, el cual no explota ni tiene construcción, refiere que son 80 mts <sic>, y que también fue parte de la repartición de los bienes producto de su separación»92.\n\n[Documento Relevante 18]\n\n\\( ^{9} \\) Contestación Curador Ad-Litem – Portal de Tierras, trámites en otros despachos, consecutivo 44, certificado\n\n(F867DFBF7CD2A746A9CC543B627ECC049DBF6E132FAAF04F5C11C75F47893867).\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 19]\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 20]\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\n\n[Documento Relevante 21]\n\nLa Corte Constitucional \\( ^{93} \\) también llamó a los jueces de tierras a que, en aquellos casos donde se avizoren «opositores/segundos ocupantes», se tome en consideración los factores de vulnerabilidad en los que se puedan encontrar y\n\n92 Ibidem\n\n93 Sentencia C-330 de 2016\n\n<--- Page Split --->\n\n\n[Documento Relevante 22]\n\n## 3.5.2. De La Relación Jurídica Con La Tierra —legitimación— Y La Calidad De Víctima. Análisis De Los Medios De Convicción\n\n\n[Documento Relevante 23]\n\n## 3.3. Problema Jurídico Y Esquema De Resolución\n\nCorresponde determinar si hay lugar a amparar el derecho fundamental a la restitución de tierras que solicita ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, respecto de un predio rural denominado «La Torre» ubicado en la vereda Sirgua Arriba del municipio de Sonsón — Antioquia, conforme con los presupuestos establecidos en la Ley 1448 de 2011.\n\n\n[Documento Relevante 24]\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\nReclamantes : ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA\n\nOpositor : JOSÉ GILBERTO VILLA VALENCIA\n\nTerceros : GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ\n\ncorporación, «en este tipo de escenarios el legislador previó presunciones en favor de quienes acuden a la acción de tierras» \\( ^{79} \\) .\n\n\n[Documento Relevante 25]\n\nA continuación, se entra a examinar los medios de convicción que obran en el expediente para determinar si efectivamente la venta acaeció en circunstancias anejas al conflicto armado y, por ende, es necesario revertirla en sede de justicia transicional.\n\n33 En el mismo lugar.\n\n34 Ver Masacre de Sonsón, 1996. Rutas del conflicto. Hacemos Memoria. Centro Nacional de Memoria Histórica. Disponible en Internet: https://rutasdelconflicto.com/masacres/sonson-1996\n\n\n[Documento Relevante 26]\n\nOCTAVO: ORDENAR a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas:\n\n8. 1. Previa caracterización de los restituidos y del predio entregado en compensación, formule e implemente a favor de ellos el proyecto productivo que sea acorde con el uso razonable y sostenible del suelo, proporcionando el debido acompañamiento y asistencia técnica para garantizar la sostenibilidad del proyecto, encaminándolo a la generación de ingresos y utilidades, según lo motivado.\n\n\n[Documento Relevante 27]\n\nFrente a la acción de restitución, esta Sala Especializada se ha referido en los siguientes términos:\\(^{18}\\)\n\nLa Ley 1448 introdujo la acción de restitución como una acción de naturaleza civil y constitucional, \\( ^{19} \\) especial, preferente, real, autónoma, de expedito y sumario trámite, en la\n\n17 Portal de Tierras, trámite en otros despachos, consecutivo 1, certificado (A4A9F09D4541C528EBE068D02725172581839F9DBBA330530FDF8EFFB85289FB).\n\n\n[Documento Relevante 28]\n\nSeguidamente se escuchó al señor BENJAMÍN GIRALDO GIRALDO, testigo traído a juicio por la parte opositora, quien afirmó haber cursado hasta segundo grado de primaria y de ocupación agricultor.\n\n65 Portal de Tierras, trámites en otros despachos, consecutivo 72, archivo denominado «D050003121101202100101000Audio yo Video202267142758.rar», «7 Guillermo Orozco.mp4», minutos 04:46 a 05:30, certificado (4D9426F4E1FA3F93B6ED058069952885A7A6BDD31F25B01BAF05C7BC9D9DD745).\n\n<--- Page Split --->\n\n\n[Documento Relevante 29]\n\n\\( ^{19} \\) Sentencia T-034 de 2017.\n\n<--- Page Split --->\n\ncual se previó la presunción de buena fe de las víctimas y la posibilidad de estas acceder a la restitución a través de prueba sumaria, y un régimen especial de presunciones basado en el contexto generalizado de violencia del lugar de ubicación del bien, ya que los mecanismos previstos en la legislación civil ordinaria resultaban inidóneos para llegar a la verdad sobre los hechos de abandono y despojo forzados de tierras y adoptar medidas reparativas en un lapso breve.\n\n[Documento Relevante 30]\n\nDe otro lado, en cuanto a la señora CLAUDIA OROZCO SÁNCHEZ, de las probanzas, no queda otro camino que negar el reconocimiento como segunda ocupante, toda vez que su derecho a la vivienda y\nmínimo vital no se encuentran ligados al bien objeto de solicitud.\n\n94 lb.\n\n95 Diario Oficial 52.400 del 19 de mayo de 2023.\n\n96 Registro de tierras despojadas y abandonadas forzosamente.\n\n<--- Page Split --->\n\nExpediente : 05000312110120210010101\n\nProceso : Restitución y formalización de tierras\n\n\n[Contexto Base 1 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n\n[Contexto Base 2 - PRIORITARIO]\n# REPÚBLICA De COLOMBIA\n\n- Lugar y fecha: Medellín, dos (02) de diciembre de dos mil veinticuatro (2024)\n- <fcel>sentencia N.º: <fcel>026<nl><fcel>Radicado:<fcel>05000312110120210010101<nl><fcel>Proceso:<fcel>Restitución y formalización de tierras<nl><fcel>Solicitantes:<fcel>ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA<nl><fcel>Opositor:<fcel>JOSÉ GILBERTO VILLA VALENCIA<nl><fcel>Terceros:<fcel>GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ<nl><fcel>Sinopsis:<fcel>La parte actora probó los presupuestos establecidos en la Ley 1448 de 2011, por ende, se ampara el derecho fundamental a la restitución de tierras.No prospera la oposición. No se reconoce compensación económica por no haberse acreditado actuar con buena fe exenta de culpa.Atendiendo el enfoque de acción sin daño, se compensa a los reclamantes con un predio equivalente y se otorgan medidas a segundos ocupantes.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\nRAMA JUDICIAL DEL PODER PÚBLICO\n\nTRIBUNAL SUPERIOR DE ANTIOQUIA\n\nSALA CIVIL ESPECIALIZADA EN RESTITUCIÓN DE TIERRAS\n\nSALA TERCERA\n\nJOSÉ GILDARDO RAMÍREZ GIRALDO\n\nMagistrado Ponente\n\n## 1. ANTECEDENTES\n\nSe decide la solicitud de restitución de tierras incoada por ALBA ROCÍO BEDOYA DE MEJÍA y WILLIAM DE JESÚS MEJÍA LOAIZA, a la cual se opone JOSÉ GILBERTO VILLA VALENCIA y actúan como terceras determinadas GLORIA ALBANY MESA COLORADO y CLAUDIA OROZCO SÁNCHEZ.\n\n## 1.1. Pretensiones\n\n"
+  }
+}

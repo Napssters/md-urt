@@ -1,0 +1,313 @@
+{
+  "orden_sentencia": [],
+  "sentencia": {
+    "area": "0",
+    "fecha_notificacion_urt": "0000-00-00",
+    "id_perdida_bien": 51657,
+    "id_tribunal_sentencia": 59710,
+    "observaciones_sentencia": "No hay observaciones generales relevantes más allá de lo estándar en este documento.",
+    "fecha_sentencia": "2019-03-27",
+    "numero_sentencia": 9
+  },
+  "sentencia_radicado": {
+    "radicado": "52001312100120170004401"
+  },
+  "sentencia_persona": [
+    {
+      "primer_nombre": "MARÍA DEL SOCORRO",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "titular",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "LUÍS",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JULIO ALBERTO",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "EDUARDO JAVIER",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JOSÉ VENANCIO",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "ANTONIO",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "ÁLVARO",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "FABIO DAVID",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JOHANA CECILIA",
+      "segundo_nombre": "None",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "MARÍA DEL SOCORRO",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "titular",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "LUÍS CARLOS",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JULIO ALBERTO",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "EDUARDO JAVIER",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JOSÉ VENANCIO",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "ANTONIO",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "ÁLVARO",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "FABIO DAVID",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JOHANA CECILIA",
+      "segundo_nombre": "URBANO",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JOHANA",
+      "segundo_nombre": "CECILIA",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "MANUEL",
+      "segundo_nombre": "MARÍA",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "URBANO",
+      "segundo_nombre": "None",
+      "primer_apellido": "BUCHELI",
+      "segundo_apellido": "None",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "MARÍA",
+      "segundo_nombre": "DEL SOCORRO",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "titular",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "LUIS",
+      "segundo_nombre": "CARLOS",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "JULIO",
+      "segundo_nombre": "ALBERTO",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "EDUARDO",
+      "segundo_nombre": "JAVIER",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "primer_nombre": "FABIO",
+      "segundo_nombre": "DAVID",
+      "primer_apellido": "URBANO",
+      "segundo_apellido": "BUCHELI",
+      "numero_documento": "None",
+      "rol": "familiar",
+      "usuario_registro": "ia_system"
+    }
+  ],
+  "predio_sentencia": [
+    {
+      "tipo_predio": "principal",
+      "nombre_direccion_predio": "EL VERGEL DE FÁTIMA",
+      "predio_rural": "True",
+      "matricula": "240-125678",
+      "circulo": "240",
+      "numero_predial": "52110000100000017005700000000",
+      "departamento": "Nariño",
+      "municipio": "Buesaco",
+      "vereda": "El Tambillo",
+      "corregimiento": "Santa Fé",
+      "barrio": "None",
+      "inspeccion": "None",
+      "area_terreno_fuente": "31.9880",
+      "area_terreno_hec": "31.9880",
+      "id_unidad_terreno_fuente": "3304",
+      "nota": "None",
+      "folio": "125678",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "tipo_predio": "referencia",
+      "nombre_direccion_predio": "EL VERGEL DE FÁTIMA",
+      "predio_rural": "True",
+      "matricula": "240-105822",
+      "circulo": "240",
+      "numero_predial": "None",
+      "departamento": "Nariño",
+      "municipio": "Buesaco",
+      "vereda": "None",
+      "corregimiento": "None",
+      "barrio": "None",
+      "inspeccion": "None",
+      "area_terreno_fuente": "None",
+      "area_terreno_hec": "None",
+      "id_unidad_terreno_fuente": "3304",
+      "nota": "None",
+      "folio": "105822",
+      "usuario_registro": "ia_system"
+    },
+    {
+      "tipo_predio": "referencia",
+      "nombre_direccion_predio": "EL VERGEL DE FÁTIMA",
+      "predio_rural": "True",
+      "matricula": "None",
+      "circulo": "None",
+      "numero_predial": "None",
+      "departamento": "Nariño",
+      "municipio": "Buesaco",
+      "vereda": "None",
+      "corregimiento": "None",
+      "barrio": "None",
+      "inspeccion": "None",
+      "area_terreno_fuente": "None",
+      "area_terreno_hec": "None",
+      "id_unidad_terreno_fuente": "3304",
+      "nota": "None",
+      "folio": "None",
+      "usuario_registro": "ia_system"
+    }
+  ]
+}

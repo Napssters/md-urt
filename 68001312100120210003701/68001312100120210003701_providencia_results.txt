@@ -1,0 +1,1098 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "PRIMERO: AMPARAR el derecho fundamental a la restitución de tierras a la comunidad universal de los herederos de FERNANDO NIÑO, quien en vida se identificó con la cédula de ciudadanía No. 2.155.735 y FANNY RIVERA DE NIÑO, quien se identificó en vida con la cédula de ciudadanía No. 28.450.350, representados en este acto por HERNANDO NIÑO RIVERA, identificado con la cédula de ciudadanía No. 91.266.209; WILMER ANDRÉS NIÑO RIVERA, identificada con la cédula de ciudadanía No. 1.095.911.580; GLORIA LUCÍA NIÑO RIVERA, identificada con la cédula de ciudadanía No. 37.555.923 y EDNA MAYERLING NIÑO RIVERA, identificada con la cédula de ciudadanía No. 63.474.645, con relación a los predios denominados i) \"C 2A 2A IMP (LOTE URBANO)\", se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), área georreferenciada de 606 m2, FMI 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000, y, ii) \"LA LAGUNITA\", se encuentra ubicado en la vereda San Isidro del municipio de Suratá (Santander), área georreferenciada de 2 Has con 2308 M², FMI 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000., en atención a las consideraciones expuestas en la presente decisión.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "\nSEGUNDO: NO RECONOCER la calidad de segundo ocupante a LUZ ALBA CARMONA ARISTIZABAL, identificada con la C.C. No. 42.982.860, así como a su núcleo familiar, de conformidad con lo expuesto en la parte considerativa.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "\nTERCERO: RECONOCER a favor de a la comunidad universal de los herederos de FERNANDO NIÑO, quien en vida se identificó con la cédula de ciudadanía No. 2.155.735 y FANNY RIVERA DE NIÑO, quien se identificó en vida con la cédula de ciudadanía No. 28.450.350, representados en este acto por HERNANDO NIÑO RIVERA, identificado con la cédula de ciudadanía No. 91.266.209; WILMER ANDRÉS NIÑO RIVERA, identificada con la cédula de ciudadanía No. 1.095.911.580; GLORIA LUCÍA NIÑO RIVERA, identificada con la cédula de ciudadanía No. 37.555.923 y EDNA MAYERLING NIÑO RIVERA, la RESTITUCIÓN POR EQUIVALENCIA de que tratan los artículos 72 y 97 de la Ley 1448 de 2011, acorde con las disposiciones del Decreto 4829 de 2011, respecto a los predios denominados: i) \"C 2A 2A IMP (LOTE URBANO)\", el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá, área georreferenciada de 606 M², con FMI 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000, y, ii) \"LA LAGUNITA\", localizado en la vereda San Isidro de la citada",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_4": {
+    "pregunta": "CUARTO:",
+    "respuesta": "ORDENAR a la Oficina de Registro de Instrumentos Públicos de Bucaramanga:",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "\nPara lo anterior se concede el término de diez (10) días, para el cumplimiento de estas órdenes judiciales.\n\nQUINTO: CANCELAR la orden de suspensión de procesos judiciales, administrativos o de cualquier otra naturaleza que se lleven a cabo ante autoridades públicas o notariales en los cuales estuvieren comprometidos derechos sobre el aludido terreno.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "\nSEXTO: ORDENAR a LUZ ALBA CARMONA ARISTIZABAL y/o a toda persona que deriva de aquella su derecho respecto de los fundos antes descritos y/o quien lo ocupe en la actualidad, que en el término de los tres (03) días siguientes a le ejecutoria de esta sentencia, ello de confinidad al artículo 100 de la Ley 1448 de 2011, efectué la entrega de dicho terreno a favor del Grupo Fondo de la UAEGRTD.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_7": {
+    "pregunta": "SÉPTIMO:",
+    "respuesta": "\nDÉCIMO SEXTO: SIN CONDENA en costas, de acuerdo con lo establecido en el literal s. del artículo 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: NOTIFÍQUESE esta decisión a los sujetos procesales por el medio más expedito y LÍBRENSE las comunicaciones y las copias que se requieran para el efecto, a través de la secretaría de este estrado.\n\nNOTIFÍQUESE Y CÚMPLASE.\n\nFirmado digitalmente\n\nLILIANA PAOLA GONZÁLEZ FLÓREZ\n\nJUEZ\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_8": {
+    "pregunta": "OCTAVO:",
+    "respuesta": "OCTAVO: En caso que en el término señalado anteriormente no se entregue de manera voluntario los terrenos, se dispone, COMISIONAR para el efecto al Juez Promiscuo Municipal de Suratá (Santander) para que efectué tal diligencia, en los cinco (5) días siguientes. Téngase en cuenta por el Juzgado comisionado que la UAEGRTD,",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo logística que sea necesario para llevar a cabo dicha labor. Por Secretaría líbrese de manera oportuna el respectivo despacho comisorio.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos del lugar donde se ubiquen los predios entregados en equivalencia a favor de los beneficiarios de esta sentencia, en coordinación con la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, lo siguiente:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "\nSe concedee el término de diez (10) días para cumplir estas órdenes una vez se ejecute la restitución por equivalencia.\n\nDÉCIMO: ORDENAR al director de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados los beneficiarios aquí reconocidos, proceda a:\n\n11. 1. Incluirlos en el respectivo registro -RUV- en torno de los hechos arriba analizados, si ya antes no lo hubieren sido por estos mismos y exactos supuestos.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_12": {
+    "pregunta": "DÉCIMO SEGUNDO:",
+    "respuesta": "\nSe le concede a la UARIV el término de un (1) mes para el cumplimiento de estas órdenes y téngase en cuenta además el enfoque diferencial aplicado.\n\nDÉCIMO SEGUNDO: ORDENAR a los comandantes de las Fuerzas Militares de Colombia y la Policía Nacional con competencia en el departamento de Santander y Cundinamarca, que preste el acompañamiento y la colaboración necesaria, en aras de garantizar la seguridad de los solicitantes y su grupo familiar. Se le concede el término de un (1) mes para el cumplimiento de estas órdenes y luego presentar informes bimestrales.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "\nDÉCIMO TERCERO: ORDENAR al Director Territorial Santander de la Defensoría del Pueblo que, en el supuesto de que los acá reclamantes no cuenten con los recursos para contratar a un abogado con el fin de efectuar el trámite correspondiente, designe un apoderado para que asesore a HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, con relación al proceso de sucesión de FERNANDO NIÑO y FANNY RIVERA DE NIÑO, con respecto de los inmuebles que se deben entregar por equivalencia, lo cual ha de surtirse bajo el amparo de pobreza",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_14": {
+    "pregunta": "DÉCIMO CUARTO:",
+    "respuesta": "DÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren efectuado, los hechos por los que resultaron víctimas los aquí solicitantes y que provocaron el abandono aquí tratado. Por Secretaría remítase copia de la solicitud de restitución, sus pruebas y de esta decisión.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_15": {
+    "pregunta": "DÉCIMO QUINTO:",
+    "respuesta": "\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011. Además, con el fin de ubicar a las víctimas reconocidas en esta sentencia, pueden ponerse en contacto con el área jurídica de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_16": {
+    "pregunta": "DÉCIMO SEXTO:",
+    "respuesta": "\nDÉCIMO SEXTO: SIN CONDENA en costas, de acuerdo con lo establecido en el literal s. del artículo 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: NOTIFÍQUESE esta decisión a los sujetos procesales por el medio más expedito y LÍBRENSE las comunicaciones y las copias que se requieran para el efecto, a través de la secretaría de este estrado.\n\nNOTIFÍQUESE Y CÚMPLASE.\n\nFirmado digitalmente\n\nLILIANA PAOLA GONZÁLEZ FLÓREZ\n\nJUEZ\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "606",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.635,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 31,
+        "content_preview": "\n## VII. PROBLEMA JURÍDICO\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.594,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.519,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.515,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 4,
+        "content_preview": "\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del pro..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.497,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 49,
+        "content_preview": "\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es compet..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## VII. PROBLEMA JURÍDICO\n\n\n[Documento Relevante 2]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 3]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 4]\n\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del proceso de restitución de tierras adelantado por la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS - TERRITORIAL MAGDALENA MEDIO, en nombre y representación de HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, quienes actúan en calidad de legitimados de FERNANDO NIÑO y FANNY RIVERA DE NIÑO (ambos fallecidos), con relación a los predios denominados: i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), identificado con el FMI No. 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000 y con área georreferenciada de 606 M², y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro del citado municipio, distinguido con el FMI No. 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000 y con área georreferenciada de 2 Has con 2308 M².\n\n[Documento Relevante 5]\n\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es competente para dictar sentencia dentro del presente trámite, toda vez, que en el término de publicación de que trata el artículo 86 literal “e” ejusdem, no se presentaron terceros y por lo tanto no hubo opositores, y en consideración al factor territorial, debido a que el predio solicitado en restitución se encuentra ubicado en el municipio de Suratá, Departamento de Santander, el cual hace parte de la circunscripción asignada para el efecto a esta dependencia judicial.\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.578,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 23,
+        "content_preview": "\nPosteriormente, por medio del proveído No. 368 del 16 de abril de 2024², y, toda vez que se había realizado la publicación de que trata el artículo 86 literal “e” de la Ley 1448 de 2011, sin que comp..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.535,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 22,
+        "content_preview": "\n## V. ACTUACIÓN PROCESAL\n\nEl 20 de mayo de 2021 se admitió¹ la solicitud, ordenando la inscripción y la sustracción provisional del comercio del fundo pretendido, así como la suspensión de los proces..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.531,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 184,
+        "content_preview": "\n\\( ^{67} \\) Corte Constitucional. Sentencia T-306 de 2021.\n\n68 Actuación No. 1. Archivo INFORME COMUNICACION ID 36577.\n\n69 Actuación No. 78\n\n<--- Page Split --->\n\n## SENTENCIA No. 096\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.528,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 52,
+        "content_preview": "\nAhora bien, según las constancias No. CG 00032 del 13 de abril de 2021 \\( ^{8} \\) para el predio denominado “C 2A 2A IMP (Lote urbano)” y CG 00031 del 13 de abril de 2021 \\( ^{9} \\) para el denominad..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.522,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 213,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nCUARTO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Bucaramanga:\n\n4. 1. La cancelación de las anotaciones No. 4, 5 y 6 conte..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nPosteriormente, por medio del proveído No. 368 del 16 de abril de 2024², y, toda vez que se había realizado la publicación de que trata el artículo 86 literal “e” de la Ley 1448 de 2011, sin que compareciera algún interesado³, se prescindió del periodo probatorio, además de que en la etapa administrativa no se presentaron terceros ni intervinientes⁴. Luego, por auto No. 1000 del 02 de septiembre de 2024⁵, se corrió traslado a las partes, para presentar los alegatos de conclusión.\n\n\n[Documento Relevante 2]\n\n## V. ACTUACIÓN PROCESAL\n\nEl 20 de mayo de 2021 se admitió¹ la solicitud, ordenando la inscripción y la sustracción provisional del comercio del fundo pretendido, así como la suspensión de los procesos judiciales, notariales y administrativos y que se hubieran iniciado. Así mismo se ordenó la publicación de la petición en un diario de amplia circulación nacional y en la secretaría del Despacho, disponiendo igualmente oficiar a varias entidades para obtener información de interés del proceso, e impartiéndose las demás órdenes de que trata el artículo 86 de la Ley 1448 de 2011, entre otras.\n\n[Documento Relevante 3]\n\n\\( ^{67} \\) Corte Constitucional. Sentencia T-306 de 2021.\n\n68 Actuación No. 1. Archivo INFORME COMUNICACION ID 36577.\n\n69 Actuación No. 78\n\n<--- Page Split --->\n\n## SENTENCIA No. 096\n\n\n[Documento Relevante 4]\n\nAhora bien, según las constancias No. CG 00032 del 13 de abril de 2021 \\( ^{8} \\) para el predio denominado “C 2A 2A IMP (Lote urbano)” y CG 00031 del 13 de abril de 2021 \\( ^{9} \\) para el denominado “La Lagunita” expedidas por la UAEGRTD, se confirmó la inclusión de los solicitantes y los predios en el Registro Único de Tierras Despojadas y Abandonadas Forzosamente con las Resoluciones Nos. RG 0481 del 30 de marzo de\n\n\\( ^{8} \\) Actuación No.1. Archivo CG 00032\n\n\n[Documento Relevante 5]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nCUARTO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Bucaramanga:\n\n4. 1. La cancelación de las anotaciones No. 4, 5 y 6 contenidas en el folio de matrícula inmobiliaria No. 300-269738, y las cotas No. 4, 5 y 6 del certificado de tradición No. 300-269740, cuya inscripción fue dispuesta por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y por este juzgado.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.771,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 4,
+        "content_preview": "\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del pro..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.76,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.746,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.719,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 240,
+        "content_preview": "\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.703,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 173,
+        "content_preview": "\n## 8.7. Segundos Ocupantes.\n\nDe acuerdo con lo esbozado por la Honorable Corte Constitucional en la Sentencia C-330 de 2016, es un deber del juez pronunciarse acerca de la situación de los segundos o..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del proceso de restitución de tierras adelantado por la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS - TERRITORIAL MAGDALENA MEDIO, en nombre y representación de HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, quienes actúan en calidad de legitimados de FERNANDO NIÑO y FANNY RIVERA DE NIÑO (ambos fallecidos), con relación a los predios denominados: i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), identificado con el FMI No. 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000 y con área georreferenciada de 606 M², y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro del citado municipio, distinguido con el FMI No. 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000 y con área georreferenciada de 2 Has con 2308 M².\n\n[Documento Relevante 2]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 3]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 4]\n\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011. Además, con el fin de ubicar a las víctimas reconocidas en esta sentencia, pueden ponerse en contacto con el área jurídica de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio.\n\n\n[Documento Relevante 5]\n\n## 8.7. Segundos Ocupantes.\n\nDe acuerdo con lo esbozado por la Honorable Corte Constitucional en la Sentencia C-330 de 2016, es un deber del juez pronunciarse acerca de la situación de los segundos ocupantes, de conformidad con lo contenido en los Principios Pinheiro (Principio 17), los que señalan que “(...) los Estados deben velar por que los ocupantes secundarios estén protegidos contra el desalojo forzoso arbitrario o ilegal. En los casos en que su\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Ambos",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.641,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 166,
+        "content_preview": "\nAhora bien, reza el artículo 97 de la Ley 1448 de 2011, que la compensación por equivalente será procedente cuando: a) el bien reclamado se encuentra en zona de alto riesgo por desastres naturales; b..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.615,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 239,
+        "content_preview": "\n<--- Page Split --->\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nDÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.603,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 230,
+        "content_preview": "\n11. 3. Realizar análisis de identificación de carencias frente a los componentes de subsistencia mínima a efectos de comprobar si aún se encuentran en alguna particular circunstancia que permita ente..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.568,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 228,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.565,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 139,
+        "content_preview": "\n## 8.5. Configuración Del Abandono Forzado\n\nUna vez determinada la calidad de víctima del solicitante y el contexto de violencia sufrido en la zona, corresponde ahora analizar de conformidad con el a..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nAhora bien, reza el artículo 97 de la Ley 1448 de 2011, que la compensación por equivalente será procedente cuando: a) el bien reclamado se encuentra en zona de alto riesgo por desastres naturales; b) el bien pretendido ya ha sido restituido a otra víctima; c) la restitución implique un riesgo para la vida o integridad del restituido o su familia; d) el predio haya sido destruido parcial o totalmente, tornándose imposible su reconstrucción en las condiciones en que se encontraba previo al hecho victimizante; y e) por tratarse de un inmueble baldío inadjudicable.\n\n[Documento Relevante 2]\n\n<--- Page Split --->\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nDÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren efectuado, los hechos por los que resultaron víctimas los aquí solicitantes y que provocaron el abandono aquí tratado. Por Secretaría remítase copia de la solicitud de restitución, sus pruebas y de esta decisión.\n\n\n[Documento Relevante 3]\n\n11. 3. Realizar análisis de identificación de carencias frente a los componentes de subsistencia mínima a efectos de comprobar si aún se encuentran en alguna particular circunstancia que permita entender que no han superado su condición de vulnerabilidad derivada de los sucesos victimizantes y con ello, la entrega de ayudas humanitarias a\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\n\n[Documento Relevante 4]\n\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados los beneficiarios aquí reconocidos, proceda a:\n\n11. 1. Incluirlos en el respectivo registro -RUV- en torno de los hechos arriba analizados, si ya antes no lo hubieren sido por estos mismos y exactos supuestos.\n\n\n[Documento Relevante 5]\n\n## 8.5. Configuración Del Abandono Forzado\n\nUna vez determinada la calidad de víctima del solicitante y el contexto de violencia sufrido en la zona, corresponde ahora analizar de conformidad con el artículo 74 de la Ley 1448 de 2011, el abandono forzado y/o despojo. Se entiende por abandono de tierras: “(...) la situación temporal o permanente a la que se ve abocada una persona forzada a\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.545,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 49,
+        "content_preview": "\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es compet..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.518,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 4,
+        "content_preview": "\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del pro..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.515,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.479,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 90,
+        "content_preview": "\n32 Actuación No. 1. Declaración Hernando Niño Rivera\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.478,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es competente para dictar sentencia dentro del presente trámite, toda vez, que en el término de publicación de que trata el artículo 86 literal “e” ejusdem, no se presentaron terceros y por lo tanto no hubo opositores, y en consideración al factor territorial, debido a que el predio solicitado en restitución se encuentra ubicado en el municipio de Suratá, Departamento de Santander, el cual hace parte de la circunscripción asignada para el efecto a esta dependencia judicial.\n\n[Documento Relevante 2]\n\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del proceso de restitución de tierras adelantado por la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS - TERRITORIAL MAGDALENA MEDIO, en nombre y representación de HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, quienes actúan en calidad de legitimados de FERNANDO NIÑO y FANNY RIVERA DE NIÑO (ambos fallecidos), con relación a los predios denominados: i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), identificado con el FMI No. 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000 y con área georreferenciada de 606 M², y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro del citado municipio, distinguido con el FMI No. 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000 y con área georreferenciada de 2 Has con 2308 M².\n\n[Documento Relevante 3]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 4]\n\n32 Actuación No. 1. Declaración Hernando Niño Rivera\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 cuatro de la tarde no se va, le hacen un atentado y lo matamos (...)\". Además, GLORIA LUCIA NIÑO RIVERA \\( ^{33} \\) indicó “(...) como te dijera, amenazas sí y agresión, a ver en ese entonces, estoy hablando el año 2000, a nosotros, o sea como te dijera, indirectamente si una agresión, porque a mí me mataron a mi esposo. Entonces la agresión no fue, fue como indirecta (...) pero a mis papás ya los habían amenazado (...)\".\n\n[Documento Relevante 5]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.706,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.691,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.666,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 173,
+        "content_preview": "\n## 8.7. Segundos Ocupantes.\n\nDe acuerdo con lo esbozado por la Honorable Corte Constitucional en la Sentencia C-330 de 2016, es un deber del juez pronunciarse acerca de la situación de los segundos o..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.663,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 4,
+        "content_preview": "\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del pro..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.646,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 49,
+        "content_preview": "\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es compet..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 2]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 3]\n\n## 8.7. Segundos Ocupantes.\n\nDe acuerdo con lo esbozado por la Honorable Corte Constitucional en la Sentencia C-330 de 2016, es un deber del juez pronunciarse acerca de la situación de los segundos ocupantes, de conformidad con lo contenido en los Principios Pinheiro (Principio 17), los que señalan que “(...) los Estados deben velar por que los ocupantes secundarios estén protegidos contra el desalojo forzoso arbitrario o ilegal. En los casos en que su\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del proceso de restitución de tierras adelantado por la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS - TERRITORIAL MAGDALENA MEDIO, en nombre y representación de HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, quienes actúan en calidad de legitimados de FERNANDO NIÑO y FANNY RIVERA DE NIÑO (ambos fallecidos), con relación a los predios denominados: i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), identificado con el FMI No. 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000 y con área georreferenciada de 606 M², y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro del citado municipio, distinguido con el FMI No. 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000 y con área georreferenciada de 2 Has con 2308 M².\n\n[Documento Relevante 5]\n\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es competente para dictar sentencia dentro del presente trámite, toda vez, que en el término de publicación de que trata el artículo 86 literal “e” ejusdem, no se presentaron terceros y por lo tanto no hubo opositores, y en consideración al factor territorial, debido a que el predio solicitado en restitución se encuentra ubicado en el municipio de Suratá, Departamento de Santander, el cual hace parte de la circunscripción asignada para el efecto a esta dependencia judicial.\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "Se ordena la restitución jurídica y material del predio, la inclusión en el registro RUV, la investigación de los hechos por parte de la Fiscalía y la articulación de las entidades receptoras conforme a la Ley 1448 de 2011.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.677,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.669,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 239,
+        "content_preview": "\n<--- Page Split --->\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nDÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.642,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 228,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.636,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 240,
+        "content_preview": "\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.618,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 136,
+        "content_preview": "\nSintetizando lo esbozado, es dable concluir de las pruebas allegadas al proceso, que hay elementos suficientes para dar por sentada la calidad de víctima de los solicitantes, más aún cuando se encuen..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 2]\n\n<--- Page Split --->\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nDÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren efectuado, los hechos por los que resultaron víctimas los aquí solicitantes y que provocaron el abandono aquí tratado. Por Secretaría remítase copia de la solicitud de restitución, sus pruebas y de esta decisión.\n\n\n[Documento Relevante 3]\n\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados los beneficiarios aquí reconocidos, proceda a:\n\n11. 1. Incluirlos en el respectivo registro -RUV- en torno de los hechos arriba analizados, si ya antes no lo hubieren sido por estos mismos y exactos supuestos.\n\n\n[Documento Relevante 4]\n\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011. Además, con el fin de ubicar a las víctimas reconocidas en esta sentencia, pueden ponerse en contacto con el área jurídica de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio.\n\n\n[Documento Relevante 5]\n\nSintetizando lo esbozado, es dable concluir de las pruebas allegadas al proceso, que hay elementos suficientes para dar por sentada la calidad de víctima de los solicitantes, más aún cuando se encuentra prevalido de veracidad conforme al principio de la buena fe (Ley 1448 de 2011, art. 5º), y lo establecido en el art. 89 inciso 3 respecto de la presunción de fidedignidad del material aportado por la UAEGRTD, lo que también está en consonancia con el reconocimiento de circunstancias que sufrieron otros miembros de la comunidad, funcionarios públicos y, terceros, con las declaraciones recaudadas por la UAEGRTD, las pruebas documentales allegadas y el contexto de violencia acopiado, donde quedo claro que los solicitantes junto con su núcleo familiarar se vieron avocados a abandonar su fundo ante la delicada situación de violencia de la zona y el temor que desencadenó en la familia solicitante, volver el lugar que habían adquirido para proyectar su desarrollo económico y su plan de vida.\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2024-09-27",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.549,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 22,
+        "content_preview": "\n## V. ACTUACIÓN PROCESAL\n\nEl 20 de mayo de 2021 se admitió¹ la solicitud, ordenando la inscripción y la sustracción provisional del comercio del fundo pretendido, así como la suspensión de los proces..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.54,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 23,
+        "content_preview": "\nPosteriormente, por medio del proveído No. 368 del 16 de abril de 2024², y, toda vez que se había realizado la publicación de que trata el artículo 86 literal “e” de la Ley 1448 de 2011, sin que comp..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.511,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 215,
+        "content_preview": "\nPara lo anterior se concede el término de diez (10) días, para el cumplimiento de estas órdenes judiciales.\n\nQUINTO: CANCELAR la orden de suspensión de procesos judiciales, administrativos o de cualq..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.497,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 184,
+        "content_preview": "\n\\( ^{67} \\) Corte Constitucional. Sentencia T-306 de 2021.\n\n68 Actuación No. 1. Archivo INFORME COMUNICACION ID 36577.\n\n69 Actuación No. 78\n\n<--- Page Split --->\n\n## SENTENCIA No. 096\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.486,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 235,
+        "content_preview": "\nSe le concede a la UARIV el término de un (1) mes para el cumplimiento de estas órdenes y téngase en cuenta además el enfoque diferencial aplicado.\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## V. ACTUACIÓN PROCESAL\n\nEl 20 de mayo de 2021 se admitió¹ la solicitud, ordenando la inscripción y la sustracción provisional del comercio del fundo pretendido, así como la suspensión de los procesos judiciales, notariales y administrativos y que se hubieran iniciado. Así mismo se ordenó la publicación de la petición en un diario de amplia circulación nacional y en la secretaría del Despacho, disponiendo igualmente oficiar a varias entidades para obtener información de interés del proceso, e impartiéndose las demás órdenes de que trata el artículo 86 de la Ley 1448 de 2011, entre otras.\n\n[Documento Relevante 2]\n\nPosteriormente, por medio del proveído No. 368 del 16 de abril de 2024², y, toda vez que se había realizado la publicación de que trata el artículo 86 literal “e” de la Ley 1448 de 2011, sin que compareciera algún interesado³, se prescindió del periodo probatorio, además de que en la etapa administrativa no se presentaron terceros ni intervinientes⁴. Luego, por auto No. 1000 del 02 de septiembre de 2024⁵, se corrió traslado a las partes, para presentar los alegatos de conclusión.\n\n\n[Documento Relevante 3]\n\nPara lo anterior se concede el término de diez (10) días, para el cumplimiento de estas órdenes judiciales.\n\nQUINTO: CANCELAR la orden de suspensión de procesos judiciales, administrativos o de cualquier otra naturaleza que se lleven a cabo ante autoridades públicas o notariales en los cuales estuvieren comprometidos derechos sobre el aludido terreno.\n\n\n[Documento Relevante 4]\n\n\\( ^{67} \\) Corte Constitucional. Sentencia T-306 de 2021.\n\n68 Actuación No. 1. Archivo INFORME COMUNICACION ID 36577.\n\n69 Actuación No. 78\n\n<--- Page Split --->\n\n## SENTENCIA No. 096\n\n\n[Documento Relevante 5]\n\nSe le concede a la UARIV el término de un (1) mes para el cumplimiento de estas órdenes y téngase en cuenta además el enfoque diferencial aplicado.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "096",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.56,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 5,
+        "content_preview": "\n## III. ANTECEDENTES\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.514,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 204,
+        "content_preview": "\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITU..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.511,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 208,
+        "content_preview": "\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITU..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.472,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 193,
+        "content_preview": "\n## IX. CONCLUSIONES\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.461,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 202,
+        "content_preview": "\n“C 2A 2A IMP (Lote Urbano)”\n\n<fcel>LINDEROS Y COLINDANTES DEL PREDIO<lcel><nl><fcel>Norte:<fcel>Punto 273427 (Norte 2388269,35 Este 4994878,35) donde convergen los linderos con \"CALLE 2 A\" y \"CARRERA..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## III. ANTECEDENTES\n\n\n[Documento Relevante 2]\n\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITUD (W)<nl><fcel>273427<fcel>2388269,35<fcel>4994878,35<fcel>7° 30' 49,797\" N<fcel>73° 2' 47,190\" W<nl><fcel>273475<fcel>2388260,62<fcel>4994891,62<fcel>7° 30' 49,513\" N<fcel>73° 2' 46,756\" W<nl><fcel>273484<fcel>2388260,11<fcel>4994871,42<fcel>7° 30' 49,496\" N<fcel>73° 2' 47,416\" W<nl><fcel>273468<fcel>2388243,38<fcel>4994860,11<fcel>7° 30' 48,951\" N<fcel>73° 2' 47,785\" W<nl><fcel>273429<fcel>2388241,00<fcel>4994868,00<fcel>7° 30' 48,873\" N<fcel>73° 2' 47,527\" W<nl><fcel>273422<fcel>2388253,76<fcel>4994901,21<fcel>7° 30' 49,289\" N<fcel>73° 2' 46,443\" W<nl><fcel>273430<fcel>2388245,64<fcel>4994899,72<fcel>7° 30' 49,025\" N<fcel>73° 2' 46,492\" W<nl><fcel>273483<fcel>2388245,12<fcel>4994886,51<fcel>7° 30' 49,008\" N<fcel>73° 2' 46,923\" W<nl><fcel>273479<fcel>2388246,13<fcel>4994874,20<fcel>7° 30' 49,041\" N<fcel>73° 2' 47,325\" W<nl>\n\n[Documento Relevante 3]\n\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITUD (W)<nl><fcel>1<fcel>2387789.629<fcel>4994901.350<fcel>7° 30' 34.169\" N<fcel>73° 2' 46.437\" W<nl><fcel>215154<fcel>2387749.630<fcel>4994808.077<fcel>7° 30' 32.865\" N<fcel>73° 2' 49.482\" W<nl><fcel>220709<fcel>2387856.570<fcel>4994808.077<fcel>7° 30' 36.349\" N<fcel>73° 2' 49.187\" W<nl><fcel>273414<fcel>2387942.526<fcel>4994838.946<fcel>7° 30' 39.150\" N<fcel>73° 2' 48.475\" W<nl><fcel>273415<fcel>2388032.079<fcel>4994719.172<fcel>7° 30' 42.067\" N<fcel>73° 2' 52.385\" W<nl><fcel>273424<fcel>2387885.326<fcel>4994866.489<fcel>7° 30' 37.286\" N<fcel>73° 2' 47.575\" W<nl><fcel>273425<fcel>2387950.555<fcel>4994828.103<fcel>7° 30' 39.411\" N<fcel>73° 2' 48.829\" W<nl><fcel>273431<fcel>2387916.327<fcel>4994778.229<fcel>7° 30' 38.296\" N<fcel>73° 2' 50.457\" W<nl><fcel>273433<fcel>2387945.480<fcel>4994792.306<fcel>7° 30' 39.246\" N<fcel>73° 2' 49.997\" W<nl><fcel>273466<fcel>2387932.286<fcel>4994781.711<fcel>7° 30' 38.816\" N<fcel>73° 2' 50.343\" W<nl><fcel>273467<fcel>2387900.324<fcel>4994826.703<fcel>7° 30' 37.775\" N<fcel>73° 2' 48.874\" W<nl><fcel>273470<fcel>2387897.234<fcel>4994797.671<fcel>7° 30'\n\n[Documento Relevante 4]\n\n## IX. CONCLUSIONES\n\n\n[Documento Relevante 5]\n\n“C 2A 2A IMP (Lote Urbano)”\n\n<fcel>LINDEROS Y COLINDANTES DEL PREDIO<lcel><nl><fcel>Norte:<fcel>Punto 273427 (Norte 2388269,35 Este 4994878,35) donde convergen los linderos con \"CALLE 2 A\" y \"CARRERA 2 A VIA A TURBAY\".<nl><fcel>Oriente:<fcel>Partiendo desde el punto 273427 (Norte 2388269,35 Este 4994878,35) en línea quebrada, en dirección Suroriente, pasando por el punto 273475, hasta llegar al punto 273422 (coordenadas Norte 2388253,76 y Este 4994901,21) con \"CARRERA 2 A VIA A TURBAY\" en longitud 27,67 m.<nl><fcel>Sur:<fcel>Partiendo desde el punto 273422 (coordenadas Norte 2388253,76 y Este 4994901,21) en línea quebrada, en dirección Suroccidente, pasando por los puntos 273430, 273483, 273479 y 273429, hasta llegar al punto 273468 (coordenadas Norte 2388243,38 y Este 4994860,11) con \"ANA HERNANDEZ VDA DE RIVERA\" en longitud 13,00 m.<nl><fcel>Occidente:<fcel>Partiendo desde el punto 273468 (coordenadas Norte 2388243,38 y Este 4994860,11) en línea quebrada, en dirección Nororiente, pasando el punto 273484, hasta llegar al punto de partida 273427 (Norte 2388269,35 Este 4994878,35) con \"CALLE 2 A\" en longitud 31,75 m.<nl>\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "68001312100120210003700",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.475,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 193,
+        "content_preview": "\n## IX. CONCLUSIONES\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.471,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 204,
+        "content_preview": "\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITU..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.461,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 5,
+        "content_preview": "\n## III. ANTECEDENTES\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.455,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 208,
+        "content_preview": "\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITU..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.437,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 202,
+        "content_preview": "\n“C 2A 2A IMP (Lote Urbano)”\n\n<fcel>LINDEROS Y COLINDANTES DEL PREDIO<lcel><nl><fcel>Norte:<fcel>Punto 273427 (Norte 2388269,35 Este 4994878,35) donde convergen los linderos con \"CALLE 2 A\" y \"CARRERA..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## IX. CONCLUSIONES\n\n\n[Documento Relevante 2]\n\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITUD (W)<nl><fcel>273427<fcel>2388269,35<fcel>4994878,35<fcel>7° 30' 49,797\" N<fcel>73° 2' 47,190\" W<nl><fcel>273475<fcel>2388260,62<fcel>4994891,62<fcel>7° 30' 49,513\" N<fcel>73° 2' 46,756\" W<nl><fcel>273484<fcel>2388260,11<fcel>4994871,42<fcel>7° 30' 49,496\" N<fcel>73° 2' 47,416\" W<nl><fcel>273468<fcel>2388243,38<fcel>4994860,11<fcel>7° 30' 48,951\" N<fcel>73° 2' 47,785\" W<nl><fcel>273429<fcel>2388241,00<fcel>4994868,00<fcel>7° 30' 48,873\" N<fcel>73° 2' 47,527\" W<nl><fcel>273422<fcel>2388253,76<fcel>4994901,21<fcel>7° 30' 49,289\" N<fcel>73° 2' 46,443\" W<nl><fcel>273430<fcel>2388245,64<fcel>4994899,72<fcel>7° 30' 49,025\" N<fcel>73° 2' 46,492\" W<nl><fcel>273483<fcel>2388245,12<fcel>4994886,51<fcel>7° 30' 49,008\" N<fcel>73° 2' 46,923\" W<nl><fcel>273479<fcel>2388246,13<fcel>4994874,20<fcel>7° 30' 49,041\" N<fcel>73° 2' 47,325\" W<nl>\n\n[Documento Relevante 3]\n\n## III. ANTECEDENTES\n\n\n[Documento Relevante 4]\n\n<fcel>CUADRO DE COORDENADAS<lcel><lcel><lcel><lcel><nl><fcel>Número Punto<fcel>COORDENADAS PLANAS<lcel><fcel>COORDENADAS GEOGRÁFICAS<lcel><nl><ucel><fcel>NORTE<fcel>ESTE<fcel>LATITUD (N)<fcel>LONGITUD (W)<nl><fcel>1<fcel>2387789.629<fcel>4994901.350<fcel>7° 30' 34.169\" N<fcel>73° 2' 46.437\" W<nl><fcel>215154<fcel>2387749.630<fcel>4994808.077<fcel>7° 30' 32.865\" N<fcel>73° 2' 49.482\" W<nl><fcel>220709<fcel>2387856.570<fcel>4994808.077<fcel>7° 30' 36.349\" N<fcel>73° 2' 49.187\" W<nl><fcel>273414<fcel>2387942.526<fcel>4994838.946<fcel>7° 30' 39.150\" N<fcel>73° 2' 48.475\" W<nl><fcel>273415<fcel>2388032.079<fcel>4994719.172<fcel>7° 30' 42.067\" N<fcel>73° 2' 52.385\" W<nl><fcel>273424<fcel>2387885.326<fcel>4994866.489<fcel>7° 30' 37.286\" N<fcel>73° 2' 47.575\" W<nl><fcel>273425<fcel>2387950.555<fcel>4994828.103<fcel>7° 30' 39.411\" N<fcel>73° 2' 48.829\" W<nl><fcel>273431<fcel>2387916.327<fcel>4994778.229<fcel>7° 30' 38.296\" N<fcel>73° 2' 50.457\" W<nl><fcel>273433<fcel>2387945.480<fcel>4994792.306<fcel>7° 30' 39.246\" N<fcel>73° 2' 49.997\" W<nl><fcel>273466<fcel>2387932.286<fcel>4994781.711<fcel>7° 30' 38.816\" N<fcel>73° 2' 50.343\" W<nl><fcel>273467<fcel>2387900.324<fcel>4994826.703<fcel>7° 30' 37.775\" N<fcel>73° 2' 48.874\" W<nl><fcel>273470<fcel>2387897.234<fcel>4994797.671<fcel>7° 30'\n\n[Documento Relevante 5]\n\n“C 2A 2A IMP (Lote Urbano)”\n\n<fcel>LINDEROS Y COLINDANTES DEL PREDIO<lcel><nl><fcel>Norte:<fcel>Punto 273427 (Norte 2388269,35 Este 4994878,35) donde convergen los linderos con \"CALLE 2 A\" y \"CARRERA 2 A VIA A TURBAY\".<nl><fcel>Oriente:<fcel>Partiendo desde el punto 273427 (Norte 2388269,35 Este 4994878,35) en línea quebrada, en dirección Suroriente, pasando por el punto 273475, hasta llegar al punto 273422 (coordenadas Norte 2388253,76 y Este 4994901,21) con \"CARRERA 2 A VIA A TURBAY\" en longitud 27,67 m.<nl><fcel>Sur:<fcel>Partiendo desde el punto 273422 (coordenadas Norte 2388253,76 y Este 4994901,21) en línea quebrada, en dirección Suroccidente, pasando por los puntos 273430, 273483, 273479 y 273429, hasta llegar al punto 273468 (coordenadas Norte 2388243,38 y Este 4994860,11) con \"ANA HERNANDEZ VDA DE RIVERA\" en longitud 13,00 m.<nl><fcel>Occidente:<fcel>Partiendo desde el punto 273468 (coordenadas Norte 2388243,38 y Este 4994860,11) en línea quebrada, en dirección Nororiente, pasando el punto 273484, hasta llegar al punto de partida 273427 (Norte 2388269,35 Este 4994878,35) con \"CALLE 2 A\" en longitud 31,75 m.<nl>\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "RESTITUYE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.719,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.672,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.669,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 49,
+        "content_preview": "\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es compet..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.63,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 4,
+        "content_preview": "\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del pro..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.62,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 173,
+        "content_preview": "\n## 8.7. Segundos Ocupantes.\n\nDe acuerdo con lo esbozado por la Honorable Corte Constitucional en la Sentencia C-330 de 2016, es un deber del juez pronunciarse acerca de la situación de los segundos o..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 2]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 3]\n\n## 8.1. Competencia Y Requisito De Procedibilidad.\n\nSea lo primero por decir, que de conformidad con lo dispuesto en el inciso segundo del artículo 79 de la Ley 1448 de 2011, este Despacho, es competente para dictar sentencia dentro del presente trámite, toda vez, que en el término de publicación de que trata el artículo 86 literal “e” ejusdem, no se presentaron terceros y por lo tanto no hubo opositores, y en consideración al factor territorial, debido a que el predio solicitado en restitución se encuentra ubicado en el municipio de Suratá, Departamento de Santander, el cual hace parte de la circunscripción asignada para el efecto a esta dependencia judicial.\n\n[Documento Relevante 4]\n\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del proceso de restitución de tierras adelantado por la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS - TERRITORIAL MAGDALENA MEDIO, en nombre y representación de HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, quienes actúan en calidad de legitimados de FERNANDO NIÑO y FANNY RIVERA DE NIÑO (ambos fallecidos), con relación a los predios denominados: i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), identificado con el FMI No. 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000 y con área georreferenciada de 606 M², y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro del citado municipio, distinguido con el FMI No. 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000 y con área georreferenciada de 2 Has con 2308 M².\n\n[Documento Relevante 5]\n\n## 8.7. Segundos Ocupantes.\n\nDe acuerdo con lo esbozado por la Honorable Corte Constitucional en la Sentencia C-330 de 2016, es un deber del juez pronunciarse acerca de la situación de los segundos ocupantes, de conformidad con lo contenido en los Principios Pinheiro (Principio 17), los que señalan que “(...) los Estados deben velar por que los ocupantes secundarios estén protegidos contra el desalojo forzoso arbitrario o ilegal. En los casos en que su\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Metros Cuadrados",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.59,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.578,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.557,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 219,
+        "content_preview": "\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo logística que sea necesario para llevar a cabo dicha labor. Por Secretaría líbrese de manera oportuna el respectivo despacho comisorio.\n\n..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.557,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 210,
+        "content_preview": "\nSENTENCIA No. 096\n\n<fcel>273481<fcel>2388016.903<fcel>4994736.701<fcel>7° 30' 41.572\" N<fcel>73° 2' 51.813\" W<nl>\n\nAsí las cosas, se dispone:\n\n3. 1. ORDENAR al Director de la Unidad Administrativa Es..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.546,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 31,
+        "content_preview": "\n## VII. PROBLEMA JURÍDICO\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 2]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 3]\n\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo logística que sea necesario para llevar a cabo dicha labor. Por Secretaría líbrese de manera oportuna el respectivo despacho comisorio.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos del lugar donde se ubiquen los predios entregados en equivalencia a favor de los beneficiarios de esta sentencia, en coordinación con la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, lo siguiente:\n\n\n[Documento Relevante 4]\n\nSENTENCIA No. 096\n\n<fcel>273481<fcel>2388016.903<fcel>4994736.701<fcel>7° 30' 41.572\" N<fcel>73° 2' 51.813\" W<nl>\n\nAsí las cosas, se dispone:\n\n3. 1. ORDENAR al Director de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y con cargo a los recursos del Fondo de esa misma entidad, que en los términos previstos en el artículo 37 del Decreto 4829 de 2011, compilado ahora en el Decreto 1071 de 2015, titule y entregue uno o varios inmuebles por equivalente ubicados en el lugar que los reclamantes elijan, ya sea urbano o rural, que deberá corresponderse en el primer caso siquiera a una Vivienda de Interés Prioritario y en el otro a una Unidad Agrícola Familiar o de la suficiente superficie con la que al menos se logre un desarrollo económico auto sostenible de producción agropecuaria -en un valor por lo menos equivalente a una VIP-, cuya búsqueda deberá ser ejecutada de manera concertada con aquellos.\n\n[Documento Relevante 5]\n\n## VII. PROBLEMA JURÍDICO\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"HERNANDO\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"WILMER\", \"segundo_nombre\": \"ANDRÉS\", \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": \"RIVERA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"GLORIA\", \"segundo_nombre\": \"LUCÍA\", \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": \"RIVERA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"EDNA\", \"segundo_nombre\": \"MAYERLING\", \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": \"RIVERA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"FERNANDO\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FANNY\", \"segundo_nombre\": null, \"primer_apellido\": \"RIVERA\", \"segundo_apellido\": \"DE NIÑO\", \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"ANA\", \"segundo_nombre\": \"DE DIOS\", \"primer_apellido\": \"HERNÁNDEZ\", \"segundo_apellido\": \"VIUDA DE RIBERA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ABELARDO\", \"segundo_nombre\": null, \"primer_apellido\": \"TAPIAS\", \"segundo_apellido\": \"CAUSIL\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"PATROCINIO\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"LUZ ALBA\", \"segundo_nombre\": \"CARMONA\", \"primer_apellido\": \"ARISTIZÁBAL\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"WILMER ANDRÉS\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO RIVERA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"EDNA MAYERLING\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO RIVERA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"WILMER ANDRES\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": \"RIVERA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"AZUCENA\", \"segundo_nombre\": null, \"primer_apellido\": \"PABON\", \"segundo_apellido\": \"MOTTA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUZ\", \"segundo_nombre\": \"ALBA\", \"primer_apellido\": \"CARMONA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JUVENAL\", \"segundo_nombre\": \"JAIMES\", \"primer_apellido\": \"HERNANDEZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ANA\", \"segundo_nombre\": \"CELIA\", \"primer_apellido\": \"SUÁREZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FERNANDO\", \"segundo_nombre\": \"NIÑO\", \"primer_apellido\": \"RIVERA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FANNY\", \"segundo_nombre\": \"RIVERA\", \"primer_apellido\": \"DE\", \"segundo_apellido\": \"NIÑO\", \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"HERNANDO\", \"segundo_nombre\": \"NIÑO\", \"primer_apellido\": \"RIVERA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"ABELARDO\", \"segundo_nombre\": \"TAPIAS\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JUSTO\", \"segundo_nombre\": \"ARIAS\", \"primer_apellido\": \"ORTEGA\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"PATROCINIO\", \"segundo_nombre\": \"NIÑO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"ORLANDO\", \"segundo_nombre\": \"ORTEGA\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSÉ\", \"segundo_nombre\": \"ABELARDO\", \"primer_apellido\": \"TAPIAS\", \"segundo_apellido\": \"CAUSIL\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"GLORIA LUCIA\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": \"RIVERA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"WILMER ANDRÉS\", \"segundo_nombre\": null, \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": \"RIVERA\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"AZUCENA\", \"segundo_nombre\": null, \"primer_apellido\": \"PABÓN\", \"segundo_apellido\": \"MOTTA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"PATROCINO\", \"segundo_nombre\": \"NIÑO\", \"primer_apellido\": \"GUERRERO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"FANNY\", \"segundo_nombre\": \"RIVERA\", \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"FERNANDO\", \"segundo_nombre\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"titular\"}, {\"primer_nombre\": \"JOSÉ\", \"segundo_nombre\": \"DEMETRIO\", \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"PABLO\", \"segundo_nombre\": \"HERNÁNDEZ\", \"primer_apellido\": \"NIÑO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JOSE\", \"segundo_nombre\": null, \"primer_apellido\": \"QUIÑONES\", \"segundo_apellido\": \"PEDRAZA\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"CARMEN\", \"segundo_nombre\": \"ROSA\", \"primer_apellido\": \"ORTIZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"PABLO\", \"segundo_nombre\": null, \"primer_apellido\": \"HERNANDEZ\", \"segundo_apellido\": \"NIÑO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"ADELIS\", \"segundo_nombre\": null, \"primer_apellido\": \"HERNANDEZ\", \"segundo_apellido\": \"NIÑO\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LILIANA PAOLA\", \"segundo_nombre\": null, \"primer_apellido\": \"GONZÁLEZ\", \"segundo_apellido\": \"FLÓREZ\", \"numero_documento\": null, \"rol\": null}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[{\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"C 2A 2A IMP (LOTE URBANO)\", \"predio_rural\": false, \"matricula\": \"300-269738\", \"circulo\": \"300\", \"numero_predial\": \"68-780-03-00-0007-0001-000\", \"departamento\": \"Santander\", \"municipio\": \"Suratá\", \"vereda\": \"San Isidro – Centro\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"606\", \"area_terreno_hec\": \"0.0606\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"269738\"}, {\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"LA LAGUNITA\", \"predio_rural\": true, \"matricula\": \"300-269740\", \"circulo\": \"300\", \"numero_predial\": \"68-780-00-02-0005-0099-000\", \"departamento\": \"Santander\", \"municipio\": \"Suratá\", \"vereda\": \"San Isidro\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"22308\", \"area_terreno_hec\": \"2.2308\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"269740\"}]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.693,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 219,
+        "content_preview": "\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo logística que sea necesario para llevar a cabo dicha labor. Por Secretaría líbrese de manera oportuna el respectivo despacho comisorio.\n\n..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.643,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 240,
+        "content_preview": "\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.616,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 210,
+        "content_preview": "\nSENTENCIA No. 096\n\n<fcel>273481<fcel>2388016.903<fcel>4994736.701<fcel>7° 30' 41.572\" N<fcel>73° 2' 51.813\" W<nl>\n\nAsí las cosas, se dispone:\n\n3. 1. ORDENAR al Director de la Unidad Administrativa Es..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.6,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 217,
+        "content_preview": "\nOCTAVO: En caso que en el término señalado anteriormente no se entregue de manera voluntario los terrenos, se dispone, COMISIONAR para el efecto al Juez Promiscuo Municipal de Suratá (Santander) para..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.587,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 239,
+        "content_preview": "\n<--- Page Split --->\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nDÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren ..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.583,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 25,
+        "content_preview": "\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimid..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.577,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 33,
+        "content_preview": "\nPor otro, realizar el estudio para determinar si en el inmueble pretendido hay presencia de segundos ocupantes y, de ser así, adoptar las medidas que sean necesarias con miras a garantizar sus derech..."
+      },
+      {
+        "rank": 8,
+        "similarity": 0.565,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 223,
+        "content_preview": "\nDÉCIMO: ORDENAR al director de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio:\n\n10. 1. Aplicar, si es del caso, a favor del beneficiario y a parti..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.557,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 99,
+        "content_preview": "\nEn el caso de análisis, se tiene que lo reclamado son los predios denominados i) \"C 2A 2A IMP (LOTE URBANO)\", y, ii) \"LA LAGUNITA\", que se encuentran ubicados en la vereda San Isidro del municipio de..."
+      },
+      {
+        "rank": 10,
+        "similarity": 0.547,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 4,
+        "content_preview": "\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del pro..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.547,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": 12,
+        "similarity": 0.54,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 172,
+        "content_preview": "\nPor tanto, se hará vía restitución por equivalencia, esto a cargo del Fondo de la Unidad de Tierras a quien se le ordenará la entrega material y jurídica por equivalente de uno o varios predios urban..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.538,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 214,
+        "content_preview": "\n4. 2. La transferencia del derecho real de dominio de los predios denominados i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá, ár..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.531,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 46,
+        "content_preview": "\nFinalmente, la Ley 1448 de 2011, por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones incluye una nu..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.529,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 213,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nCUARTO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Bucaramanga:\n\n4. 1. La cancelación de las anotaciones No. 4, 5 y 6 conte..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.529,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 201,
+        "content_preview": "\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n## SENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 municipalidad, área geor..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.527,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 229,
+        "content_preview": "\n11. 1. Incluirlos en el respectivo registro -RUV- en torno de los hechos arriba analizados, si ya antes no lo hubieren sido por estos mismos y exactos supuestos.\n\n11. 2. Establecer el Plan de Atenció..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.525,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 168,
+        "content_preview": "\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la c..."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.522,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 228,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados ..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.517,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 218,
+        "content_preview": "\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo log..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.511,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 52,
+        "content_preview": "\nAhora bien, según las constancias No. CG 00032 del 13 de abril de 2021 \\( ^{8} \\) para el predio denominado “C 2A 2A IMP (Lote urbano)” y CG 00031 del 13 de abril de 2021 \\( ^{9} \\) para el denominad..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.51,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 241,
+        "content_preview": "\nDÉCIMO SEXTO: SIN CONDENA en costas, de acuerdo con lo establecido en el literal s. del artículo 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: NOTIFÍQUESE esta decisión a los sujetos procesales por el ..."
+      },
+      {
+        "rank": 23,
+        "similarity": 0.51,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 110,
+        "content_preview": "\n45 Actuación No. 1. Archivo RUP y Resolución\n\n46 Actuación No. 1. Archivo Resolución 00540\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCAR..."
+      },
+      {
+        "rank": 24,
+        "similarity": 0.507,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 20,
+        "content_preview": "\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 integral; así como a que se..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.503,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 231,
+        "content_preview": "\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 que eventualmente tengan de..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.502,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 230,
+        "content_preview": "\n11. 3. Realizar análisis de identificación de carencias frente a los componentes de subsistencia mínima a efectos de comprobar si aún se encuentran en alguna particular circunstancia que permita ente..."
+      },
+      {
+        "rank": 27,
+        "similarity": 0.502,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 179,
+        "content_preview": "\n\\( ^{66} \\) Corte Constitucional. Sentencia C-330 de 2016.\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadic..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.498,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 212,
+        "content_preview": "\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nCUARTO: ORDENAR a la Ofici..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.497,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 32,
+        "content_preview": "\n## VII. PROBLEMA JURÍDICO\n\nEstablecer si es procedente amparar el derecho fundamental a la restitución de tierras de los aquí reclamantes, lo anterior, de conformidad con los presupuestos contenidos ..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.494,
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 180,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 caracterizaciones socioeconómicas por ella efectuadas, pero, en todo caso, será la autoridad jurisdiccional, la que determine su alcance.\n\nLa ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. ..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 1,
+        "content_preview": "\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernand..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "68001312100120210003701_1792516461",
+        "chunk_index": 2,
+        "content_preview": "\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo logística que sea necesario para llevar a cabo dicha labor. Por Secretaría líbrese de manera oportuna el respectivo despacho comisorio.\n\nNOVENO: ORDENAR a la Oficina de Registro de Instrumentos Públicos del lugar donde se ubiquen los predios entregados en equivalencia a favor de los beneficiarios de esta sentencia, en coordinación con la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, lo siguiente:\n\n\n[Documento Relevante 2]\n\nDÉCIMO QUINTO: ADVERTIR a las diferentes entidades receptoras de las órdenes emitidas en esta providencia, que para su cumplimiento deben actuar de manera armónica y articulada, según lo dispuesto en el artículo 26 de la Ley 1448 de 2011. Además, con el fin de ubicar a las víctimas reconocidas en esta sentencia, pueden ponerse en contacto con el área jurídica de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio.\n\n\n[Documento Relevante 3]\n\nSENTENCIA No. 096\n\n<fcel>273481<fcel>2388016.903<fcel>4994736.701<fcel>7° 30' 41.572\" N<fcel>73° 2' 51.813\" W<nl>\n\nAsí las cosas, se dispone:\n\n3. 1. ORDENAR al Director de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y con cargo a los recursos del Fondo de esa misma entidad, que en los términos previstos en el artículo 37 del Decreto 4829 de 2011, compilado ahora en el Decreto 1071 de 2015, titule y entregue uno o varios inmuebles por equivalente ubicados en el lugar que los reclamantes elijan, ya sea urbano o rural, que deberá corresponderse en el primer caso siquiera a una Vivienda de Interés Prioritario y en el otro a una Unidad Agrícola Familiar o de la suficiente superficie con la que al menos se logre un desarrollo económico auto sostenible de producción agropecuaria -en un valor por lo menos equivalente a una VIP-, cuya búsqueda deberá ser ejecutada de manera concertada con aquellos.\n\n[Documento Relevante 4]\n\nOCTAVO: En caso que en el término señalado anteriormente no se entregue de manera voluntario los terrenos, se dispone, COMISIONAR para el efecto al Juez Promiscuo Municipal de Suratá (Santander) para que efectué tal diligencia, en los cinco (5) días siguientes. Téngase en cuenta por el Juzgado comisionado que la UAEGRTD,\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\n\n[Documento Relevante 5]\n\n<--- Page Split --->\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nDÉCIMO CUARTO: ORDENAR a la Fiscalía General de la Nación -Grupo de Tierras-, que investiguen, si antes no lo hubieren efectuado, los hechos por los que resultaron víctimas los aquí solicitantes y que provocaron el abandono aquí tratado. Por Secretaría remítase copia de la solicitud de restitución, sus pruebas y de esta decisión.\n\n\n[Documento Relevante 6]\n\n## VI. ALEGATOS De CONCLUSIÓN.\n\n6. 1. La Procuradora 44 Judicial I para la Restitución de Tierras de Bucaramanga \\( ^{6} \\) , se pronunció sobre el asunto, efectuando un examen de los hechos esgrimidos en la solicitud, las pretensiones y la actuación procesal, considerando que la acción cumple con el requisito de procedibilidad del artículo 76 ejusdem, el de temporalidad, así como el vínculo jurídico de los solicitantes con el fundo. Por todo lo anterior, solicitó al Despacho acoger las pretensiones de la solicitud. Respecto de la calidad de segundo ocupante destacó que se encuentra acreditado que el predio “C 2A\n\n[Documento Relevante 7]\n\nPor otro, realizar el estudio para determinar si en el inmueble pretendido hay presencia de segundos ocupantes y, de ser así, adoptar las medidas que sean necesarias con miras a garantizar sus derechos e intereses, de conformidad con las normas internacionales del caso y la línea jurisprudencial de la Corte Constitucional en la materia, en especial la sentencia C-330 de 2016.\n\n7 Actuación No. 82\n\n<--- Page Split --->\n\n\n[Documento Relevante 8]\n\nDÉCIMO: ORDENAR al director de la Unidad Administrativa Especial de Gestión de Restitución de Tierras -Territorial Magdalena Medio:\n\n10. 1. Aplicar, si es del caso, a favor del beneficiario y a partir de la entrega de los predios entregados en restitución por equivalencia, la exoneración del pago de impuesto predial u otros conceptos, tasas o contribuciones del orden municipal, en los términos contenidos en el acuerdo respectivo, según lo contemplado en el numeral 1° del artículo 121 de la Ley 1448 de 2011. Por tanto, una vez efectuada la entrega del predio en equivalencia, deberá informar al alcalde respectivamente, para que se aplique tal beneficio.\n\n[Documento Relevante 9]\n\nEn el caso de análisis, se tiene que lo reclamado son los predios denominados i) \"C 2A 2A IMP (LOTE URBANO)\", y, ii) \"LA LAGUNITA\", que se encuentran ubicados en la vereda San Isidro del municipio de Suratá (Santander), los cuales fueron adquiridos por FERNANDO NIÑO y FANNY RIVERA DE NIÑO, el primero, en el año de 1999 a través de adjudicación a su favor por parte del INCORA mediante la Resolución No. 0304 del 20 de mayo de 1999 \\( ^{37} \\) , registrada en la anotación No. 1 del FMI No. 300-269738 \\( ^{38} \\) y, el segundo también en el año de 1999 adjudicado por el INCORA, a través de la resolución No 00540 de 8 de julio de 1999 \\( ^{39} \\) , registrada en la cota No. 1 del certificado de tradición No 300-269740 \\( ^{40} \\) . Sin que se haya adelantado algún negocio por parte de FERNANDO y FANNY, respecto de tales terrenos, por lo cual todavía aparecen en la calidad de propietarios.\n\n[Documento Relevante 10]\n\n## II. OBJETO Del PRONUNCIAMIENTO\n\nProcede el Despacho a proferir sentencia de única instancia y sin oposición, de conformidad con lo previsto en el artículo 79 de la Ley 1448 de 2011, dentro del proceso de restitución de tierras adelantado por la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS - TERRITORIAL MAGDALENA MEDIO, en nombre y representación de HERNANDO, WILMER ANDRÉS, GLORIA LUCÍA y EDNA MAYERLING NIÑO RIVERA, quienes actúan en calidad de legitimados de FERNANDO NIÑO y FANNY RIVERA DE NIÑO (ambos fallecidos), con relación a los predios denominados: i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), identificado con el FMI No. 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000 y con área georreferenciada de 606 M², y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro del citado municipio, distinguido con el FMI No. 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000 y con área georreferenciada de 2 Has con 2308 M².\n\n[Documento Relevante 11]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Documento Relevante 12]\n\nPor tanto, se hará vía restitución por equivalencia, esto a cargo del Fondo de la Unidad de Tierras a quien se le ordenará la entrega material y jurídica por equivalente de uno o varios predios urbano o rural en el municipio de la elección de los solicitantes de similares o mejores características a los solicitados, atendiendo además las previsiones del Decreto 4829 de 2011, compilado en el Decreto 1071 de 2015, reglamentado mediante Resoluciones 461 de 2013 y 145 de 2016, advirtiéndoles que en todo caso, los predios asignados en ningún evento podrán ser inferiores a lo determinado para una vivienda de interés prioritario (VIP) si es urbano o al de la extensión de la UAF si se trata de uno rural.\n\n[Documento Relevante 13]\n\n4. 2. La transferencia del derecho real de dominio de los predios denominados i) “C 2A 2A IMP (LOTE URBANO)”, el cual se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá, área georreferenciada de 606 M², con FMI 300-269738 y Cédula Catastral No. 68-780-03-00-0007-0001-000, y, ii) “LA LAGUNITA”, localizado en la vereda San Isidro de la citada municipalidad, área georreferenciada de 2 Has + 2308 M², FMI 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000, a favor del Grupo Fondo de Restitución de Tierras y Territorios de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas. La ordenada transferencia debe sucederse sin ningún costo para los otorgantes.\n\n[Documento Relevante 14]\n\nFinalmente, la Ley 1448 de 2011, por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones incluye una nueva institucionalidad encargada del proceso de restitución de tierras, los elementos definitorios de la reparación, el procedimiento para garantizarla y la realización de medidas para el restablecimiento así como nuevas figuras jurídicas relativas, por ejemplo, a presunciones de despojo, inversión de la carga de la prueba, a la posibilidad de que se controviertan las solicitudes de restitución, etc. Y es así como en el artículo 25 establece “(...) Las víctimas tienen derecho a ser reparadas de manera adecuada, diferenciada, transformadora y efectiva por el daño que han sufrido como consecuencia de las violaciones de que trata el artículo 3 de la presente Ley. La reparación comprende las medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la\n\n[Documento Relevante 15]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nCUARTO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Bucaramanga:\n\n4. 1. La cancelación de las anotaciones No. 4, 5 y 6 contenidas en el folio de matrícula inmobiliaria No. 300-269738, y las cotas No. 4, 5 y 6 del certificado de tradición No. 300-269740, cuya inscripción fue dispuesta por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y por este juzgado.\n\n\n[Documento Relevante 16]\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n## SENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 municipalidad, área georreferenciada de 2 Has + 2308 M², FMI 300-269740 y Cédula Catastral No. 68-780-00-02-0005-0099-000, que aparecen descritos y alinderados en el proceso y que tiene las especificaciones que seguidamente se indican:\n\n“C 2A 2A IMP (Lote Urbano)”\n\n\n[Documento Relevante 17]\n\n11. 1. Incluirlos en el respectivo registro -RUV- en torno de los hechos arriba analizados, si ya antes no lo hubieren sido por estos mismos y exactos supuestos.\n\n11. 2. Establecer el Plan de Atención Asistencia y Reparación Individual -PAARI-sin necesidad de estudios de caracterización, para lo cual deberá hacer contacto con ellos, brindarles orientación y disponer de una ruta especial con esos propósitos.\n\n\n[Documento Relevante 18]\n\n<--- Page Split --->\n\n## JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 supedita el examen de la cuestión a la petición que en tal sentido haga la parte solicitante al juez de conocimiento. Siendo que, en ese mismo sentido, los artículos 66 y 73 (numeral 4º) ibidem, apelan al retorno como una cuestión volitiva. Justamente la última de dichas normas señala, en cuanto al principio de estabilización, que: “(...) las víctimas del desplazamiento forzado y del abandono forzado, tienen derecho a un retorno o reubicación voluntaria en condiciones de sostenibilidad, seguridad y dignidad (...).\n\n[Documento Relevante 19]\n\nDÉCIMO PRIMERO: ORDENAR a la directora de la Unidad Administrativa Especial de Atención y Reparación Integral a las Víctimas que, teniendo en cuenta el municipio en el que se encuentran domiciliados los beneficiarios aquí reconocidos, proceda a:\n\n11. 1. Incluirlos en el respectivo registro -RUV- en torno de los hechos arriba analizados, si ya antes no lo hubieren sido por estos mismos y exactos supuestos.\n\n\n[Documento Relevante 20]\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 debe prestarle el apoyo logística que sea necesario para llevar a cabo dicha labor. Por Secretaría líbrese de manera oportuna el respectivo despacho comisorio.\n\n\n[Documento Relevante 21]\n\nAhora bien, según las constancias No. CG 00032 del 13 de abril de 2021 \\( ^{8} \\) para el predio denominado “C 2A 2A IMP (Lote urbano)” y CG 00031 del 13 de abril de 2021 \\( ^{9} \\) para el denominado “La Lagunita” expedidas por la UAEGRTD, se confirmó la inclusión de los solicitantes y los predios en el Registro Único de Tierras Despojadas y Abandonadas Forzosamente con las Resoluciones Nos. RG 0481 del 30 de marzo de\n\n\\( ^{8} \\) Actuación No.1. Archivo CG 00032\n\n\n[Documento Relevante 22]\n\nDÉCIMO SEXTO: SIN CONDENA en costas, de acuerdo con lo establecido en el literal s. del artículo 91 de la Ley 1448 de 2011.\n\nDÉCIMO SÉPTIMO: NOTIFÍQUESE esta decisión a los sujetos procesales por el medio más expedito y LÍBRENSE las comunicaciones y las copias que se requieran para el efecto, a través de la secretaría de este estrado.\n\nNOTIFÍQUESE Y CÚMPLASE.\n\nFirmado digitalmente\n\nLILIANA PAOLA GONZÁLEZ FLÓREZ\n\nJUEZ\n\n\n[Documento Relevante 23]\n\n45 Actuación No. 1. Archivo RUP y Resolución\n\n46 Actuación No. 1. Archivo Resolución 00540\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\n\n[Documento Relevante 24]\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 integral; así como a que se hicieran efectivas, entre otras, las medidas de atención en materia de alivio de pasivos (financieros, fiscales y en materia de servicios públicos), de educación y de atención a víctimas con enfoque diferencial. Se ha de tener en cuenta la manifestación de los solicitantes de no retornar al predio, y ser compensado, para decidir sobre la medida de restitución.\n\n[Documento Relevante 25]\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 que eventualmente tengan derecho. Para tales efectos se aportarán los correspondientes actos administrativos, debidamente notificados.\n\n\n[Documento Relevante 26]\n\n11. 3. Realizar análisis de identificación de carencias frente a los componentes de subsistencia mínima a efectos de comprobar si aún se encuentran en alguna particular circunstancia que permita entender que no han superado su condición de vulnerabilidad derivada de los sucesos victimizantes y con ello, la entrega de ayudas humanitarias a\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\n\n[Documento Relevante 27]\n\n\\( ^{66} \\) Corte Constitucional. Sentencia C-330 de 2016.\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 caracterizaciones socioeconómicas por ella efectuadas, pero, en todo caso, será la autoridad jurisdiccional, la que determine su alcance.\n\n\n[Documento Relevante 28]\n\n<--- Page Split --->\n\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\nCUARTO: ORDENAR a la Oficina de Registro de Instrumentos Públicos de Bucaramanga:\n\n\n[Documento Relevante 29]\n\n## VII. PROBLEMA JURÍDICO\n\nEstablecer si es procedente amparar el derecho fundamental a la restitución de tierras de los aquí reclamantes, lo anterior, de conformidad con los presupuestos contenidos en el art. 71 de la Ley 1448 de 2011, tales como la demostración de la calidad de víctima en el marco del conflicto armado interno durante el periodo comprendido en el artículo 75 de la misma norma, su relación jurídica con el bien, la configuración del abandono (art. 74 y 77 ejusdem) y el nexo de causalidad entre estos hechos y el contexto de violencia.\n\n[Documento Relevante 30]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00 caracterizaciones socioeconómicas por ella efectuadas, pero, en todo caso, será la autoridad jurisdiccional, la que determine su alcance.\n\nLa Corte Constitucional ha expresado igualmente que los mecanismos de justicia transicional como el proceso de restitución de tierras reglado por la Ley 1448 de 2011 “(...) deben propender, entre otras cosas, por la creación de un nivel de confianza social y de solidaridad que fomente una cultura política democrática que le permita a las personas superar esas horrendas experiencias de pérdida, violencia, injusticia, duelo y odio, y que se sientan capaces de convivir nuevamente unos con otros. Si los jueces de restitución de tierras no examinan este tipo de circunstancias estarían desconociendo que a su cargo también tienen la obligación de contribuir a la paz y a la equidad social (...)”67.\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO PRIMERO CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De BUCARAMANGA\n\n- Lugar y fecha: Bucaramanga, veintisiete (27) de septiembre de dos mil veinticuatro (2024)\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nSENTENCIA No. 096\n\nRadicado No. 680013121001202100037 00\n\n## I. IDENTIFICACIÓN Del PROCESO Y PARTES\n\nTipo de proceso: Solicitud de Restitución de Tierras.\n\nDemandantes/Solicitante/Accionante: Hernando, Wilmer Andrés, Gloria Lucía y Edna Mayerling Niño Rivera, quienes actúan en calidad de herederos legitimados de Fernando Niño (q.e.p.d.) y Fanny Rivera de Niño (q.e.p.d.). Demandado/Oposición/Accionado: N/A.\n\n\n[Contexto Base 3 - PRIORITARIO]\n\nPredio: 1. “C 2A 2A IMP (LOTE URBANO)”, se encuentra ubicado en la vereda San Isidro – Centro del municipio de Suratá (Santander), su área georreferenciada corresponde a 606 m2 y se identifica con el FMI 300-269738 (activo) de la ORIP de Bucaramanga y la Cédula Catastral No. 68-780-03-00-0007-0001-000.\n\n"
+  }
+}

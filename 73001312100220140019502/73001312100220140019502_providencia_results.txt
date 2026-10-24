@@ -1,0 +1,1128 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "\nPor expuesto, el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia, administrando justicia en nombre de la República de Colombia y por autoridad de la Ley,\n\n## RESUELVE:\n\nPRIMERO: PROTEGER el Derecho fundamental a la Restitución de Tierras de la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en el municipio de El Paujil – Caquetá, por las razones expuestas en la parte motiva en esta providencia.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "SEGUNDO: ORDENAR la restitución del derecho real de dominio del predio denominado «LA FLORESTA», identificado con folio de matrícula inmobiliaria No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149 m², ubicado en la Vereda Palma Azul Coconuco, jurisdicción del municipio de La Montañita, Caquetá, plenamente identificado e individualizado en el cuerpo de esta sentencia, en favor de la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en el municipio de El Paujil – Caquetá.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_4": {
+    "pregunta": "CUARTO:",
+    "respuesta": "\nCUARTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI – IGAC, que en el término perentorio de quince (15) días, contado a partir del recibo del aviso de la Oficina de Instrumentos Públicos de Florencia (Caquetá), a la que alude el numeral 4.4 del ordinal anterior, proceda a la actualización de sus registros cartográficos y alfanuméricos, atendiendo la individualización e identificación del predio lograda con los levantamientos topográficos y los informes técnicos catastrales presentados por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, de conformidad con lo dispuesto en el literal (p) de artículo 91 de la Ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "\nQUINTO: ORDENAR la entrega material del predio denominado «LA FLORESTA»; folio de matrícula No. 420-106093 y ficha catastral No. 1 184100001000000040261000000000, ubicado en la Vereda Palma Azul Coconuco del Municipio de La Montañita, departamento del Caquetá, cuya área es de 52 ha + 4149 m², plenamente identificado e individualizado en el cuerpo de esta sentencia, en favor de la solicitante ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá, reconocidos como beneficiarios del derecho fundamental de restitución de tierras dentro del presente trámite procesal.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "\nSEXTO: ORDENAR a las FUERZAS MILITARES DE COLOMBIA y al COMANDANTE DE POLICIA - CAQUETÁ para que en ejercicio de su misión institucional y constitucional, coordinen las actividades y gestiones que sean necesarias para que brinden la seguridad que se requiera a fin de garantizar la materialización de lo dispuesto en esta sentencia, prestando el acompañamiento y colaboración en las diligencias de entregas materiales de los bienes a restituir, de acuerdo al literal (o) del artículo 91 de la Ley 1448 de 2011. Por secretaría librense los oficios correspondientes.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_7": {
+    "pregunta": "SÉPTIMO:",
+    "respuesta": "\nSÉPTIMO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS – UARIV y al GRUPO SOCIAL DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS – TERRITORIAL CAQUETÁ, que de acuerdo al Modelo de Atención, Asistencia y Reparación Integral a las Víctimas – MAARIV, y a los Planes de Atención, Asistencia y Reparación Integral – PAARI, se evalúe la condición de vulnerabilidad ocasionada por el hecho del desplazamiento de la solicitante ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá, así como también de los miembros que integran su núcleo familiar; y a partir de la caracterización de la situación real y actual en que se encuentren, se les brinde acompañamiento a fin de que accedan a las diferentes medidas ofrecidas en los planes, programas y proyectos con que cuenta el Estado Colombiano, en aras de contribuir al goce efectivo de sus derechos y al mejoramiento de su calidad de vida, de conformidad con lo dispuesto en el Decreto 2569 de 2014. Por secretaría librense los oficios correspondientes.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_8": {
+    "pregunta": "OCTAVO:",
+    "respuesta": "OCTAVO: ADVERTIR que será ineficaz de pleno derecho, sin necesidad de declaración judicial, cualquier negocio jurídico sobre el predio restituido dentro de los dos (2) años siguientes a la fecha de ejecutoria de esta providencia, de conformidad con lo dispuesto en el artículo 101 de la ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "\nNOVENO: ORDENAR a la ALCALDÍA MUNICIPAL DE LA MONTAÑITA (CAQUETÁ) que proceda a implementar respecto del predio aquí restituido los sistemas de alivios y/o exoneración de pasivos previstos en el artículo 121 de la Ley 1448 de 2011, en concordancia con lo establecido en el artículo 43 y subsiguientes del Decreto 4829 del 2011, es decir, tanto la CONDONACIÓN del pago correspondiente al impuesto predial, valorización, u otros impuestos, tasas o contribuciones del orden municipal adeudados, respecto del innueble objeto de restitución, desde la fecha de desplazamiento año 2013, hasta la fecha de emisión del presente fallo, así como la EXONERACIÓN del pago correspondiente al impuesto predial, valorización, u otros impuestos, tasas o contribuciones del orden municipal, respecto del innueble restituido, por un periodo de dos (2) años fiscales. Por secretaría librense los oficios correspondientes.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO: ORDENAR al MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL, brindar a la solicitante ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá, y a quienes integran su núcleo familiar, asistencia médica y psicosocial. Para ello, igualmente se dispone que la Secretaría de Salud Municipal de La Montañita (Caquetá), verifique la inclusión de los solicitantes y de quienes integran su núcleo familiar, al Sistema General de Salud, y en caso de no estar incluidos, proceda inmediatamente a su afiliación en la Entidad Promotora de Salud del Régimen Subsidiado, siguiendo los lineamientos del artículo 87 de la Ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO PRIMERO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS - UARIV, coordine en forma armónica con el señor Gobernador del Caquetá y/o el Alcalde Municipal de La Montañita (Caquetá), los señores Secretarios de Despacho tanto Departamental como Municipal, el Comandante de la Policiía Departamento del Caquetá, el Director Regional del Instituto Colombiano de Bienestar Familiar, el Director Regional del Instituto Nacional de Aprendizaje SENA, la Defensoría del Pueblo, y demás instituciones que integran el SNARIV, adelanten todas las gestiones a su cargo para que el retorno de la solicitante ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá, se cumpla con las condiciones de seguridad y dignidad que para tal fin estableció la normatividad internacional al respecto, integrando a la solicitante y su núcleo familiar, a la oferta institucional del Estado en materia de reparación integral en el marco del conflicto armado, esto es la elaboración de planes de acción, en el marco de planes de desarrollo a fin de lograr la asistencia y reparación integral de las víctimas, coordinando programas en materia de inclusión social, inversión social y seguridad, para la población desplazada del Municipio de La Montañita, Caquetá, enseñando la información pertinente a la víctima y",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_12": {
+    "pregunta": "DÉCIMO SEGUNDO:",
+    "respuesta": "\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO SEGUNDO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS – UARIV, que en un término perentorio de treinta (30) días hábiles, contados a partir de la notificación de la presente sentencia, adelante los trámites administrativos correspondientes para la inclusión en el Registro Único de Víctimas – RUV de las señoras ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409, y MARLY YISELA GUERRERO CUARTA, identificada con cédula de ciudadanía No. 1.117.519.435, por los hechos victimizantes de violencia sexual ocurridos en el año 2011, en la vereda Palma Azul Coconuco, jurisdicción del municipio de La Montañita, Caquetá, en el marco del conflicto armado interno colombiano.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "\nDÉCIMO TERCERO: ORDENAR a la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS – UAEGRTD efectuar si no se hubiere realizado y sólo de ser procedente desde el punto de vista legal, un estudio sobre la viabilidad de implementar proyectos productivos en el inmueble que se restituye en la presente providencia, teniendo en cuenta para ello la vocación y uso racional del suelo, así como sus posibles afectaciones. En caso de darse dicha viabilidad, deberá beneficiar a la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 y su grupo familiar con la implementación del mismo por una sola vez.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_14": {
+    "pregunta": "DÉCIMO CUARTO:",
+    "respuesta": "\nDÉCIMO CUARTO: ORDENAR al SERVICIO NACIONAL DE APRENDIZAJE – SENA, para que ingresen sin costo alguno a la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409, y su respectivo núcleo familiar, que voluntariamente así lo soliciten, a los programas de formación, capacitación técnica y proyectos especiales para la generación de empleo rural que tengan implementados, de acuerdo a la edad, preferencias, grado de estudio y oferta académica; garantizándoles que efectivamente sean receptores de subsidios que el SENA otorga para estudiantes, de los fondos obtenidos por los aportes parafiscales y contribuciones que conforman su patrimonio, de acuerdo a lo establecido en el artículo 30 de la Ley 119 de 1994.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_15": {
+    "pregunta": "DÉCIMO QUINTO:",
+    "respuesta": "\nDÉCIMO QUINTO: ORDENAR a la SECRETARÍA DE EDUCACIÓN DEL MUNICIPIO DE LA MONTAÑITA y a la SECRETARÍA DE EDUCACIÓN DEL DEPARTAMENTO DEL CAQUETÁ que, en cumplimiento del artículo 51 de la Ley 1448 de 2011, prioricen a los menores de edad que hacen parte del núcleo familiar de la señora ESNEDA CUARTA ACOSTA), para efectos del acceso, permanencia y continuidad en el sistema educativo oficial.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_16": {
+    "pregunta": "DÉCIMO SEXTO:",
+    "respuesta": "\nDÉCIMO SEXTO: ORDENAR ORDENAR al MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO que, a través del Fondo Nacional de Vivienda – FONVIVIENDA, Y AL MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL, adelante las acciones administrativas y presupuestales necesarias para el otorgamiento, de manera prioritaria y preferente, del subsidio de vivienda rural en la modalidad que aplique, a favor del hogar conformado por la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil – Caquetá. conforme a lo dispuesto en los artículos 123 y siguientes de la Ley 1448 de 2011 y demás normas reglamentarias que regulan la materia.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_17": {
+    "pregunta": "DÉCIMO SÉPTIMO:",
+    "respuesta": "\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO SÉPTIMO: ORDENAR al BANCO DE COMERCIO EXTERIOR DE COLOMBIA S.A. – BANCOLDEX, que, en cumplimiento de lo dispuesto en el artículo 129 de la Ley 1448 de 2011, instruya y oriente a la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá, respecto del procedimiento, requisitos y condiciones para acceder a la línea de crédito de redescuento prevista para las víctimas del conflicto armado, conforme a la normatividad vigente y las políticas de acceso preferencial dispuestas para estos casos.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_18": {
+    "pregunta": "DÉCIMO OCTAVO:",
+    "respuesta": "\nDÉCIMO OCTAVO: ADVERTIR al representante judicial de los restituidos para la etapa posfallo, que el cumplimiento oportuno de todas las órdenes proferidas en esta sentencia es su responsabilidad; quien tendrá que prestar oportuna colaboración al despacho para llevar a feliz término y en corto tiempo el goce efectivo del derecho a la restitución y a la\n\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403\n\njcctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_19": {
+    "pregunta": "DÉCIMO NOVENO:",
+    "respuesta": "DÉCIMO NOVENO: NOTIFICAR esta providencia por el medio más eficaz a las partes, intervinientes de conformidad con lo establecido en el artículo 93 de la ley 1448 de 2011.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_20": {
+    "pregunta": "VIGÉSIMO:",
+    "respuesta": "\nDÉCIMO NOVENO: NOTIFICAR esta providencia por el medio más eficaz a las partes, intervinientes de conformidad con lo establecido en el artículo 93 de la ley 1448 de 2011.\n\nVIGÉSIMO: Para el cumplimiento de lo ordenado en éste fallo, por secretaria realícese las respectivas comunicaciones por el medio más expedito a las diferentes entidades o autoridades, advirtiéndoles sobre las sanciones de Ley conforme el numeral 3º del artículo 44 del C.G.P, esto es, la imposición de multa equivalente hasta diez salarios mínimos legales mensuales vigentes; aunado de calificarse la omisión de cumplimiento como falta gravísima de conformidad con el parágrafo 3º del artículo 91 de la Ley 1448 de 2011, sin perjuicio de las investigaciones penales a que haya lugar.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_21": {
+    "pregunta": "VIGÉSIMO PRIMERO:",
+    "respuesta": "\nVIGÉSIMO PRIMERO: ADVERTIR a los servidores judiciales y administrativos encargados en el cumplimiento de las ordenes dispuestas en el presente fallo constitucional, el deber legal y ético que les asiste de realizar todas las labores que previamente le han sido encomendadas, bajo criterios de enfoque diferencial y dignidad humana, cumpliendo en todo momento las garantías de confidencialidad, sensibilidad, y adecuación que le asiste a la señora ESNEDA CUARTA ACOSTA y las mujeres que integran su núcleo familiar, de conformidad con lo expuesto en la parte motiva de esta sentencia.",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "52",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.536,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 285,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.528,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 286,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelac..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.527,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 20,
+        "content_preview": "\nOrdenar a la Oficina de Instrumentos Públicos del Círculo Registral de Florencia, inscribir la sentencia en los términos señalados en el literal c) del artículo 91 de la Ley 1448 de 2011, en el folio..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.524,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.513,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n\n[Documento Relevante 2]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelación de las medidas cautelares de inscripción de la solicitud de restitución y formalización de tierras y de sustracción provisional del comercio, ordenadas por este estrado judicial sobre el predio objeto de esta acción, y las demás enunciadas en el literal d) del artículo 91 de la Ley 1448 de 2011, que aparecen en el folio de matrícula inmobiliaria No. 420-106093, de la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá)\n\n[Documento Relevante 3]\n\nOrdenar a la Oficina de Instrumentos Públicos del Círculo Registral de Florencia, inscribir la sentencia en los términos señalados en el literal c) del artículo 91 de la Ley 1448 de 2011, en el folio de matrícula No. 420-106093, aplicando el criterio de gratuidad al que se refiere el parágrafo 1º del artículo 84 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 4]\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la demanda, así como las demás pruebas requeridas y allegadas por la parte solicitante, obran en el expediente digital del proceso de la referencia, disponible en el Portal de Tierras.\n\n## 3.4.- Alegatos De Conclusión Unidad De Restitución De Tierras \\( ^{12} \\)\n\nFrente a la calidad de la Solicitante.\n\n[Documento Relevante 5]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.61,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 34,
+        "content_preview": "\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\nEn atención a dicha soli..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.581,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 40,
+        "content_preview": "\nLuego el despacho judicial referido, mediante auto interlocutorio No. 203, del 9 de marzo de 2021 \\( ^{5} \\) y de acuerdo lo dispuesto por el Consejo Superior de la Judicatura – Sala Administrativa e..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.578,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 35,
+        "content_preview": "\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.569,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 83,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.561,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 82,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\nEn atención a dicha solicitud, la entidad expidió las Resoluciones RQ 01355 del 28 de agosto de 2020 y RQ 00028 del 10 de febrero de 2023, mediante las cuales se designó un apoderado judicial para su representación. Esta designación se realizó una vez verificados los requisitos legales exigidos, y se asignó para tal efecto a un profesional del Derecho adscrito a la misma Unidad, conforme a los lineamientos establecidos en la normatividad vigente.\n\n[Documento Relevante 2]\n\nLuego el despacho judicial referido, mediante auto interlocutorio No. 203, del 9 de marzo de 2021 \\( ^{5} \\) y de acuerdo lo dispuesto por el Consejo Superior de la Judicatura – Sala Administrativa en el Acuerdo PCSJA20-11702 fechado 23 de diciembre de 2020, «Por el cual se modifica el mapa judicial de los despachos civiles especializados en restitución de tierras, se disponen algunos traslados de despachos y cargos y se dictan otras medidas», dispuso remitir el presente proceso a esta judicatura, por ser de su competencia.\n\n[Documento Relevante 3]\n\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en restitución de Tierras del circuito de Ibagué, Tolima; operador judicial que mediante auto interlocutorio No. 022 del 28 de enero de 2021 \\( ^{2} \\) , dispuso admitir la presente solicitud de tierras atendiendo lo lineamientos contemplados en el artículo 86 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 4]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero de ellos, se finca en dilucidar si resulta procedente declarar en sentencia la protección del derecho a la restitución y formalización de tierras solicitada por la señora ESNEDA CUARTA ACOSTA, en calidad de propietaria respecto del predio rural denominado «LA FLORESTA»; identificado con el folio de matrícula No. 420 - 106093y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicados en la Vereda Palma Azul Coconuco, jurisdicción del Municipio de La Montañita (Caquetá), a la luz de lo normado en la Ley 1448 de 2011 y demás normas concordantes, los postulados de la justicia transicional concebida para la protección y reparación integral a las víctimas del conflicto armado interno, así como las normas constitucionales y el precedente jurisprudencial relativa a esta materia.\n\n[Documento Relevante 5]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.808,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.736,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 35,
+        "content_preview": "\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.721,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.712,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 286,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelac..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.706,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 83,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Documento Relevante 2]\n\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en restitución de Tierras del circuito de Ibagué, Tolima; operador judicial que mediante auto interlocutorio No. 022 del 28 de enero de 2021 \\( ^{2} \\) , dispuso admitir la presente solicitud de tierras atendiendo lo lineamientos contemplados en el artículo 86 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 3]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Documento Relevante 4]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelación de las medidas cautelares de inscripción de la solicitud de restitución y formalización de tierras y de sustracción provisional del comercio, ordenadas por este estrado judicial sobre el predio objeto de esta acción, y las demás enunciadas en el literal d) del artículo 91 de la Ley 1448 de 2011, que aparecen en el folio de matrícula inmobiliaria No. 420-106093, de la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá)\n\n[Documento Relevante 5]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero de ellos, se finca en dilucidar si resulta procedente declarar en sentencia la protección del derecho a la restitución y formalización de tierras solicitada por la señora ESNEDA CUARTA ACOSTA, en calidad de propietaria respecto del predio rural denominado «LA FLORESTA»; identificado con el folio de matrícula No. 420 - 106093y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicados en la Vereda Palma Azul Coconuco, jurisdicción del Municipio de La Montañita (Caquetá), a la luz de lo normado en la Ley 1448 de 2011 y demás normas concordantes, los postulados de la justicia transicional concebida para la protección y reparación integral a las víctimas del conflicto armado interno, así como las normas constitucionales y el precedente jurisprudencial relativa a esta materia.\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Ambos",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.575,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 178,
+        "content_preview": "\nEn específico, en situaciones de desplazamiento y abandono forzado, la restitución se consagra como el componente preferencial y principal del derecho fundamental a la reparación integral, debido a q..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.563,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 90,
+        "content_preview": "\nDe otra parte, los incisos 2º y 3º de la citada disposición, consideran otras dos (2) categorías de víctimas, las cuales fueron definidas en los siguientes términos por la Honorable Corte Constitucio..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.56,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 145,
+        "content_preview": "\nPor último, es necesario destacar respecto a la calidad de víctima que ella se adquiere no por los registros que las entidades estatales implementen, sino por los hechos que ellas vivieron, posición ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.551,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 253,
+        "content_preview": "\nDicho enfoque orienta los procedimientos especiales de restitución, cuyo objetivo es garantizar una reparación integral y efectiva para las víctimas del despojo o abandono forzado, quienes acuden al ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.529,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 183,
+        "content_preview": "\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\nEn el entendido que el d..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nEn específico, en situaciones de desplazamiento y abandono forzado, la restitución se consagra como el componente preferencial y principal del derecho fundamental a la reparación integral, debido a que la primera se consagra como presupuesto axiológico y material de la satisfacción del segundo. En este sentido, la medida inicial que ha de adoptarse en aras de alcanzar la reparación integral de las víctimas de desplazamiento y/o despojo, ha de ser el permitir que estos puedan retornar a su lugar de origen o residencia habitual antes de que aconteciese el despojo y/o abandono; puesto que es este último, la característica principal del desplazamiento forzado, independientemente de las demás medidas de reparación que el Estado se encuentre en obligación de proporcionar. La restitución ha de entenderse en especial consonancia con el derecho fundamental a que el Estado les respete la conservación de la propiedad, posesión u ocupación que ostentan las víctimas, y les restablezca el uso, goce y libre disposición de la misma, por lo que, en el desplazamiento forzado el derecho a la propiedad, a la posesión o a la ocupación, ha de adquirir un carácter particularmente reforzado y, por tanto, requiere una especial atención por parte del Estado \\( ^{46} \\) .\n\n[Documento Relevante 2]\n\nDe otra parte, los incisos 2º y 3º de la citada disposición, consideran otras dos (2) categorías de víctimas, las cuales fueron definidas en los siguientes términos por la Honorable Corte Constitucional:\\(^{16}\\) “(...) de las pautas contenidas en los dos segmentos normativos acusados se desprende que la consideración como víctimas de personas distintas a quienes por sí mismas hubieren sufrido algún tipo de daño como resultado de las acciones contempladas por esta norma es ciertamente eventual, pues depende de la posible ocurrencia de una de esas situaciones (la muerte o desaparición de la víctima directa), y que en lo que atañe a los familiares de ésta de quienes ese derecho se predica en caso de cumplirse tal condición, no bastará tampoco la acreditación de cualquier tipo de parentesco, pues los beneficios establecidos por esta ley sólo alcanzarán a los sujetos expresamente previstos en la norma acusada...”.\n\n[Documento Relevante 3]\n\nPor último, es necesario destacar respecto a la calidad de víctima que ella se adquiere no por los registros que las entidades estatales implementen, sino por los hechos que ellas vivieron, posición reiterada por la jurisprudencia nacional al decir \\( ^{34} \\) que: “(...) esta Corporación reitera su jurisprudencia en cuanto a la diferenciación entre la condición de víctima y los requisitos formales y exigencias de trámite para el acceso a los beneficios previstos por las leyes dirigidas a consagrar, reconocer y otorgar beneficios de protección para el goce efectivo de sus derechos. Sobre este tema, esta Corporación ha sostenido que la condición de víctima es un hecho fáctico, que no depende de declaración o de reconocimiento administrativo alguno. En este sentido, ha consolidado una concepción material de la condición de víctima del conflicto armado, entre ellos especialmente del desplazado forzado por la violencia interna, de tal manera que ha precisado que “siempre que frente a una persona determinada, concurran las circunstancias [fácticas] descritas, ésta tiene derecho a recibir especial protección por parte del Estado, y a ser beneficiaria de las políticas públicas diseñadas para atender el problema humanitario que representa el desplazamiento de personas por causa del conflicto armado.” \\( ^{35} \\) ”\n\n[Documento Relevante 4]\n\nDicho enfoque orienta los procedimientos especiales de restitución, cuyo objetivo es garantizar una reparación integral y efectiva para las víctimas del despojo o abandono forzado, quienes acuden al Estado para hacer valer sus derechos frente a la situación de vulnerabilidad generada por su desvinculación forzada del territorio, en gran parte atribuible a la acción u omisión institucional. En este sentido, la Ley 1448 de 2011 reconoce expresamente que las personas que hayan sido propietarias, poseedoras u ocupantes de predios despojados o abandonados forzosamente, tienen derecho a acudir a los mecanismos que prevé el ordenamiento jurídico para obtener la restitución y formalización de sus derechos.\n\n[Documento Relevante 5]\n\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\nEn el entendido que el derecho a la reparación integral ostenta el carácter de iusfundamental, no puede menos que afirmarse que la restitución, como componente esencial, principal y preferencial de éste y estrechamente vinculado con las demás potestades de las víctimas como a la justicia, a la verdad y a las garantías de no repetición, evidencia esta misma calidad \\( ^{47} \\) y, por tanto, goza de aplicación inmediata \\( ^{48} \\). Sin embargo, debido a la plenitud e integralidad que de éste se predica, esta prerrogativa se constituye como autónoma y, por tanto, su exigencia y satisfacción se tornan independientes a que el retorno y el restablecimiento en el lugar de origen efectivamente acontezcan, así como a la identificación, aprehensión, enjuiciamiento o condena del victimario, sin perjuicio de que se pueda repetir contra este último \\( ^{49} \\).\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.489,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 79,
+        "content_preview": "\n## 4.2.- De Los Requisitos Formales Del Proceso.\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.476,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 132,
+        "content_preview": "\n\\( ^{24} \\) UNHCR/ACNUR y DEFENSORIA DEL PUEBLO. Principios Rectores de los Desplazamientos Internos. (S.L.). Gente Nueva Editorial. (S.F.). Pp. 5-7.\n\n<--- Page Split --->\n\nA renglón seguido, cita la..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.475,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.473,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 3,
+        "content_preview": "\n2. 2.- Supuesto Fáctico: Se puede extraer qué para fundamentar sus pretensiones, el apoderado de los solicitantes alega como hechos individuales los siguientes:\n\n2. 2.1.- Hechos específicos del predi..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.466,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 48,
+        "content_preview": "\nDe esta manera, y no habiéndose presentado terceros opositores dentro de la oportunidad procesal correspondiente, se procede a dictar sentencia definitiva que resuelva el presente trámite, conforme a..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 4.2.- De Los Requisitos Formales Del Proceso.\n\n\n[Documento Relevante 2]\n\n\\( ^{24} \\) UNHCR/ACNUR y DEFENSORIA DEL PUEBLO. Principios Rectores de los Desplazamientos Internos. (S.L.). Gente Nueva Editorial. (S.F.). Pp. 5-7.\n\n<--- Page Split --->\n\nA renglón seguido, cita las sentencias en que se ha hecho uso de estos Principios, tales como T-327 del 26 de marzo de 2001, T-268 de 27 de marzo de 2003 y T-025 del 22 de enero de 2004, esta última, en la cual se declaró el desplazamiento forzado como un estado de cosas inconstitucional.\n\n\n[Documento Relevante 3]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Documento Relevante 4]\n\n2. 2.- Supuesto Fáctico: Se puede extraer qué para fundamentar sus pretensiones, el apoderado de los solicitantes alega como hechos individuales los siguientes:\n\n2. 2.1.- Hechos específicos del predio «LA FLORESTA», solicitado por la señora ESNEDA CUARTA ACOSTA.\n\n\n[Documento Relevante 5]\n\nDe esta manera, y no habiéndose presentado terceros opositores dentro de la oportunidad procesal correspondiente, se procede a dictar sentencia definitiva que resuelva el presente trámite, conforme a lo establecido en el inciso segundo del artículo 79 de la Ley 1448 de 2011.\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.701,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.65,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 35,
+        "content_preview": "\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.65,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 286,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelac..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.609,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 40,
+        "content_preview": "\nLuego el despacho judicial referido, mediante auto interlocutorio No. 203, del 9 de marzo de 2021 \\( ^{5} \\) y de acuerdo lo dispuesto por el Consejo Superior de la Judicatura – Sala Administrativa e..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.605,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 48,
+        "content_preview": "\nDe esta manera, y no habiéndose presentado terceros opositores dentro de la oportunidad procesal correspondiente, se procede a dictar sentencia definitiva que resuelva el presente trámite, conforme a..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Documento Relevante 2]\n\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en restitución de Tierras del circuito de Ibagué, Tolima; operador judicial que mediante auto interlocutorio No. 022 del 28 de enero de 2021 \\( ^{2} \\) , dispuso admitir la presente solicitud de tierras atendiendo lo lineamientos contemplados en el artículo 86 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 3]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelación de las medidas cautelares de inscripción de la solicitud de restitución y formalización de tierras y de sustracción provisional del comercio, ordenadas por este estrado judicial sobre el predio objeto de esta acción, y las demás enunciadas en el literal d) del artículo 91 de la Ley 1448 de 2011, que aparecen en el folio de matrícula inmobiliaria No. 420-106093, de la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá)\n\n[Documento Relevante 4]\n\nLuego el despacho judicial referido, mediante auto interlocutorio No. 203, del 9 de marzo de 2021 \\( ^{5} \\) y de acuerdo lo dispuesto por el Consejo Superior de la Judicatura – Sala Administrativa en el Acuerdo PCSJA20-11702 fechado 23 de diciembre de 2020, «Por el cual se modifica el mapa judicial de los despachos civiles especializados en restitución de tierras, se disponen algunos traslados de despachos y cargos y se dictan otras medidas», dispuso remitir el presente proceso a esta judicatura, por ser de su competencia.\n\n[Documento Relevante 5]\n\nDe esta manera, y no habiéndose presentado terceros opositores dentro de la oportunidad procesal correspondiente, se procede a dictar sentencia definitiva que resuelva el presente trámite, conforme a lo establecido en el inciso segundo del artículo 79 de la Ley 1448 de 2011.\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "No hay observaciones generales relevantes más allá de lo estándar.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.696,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 185,
+        "content_preview": "\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determin..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.621,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 87,
+        "content_preview": "\n4. 4.2- Una vez determinado que los titulares de la acción vieron afectada su relación jurídica con la heredad por los hechos del conflicto armado, se establecerá la viabilidad de acceder a la restit..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.613,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 83,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.611,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 293,
+        "content_preview": "\nPor secretaría remitir copia de esta providencia con las constancias respectivas; así como copia del Informe Técnico Predial aportado con la solicitud.\n\nPara el cumplimiento de esta orden la UNIDAD A..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.61,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determinar si las pretensiones de los solicitantes son procedentes, se delimita el estudio bajo los siguientes tópicos: (a) Verificación de los hechos de violencia presentados en el municipio de La Montañita (Caquetá), y su nexo causal con la solicitante; (b) Identificación del predio objeto del petitum; (c) Relación jurídica de la propiedad con la solicitante; y, (d) de la presunta vulneración del derecho fundamental a la restitución de tierras despojadas.\n\n[Documento Relevante 2]\n\n4. 4.2- Una vez determinado que los titulares de la acción vieron afectada su relación jurídica con la heredad por los hechos del conflicto armado, se establecerá la viabilidad de acceder a la restitución en su totalidad del innueble, según lo peticionado por la Unidad de Restitución de Tierras.\n\n4. 5.- Fundamentación fáctica y jurídica vinculada con el problema propuesto.\n\n4. 5.1.- Concepto de víctima según el artículo 3 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 3]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero de ellos, se finca en dilucidar si resulta procedente declarar en sentencia la protección del derecho a la restitución y formalización de tierras solicitada por la señora ESNEDA CUARTA ACOSTA, en calidad de propietaria respecto del predio rural denominado «LA FLORESTA»; identificado con el folio de matrícula No. 420 - 106093y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicados en la Vereda Palma Azul Coconuco, jurisdicción del Municipio de La Montañita (Caquetá), a la luz de lo normado en la Ley 1448 de 2011 y demás normas concordantes, los postulados de la justicia transicional concebida para la protección y reparación integral a las víctimas del conflicto armado interno, así como las normas constitucionales y el precedente jurisprudencial relativa a esta materia.\n\n[Documento Relevante 4]\n\nPor secretaría remitir copia de esta providencia con las constancias respectivas; así como copia del Informe Técnico Predial aportado con la solicitud.\n\nPara el cumplimiento de esta orden la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS, prestará la ayuda necesaria y brindará la información que se requiera para tal efecto.\n\n\n[Documento Relevante 5]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2025-09-09",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.575,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 34,
+        "content_preview": "\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\nEn atención a dicha soli..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.558,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 47,
+        "content_preview": "\nFinalmente, una vez recaudado en su totalidad el material probatorio, este Despacho Judicial, mediante auto del 14 de julio de 2025 \\( ^{9} \\) , procedió a correr traslado de alegatos a las partes y ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.528,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 308,
+        "content_preview": "\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO SEGUNDO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS – UARIV, q..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.518,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 40,
+        "content_preview": "\nLuego el despacho judicial referido, mediante auto interlocutorio No. 203, del 9 de marzo de 2021 \\( ^{5} \\) y de acuerdo lo dispuesto por el Consejo Superior de la Judicatura – Sala Administrativa e..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.514,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 82,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\nEn atención a dicha solicitud, la entidad expidió las Resoluciones RQ 01355 del 28 de agosto de 2020 y RQ 00028 del 10 de febrero de 2023, mediante las cuales se designó un apoderado judicial para su representación. Esta designación se realizó una vez verificados los requisitos legales exigidos, y se asignó para tal efecto a un profesional del Derecho adscrito a la misma Unidad, conforme a los lineamientos establecidos en la normatividad vigente.\n\n[Documento Relevante 2]\n\nFinalmente, una vez recaudado en su totalidad el material probatorio, este Despacho Judicial, mediante auto del 14 de julio de 2025 \\( ^{9} \\) , procedió a correr traslado de alegatos a las partes y Ministerio Público, remitiéndose posteriormente el expediente a despacho para proferir sentencia \\( ^{10} \\) .\n\n\n[Documento Relevante 3]\n\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO SEGUNDO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS – UARIV, que en un término perentorio de treinta (30) días hábiles, contados a partir de la notificación de la presente sentencia, adelante los trámites administrativos correspondientes para la inclusión en el Registro Único de Víctimas – RUV de las señoras ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409, y MARLY YISELA GUERRERO CUARTA, identificada con cédula de ciudadanía No. 1.117.519.435, por los hechos victimizantes de violencia sexual ocurridos en el año 2011, en la vereda Palma Azul Coconuco, jurisdicción del municipio de La Montañita, Caquetá, en el marco del conflicto armado interno colombiano.\n\n[Documento Relevante 4]\n\nLuego el despacho judicial referido, mediante auto interlocutorio No. 203, del 9 de marzo de 2021 \\( ^{5} \\) y de acuerdo lo dispuesto por el Consejo Superior de la Judicatura – Sala Administrativa en el Acuerdo PCSJA20-11702 fechado 23 de diciembre de 2020, «Por el cual se modifica el mapa judicial de los despachos civiles especializados en restitución de tierras, se disponen algunos traslados de despachos y cargos y se dictan otras medidas», dispuso remitir el presente proceso a esta judicatura, por ser de su competencia.\n\n[Documento Relevante 5]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "DESCONOCIDO",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.51,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 79,
+        "content_preview": "\n## 4.2.- De Los Requisitos Formales Del Proceso.\n"
+      },
+      {
+        "rank": 2,
+        "similarity": 0.466,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 188,
+        "content_preview": "\n## 4.1. Diálogos Del Caguán Y El Ingreso Paramilitar.\n"
+      },
+      {
+        "rank": 3,
+        "similarity": 0.448,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 285,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.443,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 184,
+        "content_preview": "\n## 5. CASO CONCRETO\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.443,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 4.2.- De Los Requisitos Formales Del Proceso.\n\n\n[Documento Relevante 2]\n\n## 4.1. Diálogos Del Caguán Y El Ingreso Paramilitar.\n\n\n[Documento Relevante 3]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n\n[Documento Relevante 4]\n\n## 5. CASO CONCRETO\n\n\n[Documento Relevante 5]\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la demanda, así como las demás pruebas requeridas y allegadas por la parte solicitante, obran en el expediente digital del proceso de la referencia, disponible en el Portal de Tierras.\n\n## 3.4.- Alegatos De Conclusión Unidad De Restitución De Tierras \\( ^{12} \\)\n\nFrente a la calidad de la Solicitante.\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "73001312100120200026900",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.4,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 241,
+        "content_preview": "\nCelular. 305 262 2647\n\nFlorencia – Ca\n\n<--- Page Split --->\n\nque el predio fue objeto de partición mediante la escritura pública No. 333 del 23 de junio de 2011, otorgada en la Notaría de Belén de lo..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.381,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 184,
+        "content_preview": "\n## 5. CASO CONCRETO\n"
+      },
+      {
+        "rank": 3,
+        "similarity": 0.376,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 79,
+        "content_preview": "\n## 4.2.- De Los Requisitos Formales Del Proceso.\n"
+      },
+      {
+        "rank": 4,
+        "similarity": 0.37,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 240,
+        "content_preview": "\nCelular. 305 262 2647\n\nFlorencia – Ca\n\n<--- Page Split --->\n"
+      },
+      {
+        "rank": 5,
+        "similarity": 0.361,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 237,
+        "content_preview": "\nLinderos y colindantes del predio:\n\n<fcel>NORTE:<fcel>Partiendo desde el punto 327524 en línea quebrada que pasa por los puntos 327515, 327518, en dirección oriente hasta llegar al punto 327465 con u..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nCelular. 305 262 2647\n\nFlorencia – Ca\n\n<--- Page Split --->\n\nque el predio fue objeto de partición mediante la escritura pública No. 333 del 23 de junio de 2011, otorgada en la Notaría de Belén de los Andaquíes, Caquetá, quedando dividido en dos lotes: el primero, denominado «LOS MANGOS», con un área de 20 ha + 1.500 m², adjudicado a GUSTAVO ADOLFO GUERRERO; y el segundo, denominado «LA FLORESTA», con un área de 57 ha + 3.500 m², adjudicado a la solicitante; el cual quedó inscrito a su nombre en la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá), bajo el folio de matrícula inmobiliaria No. 420-106093 y la cédula catastral 18-247-01-0000-000-03-200-060-00000-000, consolidando así su calidad de propietaria y la relación jurídica y material con el inmueble cuya restitución se pretende.\n\n[Documento Relevante 2]\n\n## 5. CASO CONCRETO\n\n\n[Documento Relevante 3]\n\n## 4.2.- De Los Requisitos Formales Del Proceso.\n\n\n[Documento Relevante 4]\n\nCelular. 305 262 2647\n\nFlorencia – Ca\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\nLinderos y colindantes del predio:\n\n<fcel>NORTE:<fcel>Partiendo desde el punto 327524 en línea quebrada que pasa por los puntos 327515, 327518, en dirección oriente hasta llegar al punto 327465 con una distancia de 646.37 metros; colinda con predio de Arnobis Vaquero.Se continúa desde el punto 327465 en línea quebrada que pasa por el punto 327500, en dirección noroccidente hasta llegar al punto 327462 con una distancia de 278.16 metros; colinda con predio de Arnobis Vaquero.Se continúa desde el punto 327462 en línea recta en dirección oriente hasta llegar al punto 327539 con una distancia de 257.01 metros; colinda con predio de Ernesto Celis.<nl><fcel>ORIENTE:<fcel>Partiendo desde el punto 327539 en línea quebrada que pasa por los puntos 327485, 327494, 327483, en dirección suroriente hasta llegar al punto 327321 con una distancia de 639.06 metros; colinda con predio de Anacleto Lugo.<nl><fcel>SUR:<fcel>Partiendo desde el punto 327321 en línea quebrada que pasa por los puntos 327499, 327469, en dirección suroccidente hasta llegar al punto 327270 con una distancia de 931.96 metros; colinda con predio de Pedro Nel Lugo.<nl><fcel>OCCIDENTE:<fcel>Partiendo desde el punto 327270 en línea quebrada que pasa por los puntos 327547, 327527, en dirección noroccidente hasta llegar al punto 327524 con una distancia de 620.72 metros; colinda con predio de Ramiro Lugo.<nl>\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "RESTITUYE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.678,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 48,
+        "content_preview": "\nDe esta manera, y no habiéndose presentado terceros opositores dentro de la oportunidad procesal correspondiente, se procede a dictar sentencia definitiva que resuelva el presente trámite, conforme a..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.674,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.619,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 286,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelac..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.609,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 185,
+        "content_preview": "\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determin..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.588,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 81,
+        "content_preview": "\n## 4.3.- Agotamiento Del Requisito De Procedibilidad:\n\nTeniendo en cuenta la naturaleza de la presente acción, corresponde por activa cumplir con el requisito previo sine qua non consagrado en el art..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nDe esta manera, y no habiéndose presentado terceros opositores dentro de la oportunidad procesal correspondiente, se procede a dictar sentencia definitiva que resuelva el presente trámite, conforme a lo establecido en el inciso segundo del artículo 79 de la Ley 1448 de 2011.\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\n\n[Documento Relevante 2]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Documento Relevante 3]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelación de las medidas cautelares de inscripción de la solicitud de restitución y formalización de tierras y de sustracción provisional del comercio, ordenadas por este estrado judicial sobre el predio objeto de esta acción, y las demás enunciadas en el literal d) del artículo 91 de la Ley 1448 de 2011, que aparecen en el folio de matrícula inmobiliaria No. 420-106093, de la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá)\n\n[Documento Relevante 4]\n\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determinar si las pretensiones de los solicitantes son procedentes, se delimita el estudio bajo los siguientes tópicos: (a) Verificación de los hechos de violencia presentados en el municipio de La Montañita (Caquetá), y su nexo causal con la solicitante; (b) Identificación del predio objeto del petitum; (c) Relación jurídica de la propiedad con la solicitante; y, (d) de la presunta vulneración del derecho fundamental a la restitución de tierras despojadas.\n\n[Documento Relevante 5]\n\n## 4.3.- Agotamiento Del Requisito De Procedibilidad:\n\nTeniendo en cuenta la naturaleza de la presente acción, corresponde por activa cumplir con el requisito previo sine qua non consagrado en el artículo 76 de la Ley 1448 de 2011, según el cual \"La inscripción de un predio en el registro de tierras despojadas será requisito de procedibilidad para iniciar la acción de restitución\".\n\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Hectáreas",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.585,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.582,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 35,
+        "content_preview": "\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.563,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 185,
+        "content_preview": "\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determin..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.558,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 286,
+        "content_preview": "\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelac..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.553,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 83,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la demanda, así como las demás pruebas requeridas y allegadas por la parte solicitante, obran en el expediente digital del proceso de la referencia, disponible en el Portal de Tierras.\n\n## 3.4.- Alegatos De Conclusión Unidad De Restitución De Tierras \\( ^{12} \\)\n\nFrente a la calidad de la Solicitante.\n\n[Documento Relevante 2]\n\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en restitución de Tierras del circuito de Ibagué, Tolima; operador judicial que mediante auto interlocutorio No. 022 del 28 de enero de 2021 \\( ^{2} \\) , dispuso admitir la presente solicitud de tierras atendiendo lo lineamientos contemplados en el artículo 86 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 3]\n\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determinar si las pretensiones de los solicitantes son procedentes, se delimita el estudio bajo los siguientes tópicos: (a) Verificación de los hechos de violencia presentados en el municipio de La Montañita (Caquetá), y su nexo causal con la solicitante; (b) Identificación del predio objeto del petitum; (c) Relación jurídica de la propiedad con la solicitante; y, (d) de la presunta vulneración del derecho fundamental a la restitución de tierras despojadas.\n\n[Documento Relevante 4]\n\n## TERCERO: ORDENAR A La OFICINA De REGISTRO De INSTRUMENTOS PÚBLICOS De FLORENCIA (CAQUETÁ):\n\n4. 1- INSCRIBIR esta sentencia en el folio de matrícula inmobiliaria No. 420-106093.\n\n4. 2 - La cancelación de las medidas cautelares de inscripción de la solicitud de restitución y formalización de tierras y de sustracción provisional del comercio, ordenadas por este estrado judicial sobre el predio objeto de esta acción, y las demás enunciadas en el literal d) del artículo 91 de la Ley 1448 de 2011, que aparecen en el folio de matrícula inmobiliaria No. 420-106093, de la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá)\n\n[Documento Relevante 5]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero de ellos, se finca en dilucidar si resulta procedente declarar en sentencia la protección del derecho a la restitución y formalización de tierras solicitada por la señora ESNEDA CUARTA ACOSTA, en calidad de propietaria respecto del predio rural denominado «LA FLORESTA»; identificado con el folio de matrícula No. 420 - 106093y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicados en la Vereda Palma Azul Coconuco, jurisdicción del Municipio de La Montañita (Caquetá), a la luz de lo normado en la Ley 1448 de 2011 y demás normas concordantes, los postulados de la justicia transicional concebida para la protección y reparación integral a las víctimas del conflicto armado interno, así como las normas constitucionales y el precedente jurisprudencial relativa a esta materia.\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"ESNEDA\", \"segundo_nombre\": null, \"primer_apellido\": \"CUARTA\", \"segundo_apellido\": \"ACOSTA\", \"numero_documento\": \"40.091.409\", \"rol\": \"titular\"}, {\"primer_nombre\": \"GUSTAVO\", \"segundo_nombre\": \"ADOLFO\", \"primer_apellido\": \"GUERRERO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"JOSÉ\", \"segundo_nombre\": \"MEDARDO\", \"primer_apellido\": \"GUERRERO\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"ADELMO\", \"segundo_nombre\": \"SALAZAR\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Gerson\", \"segundo_nombre\": \"Mauricio\", \"primer_apellido\": \"Guerrero\", \"segundo_apellido\": \"Cuarta\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Norfi\", \"segundo_nombre\": \"Yuneire\", \"primer_apellido\": \"Ramírez\", \"segundo_apellido\": \"Cuarta\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Diego\", \"segundo_nombre\": \"Estevinson\", \"primer_apellido\": \"Rada\", \"segundo_apellido\": \"Guerrero\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"EDGAR\", \"segundo_nombre\": \"ORLANDO\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"conyuge\"}, {\"primer_nombre\": \"Jeimy\", \"segundo_nombre\": \"Yadira\", \"primer_apellido\": \"Guerrero\", \"segundo_apellido\": \"Cuartas\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Marly\", \"segundo_nombre\": \"Yisela\", \"primer_apellido\": \"Guerrero\", \"segundo_apellido\": \"Cuarta\", \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Alejandro\", \"segundo_nombre\": null, \"primer_apellido\": \"Moreno\", \"segundo_apellido\": \"Aragón\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Adelmo\", \"segundo_nombre\": null, \"primer_apellido\": \"Salazar Perdomo\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"José Alberto\", \"segundo_nombre\": null, \"primer_apellido\": \"Moreno\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"William\", \"segundo_nombre\": null, \"primer_apellido\": \"Ramírez\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"JAIDER\", \"segundo_nombre\": null, \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[{\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"LA FLORESTA\", \"predio_rural\": true, \"matricula\": \"420-106093\", \"circulo\": \"420\", \"numero_predial\": \"184100001000000040261000000000\", \"departamento\": \"Caquetá\", \"municipio\": \"La Montañita\", \"vereda\": \"Palma Azul Coconuco\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": 524149, \"area_terreno_hec\": 52.4149, \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"106093\"}]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.658,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.649,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 291,
+        "content_preview": "\nCUARTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI – IGAC, que en el término perentorio de quince (15) días, contado a partir del recibo del aviso de la Oficina de Instrumentos Públicos de Flore..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.631,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 38,
+        "content_preview": "\nAdemás, se ordenó la publicación de la solicitud en un diario de amplia circulación nacional y en una emisión radial en medio local. La Unidad Administrativa Especial de Gestión de Restitución de Tie..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.627,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 29,
+        "content_preview": "\n## 3. ACTUACIÓN PROCESAL\n\n## 3.1.- Del Trámite Administrativo.\n\nEn el marco de la Ley 1448 de 2011 la señora ESNEDA CUARTA ACOSTA, presentó ante la UAEGRT Territorial Caquetá, solicitud de inscripció..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.62,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 83,
+        "content_preview": "\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.619,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 32,
+        "content_preview": "\nAcreditados los hechos anteriormente expuestos, la señora ESNEDA CUARTA ACOSTA, amparada en lo dispuesto en los artículos 81 y siguientes de la Ley 1448 de 2011, solicitó y aceptó la representación j..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.609,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 49,
+        "content_preview": "\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la ..."
+      },
+      {
+        "rank": 8,
+        "similarity": 0.607,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 35,
+        "content_preview": "\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en ..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.583,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 45,
+        "content_preview": "\nLas diligencias judiciales de audiencia se llevaron a cabo conforme consta en los consecutivos 78 al 83 del expediente digital disponible en el Portal de Tierras, En el marco de dichas actuaciones, e..."
+      },
+      {
+        "rank": 10,
+        "similarity": 0.581,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 296,
+        "content_preview": "\nPara tal efecto, el Despacho de conformidad con los preceptos establecidos en el artículo 100 de la Ley 1448 de 2011, comisiona con amplias facultades al señor JUEZ PROMISCUO MUNICIPAL DE LA MONTAÑIT..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.577,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 78,
+        "content_preview": "\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Res..."
+      },
+      {
+        "rank": 12,
+        "similarity": 0.575,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 185,
+        "content_preview": "\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determin..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.574,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 24,
+        "content_preview": "\nOrdenar a la Dirección Territorial de Caquetá del Instituto Geográfico Agustín Codazzi (IGAC)/Catastro de Caquetá, que con base en el Folio de Matrícula Inmobiliaria No. 420-106093, actualizado por l..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.573,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 293,
+        "content_preview": "\nPor secretaría remitir copia de esta providencia con las constancias respectivas; así como copia del Informe Técnico Predial aportado con la solicitud.\n\nPara el cumplimiento de esta orden la UNIDAD A..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.57,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 23,
+        "content_preview": "\nOrdenar a la Oficina de Instrumentos Públicos del Círculo Registral de Florencia, actualizar en el folio de matrícula No. 420-12468, en cuanto a su área, linderos y el titular de derecho, con base en..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.57,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 36,
+        "content_preview": "\nDentro de las órdenes proferidas de conformidad con el artículo 86 de la Ley de Víctimas, se encuentran la dirigida a la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá), en relaci..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.569,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 251,
+        "content_preview": "\n## D) De La Presunta Vulneración Del Derecho Fundamental A La Restitución De Tierras Despojadas.\n\nRespecto del cumplimiento de este presupuesto, se tiene que la señora ESNEDA CUARTA ACOSTA ha accedid..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.567,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 255,
+        "content_preview": "\nEn el caso concreto, la señora ESNEDA CUARTA ACOSTA solicita la protección de su derecho fundamental a la restitución y, en consecuencia, la emisión de las órdenes necesarias para garantizar su repar..."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.561,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 80,
+        "content_preview": "\n## 4.2.- De Los Requisitos Formales Del Proceso.\n\nEl presente proceso jurisdiccional se direccionó con el procedimiento establecido en la Ley de Víctimas y Restitución de Tierras, Ley 1448 de 2011, r..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.559,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 21,
+        "content_preview": "\nOrdenar a la Oficina de Instrumentos Públicos del Círculo Registral de Florencia, actualizar el folio de matrícula No. 420-106093, en cuanto a su área, linderos y el titular de derecho, con base en l..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.558,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 243,
+        "content_preview": "\nLa relación jurídica de propiedad de la señora Esneda Cuarta Acosta sobre el predio «LA FLORESTA» se encuentra debidamente corroborada con el Estudio Jurídico de Títulos realizado por la Superintende..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.555,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 305,
+        "content_preview": "\nParágrafo: por Secretaria, ofíciese en tal sentido indicando el nombre, documento de identidad, dirección y teléfono de los solicitantes y sus núcleos familiares.\n\nPara tal efecto rendirá informe sob..."
+      },
+      {
+        "rank": 23,
+        "similarity": 0.555,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 31,
+        "content_preview": "\nEl trámite administrativo concluyó con la expedición de la Resolución No. RQ 00148 de 31 de enero de 2020, por parte de la Unidad de Restitución de Tierras, Territorial Caquetá, mediante la cual se a..."
+      },
+      {
+        "rank": 24,
+        "similarity": 0.554,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 27,
+        "content_preview": "\nOrdenar a la Dirección de Archivo de los Derechos Humanos del Centro Nacional de Memoria Histórica que, en el marco de sus funciones y de conformidad con el Protocolo de Gestión Documental de los Arc..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.55,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 44,
+        "content_preview": "\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\noficiada en auto anterior, y 4) oficiar autoridades del orden nacional y territorial para que allegaran información relacionada con el proceso de marras.\n\n..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.545,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 250,
+        "content_preview": "\n## D) De La Presunta Vulneración Del Derecho Fundamental A La Restitución De Tierras Despojadas.\n"
+      },
+      {
+        "rank": 27,
+        "similarity": 0.542,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 231,
+        "content_preview": "\n## B) Identificación Del Predio Objeto De Restitución.\n\nEl debate jurídico que aquí se adelanta recae sobre un bien inmueble rural ubicado en la vereda Palma Azul Coconuco, jurisdicción del muncipio ..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.542,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 324,
+        "content_preview": "\n<--- Page Split --->\n\nformalización de tierras de la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá y su grupo familiar.\n\nDÉCIMO NOV..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.538,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 308,
+        "content_preview": "\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO SEGUNDO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS – UARIV, q..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.538,
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 19,
+        "content_preview": "\nOrdenar a la Oficina de Registro de Instrumentos Públicos de Florencia, la inscripción en el folio de matrícula inmobiliaria de las medidas de protección patrimonial previstas en la Ley 387 de 1997, ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 0,
+        "content_preview": "# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- O..."
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 1,
+        "content_preview": "\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dent..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "73001312100220140019502_1792542623",
+        "chunk_index": 2,
+        "content_preview": "\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Documento Relevante 2]\n\nCUARTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI – IGAC, que en el término perentorio de quince (15) días, contado a partir del recibo del aviso de la Oficina de Instrumentos Públicos de Florencia (Caquetá), a la que alude el numeral 4.4 del ordinal anterior, proceda a la actualización de sus registros cartográficos y alfanuméricos, atendiendo la individualización e identificación del predio lograda con los levantamientos topográficos y los informes técnicos catastrales presentados por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas, de conformidad con lo dispuesto en el literal (p) de artículo 91 de la Ley 1448 de 2011.\n\n[Documento Relevante 3]\n\nAdemás, se ordenó la publicación de la solicitud en un diario de amplia circulación nacional y en una emisión radial en medio local. La Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas - Dirección Territorial Caquetá, por su parte mediante escrito radicado el día 24 de junio de 2021 \\( ^{4} \\) allega al expediente las publicaciones en el periódico El Espectador de fecha 23 de mayo de 2021 anunciando la admisión de la solicitud de restitución de tierras sobre el predio « LA FLORESTA »; identificado con el folio de matrícula No. 420-106093 ficha catastral No. 184100001000000040261000000000, ubicados en la vereda Palma Azul Coconuco, jurisdicción del municipio de la Montañita (Caquetá). Asimismo, para la misma fecha, se tramitó el edicto radialmente a través de la cadena INRAI LTDA, cumpliendo así con los mecanismos de divulgación exigidos en el auto admite referido.\n\n[Documento Relevante 4]\n\n## 3. ACTUACIÓN PROCESAL\n\n## 3.1.- Del Trámite Administrativo.\n\nEn el marco de la Ley 1448 de 2011 la señora ESNEDA CUARTA ACOSTA, presentó ante la UAEGRT Territorial Caquetá, solicitud de inscripción en el Registro de Tierras Despojadas y Abandonadas Forzosamente, en relación con el predio denominado registralmente «LA FLORESTA»; folio de matrícula No. 420-106093 ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149 m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del muncipio de la Montañita (Caquetá).\n\n[Documento Relevante 5]\n\nDe la revisión del plenario se acredita el respectivo registro de conformidad con lo expuesto en la resolución No. RQ 00148 del 31 de enero de 2020.\n\n## 4.4.- Problemas Jurídicos.\n\n4. 4.1- El primero de ellos, se finca en dilucidar si resulta procedente declarar en sentencia la protección del derecho a la restitución y formalización de tierras solicitada por la señora ESNEDA CUARTA ACOSTA, en calidad de propietaria respecto del predio rural denominado «LA FLORESTA»; identificado con el folio de matrícula No. 420 - 106093y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicados en la Vereda Palma Azul Coconuco, jurisdicción del Municipio de La Montañita (Caquetá), a la luz de lo normado en la Ley 1448 de 2011 y demás normas concordantes, los postulados de la justicia transicional concebida para la protección y reparación integral a las víctimas del conflicto armado interno, así como las normas constitucionales y el precedente jurisprudencial relativa a esta materia.\n\n[Documento Relevante 6]\n\nAcreditados los hechos anteriormente expuestos, la señora ESNEDA CUARTA ACOSTA, amparada en lo dispuesto en los artículos 81 y siguientes de la Ley 1448 de 2011, solicitó y aceptó la representación judicial por parte de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas (UAEGRTD), Territorial Caquetá.\n\nAvenida 16 No. 6 – 47 Barrio 7 de agosto - Palacio de Justicia Of. 403 jctortO1flc@notificacionesrj.gov.co\n\nCelular. 305 262 2647\n\nFlorencia – Caquetá.\n\n\n[Documento Relevante 7]\n\n## 3.3.- Elementos De Convicción Que Obran En El Expediente.\n\nLas pruebas relacionadas en el numeral 8.1 \\( ^{11} \\) del escrito de solicitud de restitución, que fueron aportadas en los anexos de la demanda, así como las demás pruebas requeridas y allegadas por la parte solicitante, obran en el expediente digital del proceso de la referencia, disponible en el Portal de Tierras.\n\n## 3.4.- Alegatos De Conclusión Unidad De Restitución De Tierras \\( ^{12} \\)\n\nFrente a la calidad de la Solicitante.\n\n[Documento Relevante 8]\n\n## 3.2.- Del Trámite Jurisdiccional.\n\nEl trámite jurisdiccional inició con la presentación de la solicitud el día 23 de septiembre de 2020 \\( ^{1} \\) , ante el Juzgado Primero Civil Especializado en restitución de Tierras del circuito de Ibagué, Tolima; operador judicial que mediante auto interlocutorio No. 022 del 28 de enero de 2021 \\( ^{2} \\) , dispuso admitir la presente solicitud de tierras atendiendo lo lineamientos contemplados en el artículo 86 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 9]\n\nLas diligencias judiciales de audiencia se llevaron a cabo conforme consta en los consecutivos 78 al 83 del expediente digital disponible en el Portal de Tierras, En el marco de dichas actuaciones, el despacho, actuando de oficio, dispuso:\n\n\n[Documento Relevante 10]\n\nPara tal efecto, el Despacho de conformidad con los preceptos establecidos en el artículo 100 de la Ley 1448 de 2011, comisiona con amplias facultades al señor JUEZ PROMISCUO MUNICIPAL DE LA MONTAÑITA. Asimismo, se le hace saber que dicha diligencia debe realizarse con el acompañamiento y apoyo efectivo de la Fuerza Pública, e igualmente contará con el apoyo logística y colaboración de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá, entidades con las que debe coordinar lo pertinente. Una vez en firme la presente sentencia, librese el despacho comisorio con los respectivos insertos del caso.\n\n[Documento Relevante 11]\n\n## 4. CONSIDERACIONES\n\n## 4.1.- La Competencia.\n\nEs competente esta judicatura para proferir la correspondiente sentencia de fondo en única instancia dentro de la presente Solicitud Individual de Restitución y Formalización de Tierras, de conformidad con lo establecido en el inciso segundo del artículo 79 y articulo 80 de la Ley 1448 de 2011, toda vez que no se presentaron opositores que pretendieran hacer valer mejor o igual derecho que el solicitante durante el término señalado para tal fin. Asimismo, por hallarse ubicado el bien objeto de petitum en el municipio de Puerto Rico (Caquetá), territorio sobre el cual tienen competencia el Juzgado Primero Civil del Circuito Especializado en Restitución de Tierras de Florencia \\( ^{14} \\) .\n\n[Documento Relevante 12]\n\n## 5. CASO CONCRETO\n\nPara dar solución al problema jurídico planteado es conveniente analizar los presupuestos previstos en la Ley 1448 de 2011 y sus decretos reglamentarios, por lo que para determinar si las pretensiones de los solicitantes son procedentes, se delimita el estudio bajo los siguientes tópicos: (a) Verificación de los hechos de violencia presentados en el municipio de La Montañita (Caquetá), y su nexo causal con la solicitante; (b) Identificación del predio objeto del petitum; (c) Relación jurídica de la propiedad con la solicitante; y, (d) de la presunta vulneración del derecho fundamental a la restitución de tierras despojadas.\n\n[Documento Relevante 13]\n\nOrdenar a la Dirección Territorial de Caquetá del Instituto Geográfico Agustín Codazzi (IGAC)/Catastro de Caquetá, que con base en el Folio de Matrícula Inmobiliaria No. 420-106093, actualizado por la Oficina de Registro de Instrumentos Públicos de Florencia, adelante la actuación catastral correspondiente que permita la inclusión en el inventario predial del municipio.\n\n<--- Page Split --->\n\n\n[Documento Relevante 14]\n\nPor secretaría remitir copia de esta providencia con las constancias respectivas; así como copia del Informe Técnico Predial aportado con la solicitud.\n\nPara el cumplimiento de esta orden la UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS, prestará la ayuda necesaria y brindará la información que se requiera para tal efecto.\n\n\n[Documento Relevante 15]\n\nOrdenar a la Oficina de Instrumentos Públicos del Círculo Registral de Florencia, actualizar en el folio de matrícula No. 420-12468, en cuanto a su área, linderos y el titular de derecho, con base en la información predial indicada en el fallo, y efectuar su remisión al Instituto Geográfico Agustín Codazzi (IGAC).\n\n\n[Documento Relevante 16]\n\nDentro de las órdenes proferidas de conformidad con el artículo 86 de la Ley de Víctimas, se encuentran la dirigida a la Oficina de Registro de Instrumentos Públicos de Florencia (Caquetá), en relación con la inscripción de la solicitud en el folio de matrícula inmobiliaria No. 425-106093 y la sustracción provisional del comercio del predio hasta la ejecutoria de esta sentencia, medida que se llevó a efecto, tal como se acredita con el memorial presentado por la Oficina de Registro de Instrumentos Públicos de Florencia el día 2 de marzo de 2021 \\( ^{3} \\) .\n\n[Documento Relevante 17]\n\n## D) De La Presunta Vulneración Del Derecho Fundamental A La Restitución De Tierras Despojadas.\n\nRespecto del cumplimiento de este presupuesto, se tiene que la señora ESNEDA CUARTA ACOSTA ha accedido a los procedimientos de reclamación establecidos por la Ley 1448 de 2011, con el fin de obtener las garantías de restitución y las medidas complementarias previstas en el ordenamiento jurídico, en atención a los mandatos constitucionales y a los instrumentos internacionales de derechos humanos. Esta accesibilidad se encuentra consagrada en el Principio 13 de los Principios Pinheiro, conforme al cual el Estado debe garantizar que todas las personas desplazadas tengan acceso efectivo a procedimientos de restitución, bajo condiciones de igualdad, participación y no discriminación, como parte integral del deber estatal de asegurar el goce efectivo de sus derechos fundamentales, especialmente en el caso de las mujeres, quienes han sido reconocidas como sujetas de especial protección en escenarios de conflicto armado, despojo y desplazamiento forzado, en virtud del enfoque diferencial previsto en el artículo 13 de la Ley 1448 de 2011.\n\n[Documento Relevante 18]\n\nEn el caso concreto, la señora ESNEDA CUARTA ACOSTA solicita la protección de su derecho fundamental a la restitución y, en consecuencia, la emisión de las órdenes necesarias para garantizar su reparación integral. Para tal fin, obran en el expediente los elementos de convicción allegados por la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá, los cuales gozan de presunción de veracidad y autenticidad, conforme a lo establecido en el artículo 89 de la Ley 1448 de 2011. Dicho acervo probatorio, junto con el recaudado durante la etapa procesal, permite establecer que la reclamante ya venía padeciendo los efectos del conflicto armado en la región.\n\n[Documento Relevante 19]\n\n## 4.2.- De Los Requisitos Formales Del Proceso.\n\nEl presente proceso jurisdiccional se direccionó con el procedimiento establecido en la Ley de Víctimas y Restitución de Tierras, Ley 1448 de 2011, respetando los presupuestos materiales y procesales para tramitar el asunto litigioso propuesto, y el debido proceso tanto de los solicitantes como de terceros que se pudieran ver afectados con este trámite, advirtiendo desde ya que no se reconocieron opositores, hecho que convalida la competencia de esta judicatura para dirimir de fondo el asunto.\n\n[Documento Relevante 20]\n\nOrdenar a la Oficina de Instrumentos Públicos del Círculo Registral de Florencia, actualizar el folio de matrícula No. 420-106093, en cuanto a su área, linderos y el titular de derecho, con base en la información predial indicada en el fallo, y efectuar su remisión al Instituto Geográfico Agustín Codazzi (IGAC). de restitución, de conformidad con el literal d) del artículo 91 de la Ley 1448 de 2011.\n\n\n[Documento Relevante 21]\n\nLa relación jurídica de propiedad de la señora Esneda Cuarta Acosta sobre el predio «LA FLORESTA» se encuentra debidamente corroborada con el Estudio Jurídico de Títulos realizado por la Superintendencia Delegada para la Protección, Restitución y Formalización de Tierras, allegado a este Despacho el 8 de abril de 2021 \\( ^{54} \\) , en el cual se precisó que dicho inmueble, identificado con el folio de matrícula inmobiliaria No. 420-106093 de la Oficina de Registro de Instrumentos Públicos de Florencia, corresponde a un predio rural de 57 hectáreas + 3.500 m², ubicado en la vereda Palma Azul, jurisdicción del municipio de La Montañita (Caquetá); que dicho folio fue abierto con base en la división material efectuada mediante la escritura pública No. 300 del 23 de junio de 2011, otorgada en la Notaría Única de Belén de los Andaquíes, a favor de la señora Esneda Cuarta Acosta y registrada el 5 de julio de 2011. En conclusión, el estudio jurídico de títulos determinó que la señora Esneda Cuarta Acosta es la propietaria actual del inmueble, en calidad de titular de dominio privado, consolidando de esta manera el vínculo jurídico y material que fundamenta la pretensión de restitución.\n\n[Documento Relevante 22]\n\nParágrafo: por Secretaria, ofíciese en tal sentido indicando el nombre, documento de identidad, dirección y teléfono de los solicitantes y sus núcleos familiares.\n\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\n\n[Documento Relevante 23]\n\nEl trámite administrativo concluyó con la expedición de la Resolución No. RQ 00148 de 31 de enero de 2020, por parte de la Unidad de Restitución de Tierras, Territorial Caquetá, mediante la cual se accedió a la inscripción del predio objeto de reclamación en el Registro de Tierras Despojadas y Abandonadas Forzosamente (RTDAF) a nombre de la señora ESNEDA CUARTA ACOSTA identificada con cédula de ciudadanía No. 40.091.409 expedida en el muncipio de El Paujil - Caquetá, en calidad de propietaria del predio aquí reclamado, hecho que materializa el requisito de procedibilidad exigido por el artículo 76 de la Ley 1448 de 2011 para adelantar el proceso judicial.\n\n[Documento Relevante 24]\n\nOrdenar a la Dirección de Archivo de los Derechos Humanos del Centro Nacional de Memoria Histórica que, en el marco de sus funciones y de conformidad con el Protocolo de Gestión Documental de los Archivos Referidos a las Graves y Manifiestas Violaciones a los Derechos Humanos e Infracciones al Derechos Internacional Humanitario, acopie, preserve y custodie copia de presente sentencia judicial en virtud de la cual se documenten los hechos victimizantes ocurridos en la vereda PALMA AZUL COCONUCO del muncipio de LA MONTAÑITA del departamento de CAQUETÁ. Para tal efecto, envíese copia de la sentencia anunciada a la Dirección de Archivo de los Derechos Humanos del Centro Nacional de Memoria Histórica.\n\n[Documento Relevante 25]\n\nFlorencia – Caquetá.\n\n<--- Page Split --->\n\noficiada en auto anterior, y 4) oficiar autoridades del orden nacional y territorial para que allegaran información relacionada con el proceso de marras.\n\nActo seguido, mediante auto del 19 de mayo de 2023 \\( ^{7} \\) , este despacho dispuso requerir a las entidades y a las partes del proceso para que dieran cumplimiento a las órdenes impartidas en providencias anteriores. Posteriormente, a través de auto del 28 de agosto de 2023 \\( ^{8} \\) , ordenó abrir a prueba la presente solicitud de restitución de tierras, en los términos del artículo 90 de la Ley 1448 de 2011. En el mismo proveído se señaló para el día 10 de octubre de 2023 la práctica del interrogatorio de parte a la señora Esneda Cuartas Acosta y de los testimonios de los señores Marly Yisela Guerrero Cuarta y Alejandro Moreno Aragón; y, por último, se dispuso la práctica de la inspección ocular sobre el predio objeto de reclamación, a cargo de la Unidad de Restitución de Tierras – Territorial Caquetá.\n\n[Documento Relevante 26]\n\n## D) De La Presunta Vulneración Del Derecho Fundamental A La Restitución De Tierras Despojadas.\n\n\n[Documento Relevante 27]\n\n## B) Identificación Del Predio Objeto De Restitución.\n\nEl debate jurídico que aquí se adelanta recae sobre un bien inmueble rural ubicado en la vereda Palma Azul Coconuco, jurisdicción del muncipio de La Montañita, en el departamento Caquetá, identificado con folio de matrícula inmobiliaria No. 420 - 106093 de la Oficina de Registro de Instrumentos Públicos de Florencia, que identifica al predio denominado «LA FLORESTA».\n\n\n[Documento Relevante 28]\n\n<--- Page Split --->\n\nformalización de tierras de la señora ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409 expedida en El Paujil - Caquetá y su grupo familiar.\n\nDÉCIMO NOVENO: NOTIFICAR esta providencia por el medio más eficaz a las partes, intervinientes de conformidad con lo establecido en el artículo 93 de la ley 1448 de 2011.\n\n\n[Documento Relevante 29]\n\nPara tal efecto rendirá informe sobre el cumplimiento del fallo dentro del término de un (1) mes.\n\nDÉCIMO SEGUNDO: ORDENAR a la UNIDAD PARA LA ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS – UARIV, que en un término perentorio de treinta (30) días hábiles, contados a partir de la notificación de la presente sentencia, adelante los trámites administrativos correspondientes para la inclusión en el Registro Único de Víctimas – RUV de las señoras ESNEDA CUARTA ACOSTA, identificada con cédula de ciudadanía No. 40.091.409, y MARLY YISELA GUERRERO CUARTA, identificada con cédula de ciudadanía No. 1.117.519.435, por los hechos victimizantes de violencia sexual ocurridos en el año 2011, en la vereda Palma Azul Coconuco, jurisdicción del municipio de La Montañita, Caquetá, en el marco del conflicto armado interno colombiano.\n\n[Documento Relevante 30]\n\nOrdenar a la Oficina de Registro de Instrumentos Públicos de Florencia, la inscripción en el folio de matrícula inmobiliaria de las medidas de protección patrimonial previstas en la Ley 387 de 1997, en los términos previstos en el literal e) del artículo 91 de la Ley 1448 de 2011.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# SENTENCIA\n\n- Lugar y fecha: Florencia, Caquetá, nueve (9) de septiembre de dos mil veinticinco (2025).\n- Tipo De Proceso: Solicitud de Restitución de Tierras\n- Solicitantes: ESNEDA CUARTA ACOSTA\n- Opositor: No reconocido\n- Predio: denominado «LA FLORESTA» identificado con folio de matrícula No. 420-106093 y cédula catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 Ha 4149 m², ubicados en la vereda Palma Azul Coconuco, del municipio de Montañita, Caquetá\n\n\n[Contexto Base 2 - PRIORITARIO]\n\nRadicado No. 73001312100120200026900\n\n## 1. ASUNTO A TRATAR\n\nProcede el despacho de conformidad con lo dispuesto en el artículo 91 de la Ley 1448 de 2011, a proferir sentencia de única instancia dentro de la Solicitud de Restitución y Formalización de Tierras Despojadas, promovida por la señora ESNEDA CUARTA ACOSTA, a través de apoderado judicial adscrito a la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas – Dirección Territorial Caquetá.\n\n## 2. ANTECEDENTES\n\n\n[Contexto Base 3 - PRIORITARIO]\n\n## 2. ANTECEDENTES\n\n2. 1.- Desde el inicio de este trámite especial, se afirmó que el predio rural que antes fue abandonado por la señora ESNEDA CUARTA ACOSTA, junto a su núcleo familiar, se denomina «LA FLORESTA»; identificado con folio de matrícula inmobiliaria No. 420-106093 y ficha catastral No. 184100001000000040261000000000, con un área georreferenciada de 52 ha + 4149m², ubicado en la vereda Palma Azul Coconuco, jurisdicción del municipio La Montañita, en el departamento del Caquetá.\n\n"
+  }
+}

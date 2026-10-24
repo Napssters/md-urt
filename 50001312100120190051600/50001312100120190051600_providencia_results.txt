@@ -1,0 +1,1068 @@
+{
+  "orden_1": {
+    "pregunta": "PRIMERO:",
+    "respuesta": "\n## RESUELVE\n\nPRIMERO: DECLARAR que la ciudadana GLORIA INÉS APOLINAR SILVA CC n.° 20.780.907 y su hijo BENITO APOLINAR SILVA CC n.° 17.423.461, son víctimas del conflicto armado interno a raíz de los hechos de violencia padecidos en agosto de 2002 en la vereda Manzanares del municipio de Acacías (Meta).\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_2": {
+    "pregunta": "SEGUNDO:",
+    "respuesta": "\nSEGUNDO: DECLARAR que la señora GLORIA INÉS APOLINAR SILVA CC n.° 20.780.907, es titular del derecho iusfundamental a la restitución por compensación, del predio La Esperanza, ubicado en la vereda Manzanares del municipio de Acacías (Meta), descrito en los antecedentes del presente fallo. La forma en que se concretará la compensación se definirá en el posfallo con participación de la víctima restituida.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_3": {
+    "pregunta": "TERCERO:",
+    "respuesta": "\nTERCERO: DECLARAR que la señora GLORIA INÉS APOLINAR SILVA CC n.° 20.780.907 adquirió por prescripción extraordinaria adquisitiva de dominio el predio La Esperanza, ubicado en la vereda Manzanares del municipio de Acacías (Vaupés), descrito en los antecedentes del presente fallo.\n\nCUARTO: ORDENAR a la OFICINA DE REGISTRO DE INSTRUMENTOS PÚBLICOS DE ACACÍAS (META) que, dentro de los quince (15) días siguientes a la notificación de esta sentencia, remita a este despacho y al\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_5": {
+    "pregunta": "QUINTO:",
+    "respuesta": "\nQUINTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI o al GESTOR CATASTRAL COMPETENTE, que dentro de los diez (10) días contados a partir del recibo del folio de matrícula inmobiliaria n.° 232-7079 actualizado conforme a los lineamientos del ordinal anterior, proceda a actualizar la información catastral de su competencia.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_6": {
+    "pregunta": "SEXTO:",
+    "respuesta": "\nSEXTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI DIRECCIÓN TERRITORIAL META o al GESTOR CATASTRAL COMPETENTE que dentro de los veinte (20) días siguientes contados a partir de la ejecutoria de esta sentencia, efectué el avalúo comercial del predio rural \"La Esperanza\", ubicado en la vereda Manzanares del municipio de Acacías (Vaupés). Lo anterior a efectos de adelantar la compensación, conforme lo dispuesto en el capítulo 2.15.2.1.3 del Decreto 1071 de 2015.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_7": {
+    "pregunta": "SÉPTIMO:",
+    "respuesta": "\nSÉPTIMO: DECLARAR con fundamento en el inciso 2° del art. 2.15.2.1.7 del D. 1071/2015, modificado por el art. 4° del D. 1623/2023, que la señora Gloria Inés Apolinar Silva queda habilitada para ceder al Fondo de la UAEGRTD el predio La Esperanza, una vez haya sido compensada.\n\nOCTAVO: COMISIONAR con amplias facultades al JUZGADO PROMISCUO MUNICIPAL DE ACACÍAS (META) para que realice la entrega material del predio restituido al Fondo de la UAEGRTD.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_9": {
+    "pregunta": "NOVENO:",
+    "respuesta": "\nOCTAVO: COMISIONAR con amplias facultades al JUZGADO PROMISCUO MUNICIPAL DE ACACÍAS (META) para que realice la entrega material del predio restituido al Fondo de la UAEGRTD.\n\nNOVENO: DECLARAR que los solicitantes tienen derecho a la adopción de medidas con carácter transformador, pero conforme con sus actuales condiciones y necesidades, para ello se dispone:\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_10": {
+    "pregunta": "DÉCIMO:",
+    "respuesta": "\nDÉCIMO: RECONOCER a la abogada YENCY NARDELLY BENJUMEA RODRÍGUEZ, en su condición de representante judicial de Pablo Emilio Apolinar Camelo (inc. 3° art. 87 L. 1448/2011), y con cargo al Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas (UAEGRTD), los gastos de curaduría en los que efectivamente incurrió, por tanto, se le REQUIERE para que, dentro de los ocho (8) días siguientes a la notificación del presente fallo, los acredite en debida forma. Una vez soportados los gastos en mención y, en firme la presente sentencia, ingresar el expediente para su fijación. Expídase a la interesada copia de la presente sentencia, así como de la providencia de nombramiento.",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_11": {
+    "pregunta": "DÉCIMO PRIMERO:",
+    "respuesta": "\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la presente sentencia, emita Acta de Incorporación de Sentencias de Restitución de Tierras de la misma, para los fines establecidos en los arts. 145, 147 y 148 de la L. 1448/2011.\n\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_13": {
+    "pregunta": "DÉCIMO TERCERO:",
+    "respuesta": "\nDÉCIMO TERCERO: Por Secretaría, NOTIFÍQUESE PERSONALMENTE esta sentencia a las partes del presente proceso, a los intervinientes reconocidos y al agente del Ministerio Público, a través del medio más eficaz (correo electrónico, telegrama o fax), dejando las respectivas constancias del envío de las comunicaciones. Una vez verificado el cumplimiento de las órdenes impartidas, archívense las presentes diligencias.\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "orden_14": {
+    "pregunta": "DÉCIMO CUARTO:",
+    "respuesta": "\nDÉCIMO CUARTO: PRECISAR que, el único medio autorizado por el Juzgado para la recepción y envío de correspondencia es el correo electrónico jcctoesrt01vcio@notificacionesrj.gov.co. Las partes indicarán en sus comunicaciones el número del proceso.\n\nNOTIFÍQUESE,\n\nFIRMADO ELECTRÓNICAMENTE\n\nLUIS ALEJANDRO BARRETO MORENO\n\nJuez\n\nLABM\n\nJUZGADO PRIMERO CIVIL DEL CIRCUITO DE VILLAVICENCIO (META)\n\nLa anterior providencia se notifica por Estado el: 14/03/2025\n\nYADY KARIME PARRA CASTILLO\n\nSecretaria\n",
+    "sources": [],
+    "context_used": ""
+  },
+  "providencia_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el valor numérico de la PRIMERA área mencionada en el documento judicial.\\nIdentifica solo el número (ejemplo: 45 o 1200) solo el numero entero del area .\\nSi no se encuentra ningún valor, responde: 0\\n\\n### REGLA DE ORO:\\nResponde ÚNICAMENTE con el número. No incluyas unidades, texto ni explicaciones. Convierte decimales a solo enteros .\\n\\n### RESPUESTA:",
+    "respuesta": "0",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.5,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 152,
+        "content_preview": "\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.5,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.485,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 24,
+        "content_preview": "\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titul..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.476,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.469,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 18,
+        "content_preview": "\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n6. ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la Constitución,\n\n## RESUELVE\n\n\n[Documento Relevante 2]\n\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el presente asunto, dado que no se presentaron opositores y por la ubicación del predio que se pide en restitución, este juzgado es competente para proferir sentencia y no se evidencia causal de nulidad que pueda invalidar lo actuado.\n\n## PROBLEMAS JURÍDICOS\n\n13. Corresponde al Juzgado determinar si:\n\n\n[Documento Relevante 3]\n\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titular del derecho fundamental a la restitución por compensación, por tanto, el juzgado debe conceder la protección solicitada, así como las medidas con carácter transformador a que haya lugar.\n\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n\n[Documento Relevante 4]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n\n[Documento Relevante 5]\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n6. 1. Vincular a Pablo Emilio Apolinar Camelo (q.e.p.d.), a la Agencia Nacional de Tierras, a la Agencia Nacional de Hidrocarburos, a Cormacarena, a Montecz S.A., a la Alcaldía de Acacías (Meta).\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_fecha_notificacion_urt": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la NOTIFICACION a la Urt (unidad de restitucion de tierras) del documento judicial.\\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nSi no se encuentra ninguna fecha clara de la sentencia, responde: 0000-00-00\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación ni texto adicional. Solo la fecha en formato AAAA-MM-DD o el valor 0000-00-00.\\n\\n### RESPUESTA:",
+    "respuesta": "0000-00-00",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.623,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 23,
+        "content_preview": "\n9. Por lo anterior, una vez agotada la instrucción, este despacho corrió traslado mediante auto ASR-25-006, del 12 de febrero de 2025, para que la solicitante y la Procuraduría General de la Nación p..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.598,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 172,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.545,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 7,
+        "content_preview": "\n3. 4. En cumplimiento del requisito de procedibilidad que exige la L. 1448/2011, con base en estos hechos fue inscrita en el Registro de Tierras Despojadas y Abandonadas como poseedora del predio sol..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.537,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 165,
+        "content_preview": "\nSEXTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI DIRECCIÓN TERRITORIAL META o al GESTOR CATASTRAL COMPETENTE que dentro de los veinte (20) días siguientes contados a partir de la ejecutoria de ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.528,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 119,
+        "content_preview": "\n53. La resolución de adjudicación fue inscrita ante la Oficina de Registro de Instrumentos Públicos de Acacías (Meta) dando origen al folio de matrícula n.°\n\n<--- Page Split --->\n\n232-7079, de modo q..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n9. Por lo anterior, una vez agotada la instrucción, este despacho corrió traslado mediante auto ASR-25-006, del 12 de febrero de 2025, para que la solicitante y la Procuraduría General de la Nación presentaran sus alegatos y concepto final (consec. n.° 91). El expediente ingresó el 24 de febrero del presente año para fallo (consec. n.° 163).\n\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n\n[Documento Relevante 2]\n\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la presente sentencia, emita Acta de Incorporación de Sentencias de Restitución de Tierras de la misma, para los fines establecidos en los arts. 145, 147 y 148 de la L. 1448/2011.\n\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n\n\n[Documento Relevante 3]\n\n3. 4. En cumplimiento del requisito de procedibilidad que exige la L. 1448/2011, con base en estos hechos fue inscrita en el Registro de Tierras Despojadas y Abandonadas como poseedora del predio solicitado (R. n.° RT 00823 del 29 de marzo de 2019), con el siguiente núcleo familiar:\n\n\n[Documento Relevante 4]\n\nSEXTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI DIRECCIÓN TERRITORIAL META o al GESTOR CATASTRAL COMPETENTE que dentro de los veinte (20) días siguientes contados a partir de la ejecutoria de esta sentencia, efectué el avalúo comercial del predio rural \"La Esperanza\", ubicado en la vereda Manzanares del municipio de Acacías (Vaupés). Lo anterior a efectos de adelantar la compensación, conforme lo dispuesto en el capítulo 2.15.2.1.3 del Decreto 1071 de 2015.\n\n\n[Documento Relevante 5]\n\n53. La resolución de adjudicación fue inscrita ante la Oficina de Registro de Instrumentos Públicos de Acacías (Meta) dando origen al folio de matrícula n.°\n\n<--- Page Split --->\n\n232-7079, de modo que se trata de un inmueble rural de naturaleza privada (consec. n.° 1, archivo \"60036696\", p. 9), conclusión a la cual arribó igualmente la Agencia Nacional de Tierras en comunicación n.° 20191031027021 del seis de noviembre de 2019 (consec. n.° 24).\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_id_juzgado_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el juzgado de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Barrancabermeja\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Bucaramanga\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 001 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Florencia\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Caucasia\",\"Juzgado Civil del Circuito Especializado en Restitución de Tierras de Quibdo\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Cundinamarca\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 101 Itinerante Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Mocoa\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Pereira\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Popayan\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Tumaco\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Antioquia\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Apartado\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Barrancabermeja\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Bucaramanga\",\"Juzgado 2 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Cucuta\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Cundinamarca\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Ibague\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 002 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pereira\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 002 Civil Especializado en Restitucion de Tierras de Villavicencio\",\"Juzgado 3 Civil del Circuito Especializado en Restitución de Tierras de Buga\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Cali\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Carmen de Bolivar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Monteria\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Pasto\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 003 Civil Especializado en Restitucion de Tierras de Valledupar\",\"Juzgado 003 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Villavicencio\",\"Juzgado 00a de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Carmen de Bolivar\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Mocoa\",\"Juzgado 004 Civil Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Santa Marta\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Santa Marta\",\"Juzgado 004 Civil Especializado en Restitucion de Tierras de Sincelejo\",\"Juzgado 004 de Descongestión Civil de Circuito Especializado en Restitución de Valledupar\",\"Juzgado 005 de Descongestión Civil de Circuito Especializado en Restitución de Tierras de Pasto\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\",\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\",\"Juzgado 001 Civil Especializado en Restitucion de Tierras de Antioquia\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Solo la palabra exacta de la lista o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "Juzgado 1 Civil del Circuito Especializado en Restitución de Tierras de Villavicencio",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.79,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 152,
+        "content_preview": "\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.685,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 69,
+        "content_preview": "\n24. Estos elementos técnicos, teóricos y jurisprudenciales no son ajenos al ejercicio valorativo que debe realizar el juez de restitución de tierras ni al proceso civil transicional que regula la L. ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.666,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 172,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.658,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 17,
+        "content_preview": "\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.65,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 24,
+        "content_preview": "\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titul..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la Constitución,\n\n## RESUELVE\n\n\n[Documento Relevante 2]\n\n24. Estos elementos técnicos, teóricos y jurisprudenciales no son ajenos al ejercicio valorativo que debe realizar el juez de restitución de tierras ni al proceso civil transicional que regula la L. 1448/2011, antes bien, se complementa con las normas y principios que lo informan, entre otros, el principio de la buena fe que se predica de las víctimas del conflicto armado interno (art. 5°); igualdad, en tanto las medidas de reparación contempladas en dicho cuerpo normativo son otorgadas sin distinción de género, etnia, condición social, entre otras condiciones particulares; enfoque diferencial, que reconoce que hay poblaciones con características particulares por razón de su edad, sexo, identidad de género, orfandad, creencias, diversidad étnica, cultural y territorial, entre otros (art. 13).\n\n[Documento Relevante 3]\n\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la presente sentencia, emita Acta de Incorporación de Sentencias de Restitución de Tierras de la misma, para los fines establecidos en los arts. 145, 147 y 148 de la L. 1448/2011.\n\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n\n\n[Documento Relevante 4]\n\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación (por equivalencia o en dinero) y disponer la transferencia de los predios al Fondo de la UAEGRTD.\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n\n[Documento Relevante 5]\n\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titular del derecho fundamental a la restitución por compensación, por tanto, el juzgado debe conceder la protección solicitada, así como las medidas con carácter transformador a que haya lugar.\n\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_id_perdida_bien": {
+    "pregunta": "### INSTRUCCIÓN:\\nAnaliza el documento de restitución para identificar la causa de la pérdida del bien por parte de la víctima.\\nResponde únicamente con una de las opciones permitidas.\\nSi el documento no permite determinarlo o no menciona pérdida, responde: NoReporta\\n\\n### OPCIONES PERMITIDAS:\\n[Abandono, Despojo, NoReporta, Ambos]\\n\\n### REGLA DE ORO:\\nNo expliques. No uses JSON. No inventes. Solo la palabra exacta de la lista.\\n\\n### RESPUESTA:",
+    "respuesta": "Ambos",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.649,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 34,
+        "content_preview": "\n15. 1.2. Por otra, si la noción de víctima no debe interpretarse restrictivamente, tampoco será adecuada una interpretación de tal carácter frente a la noción de daño \\( ^{9} \\) que, tanto a nivel in..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.649,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 33,
+        "content_preview": "\n15. 1.1. Por una parte, que la calidad de víctima no es exclusiva de quién directamente padece el daño, sino que también se predica de los miembros de la familia de aquella e incluso de las personas ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.568,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 55,
+        "content_preview": "\n22. La valoración de las manifestaciones de la víctima de quien se predica la condición de analfabetismo se debe realizar con un enfoque diferencial, lo que no supone un menor rigor en el razonamient..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.564,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 154,
+        "content_preview": "\nSEGUNDO: DECLARAR que la señora GLORIA INÉS APOLINAR SILVA CC n.° 20.780.907, es titular del derecho iusfundamental a la restitución por compensación, del predio La Esperanza, ubicado en la vereda Ma..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.562,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 28,
+        "content_preview": "\n13. 2. Como consecuencia de lo anterior, la solicitante abandonó forzadamente el predio La Esperanza objeto de este proceso, por tanto, se debe declarar en su favor el derecho iusfundamental a la res..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n15. 1.2. Por otra, si la noción de víctima no debe interpretarse restrictivamente, tampoco será adecuada una interpretación de tal carácter frente a la noción de daño \\( ^{9} \\) que, tanto a nivel individual como colectivo \\( ^{10} \\), comprende no solamente las afectaciones materiales (daño emergente, el lucro cesante, el desamparo económico), sino las inmateriales (daño moral, y/o todos aquellos perjuicios que la jurisprudencia ha reconocido como el daño a la vida de relación, al proyecto de vida, a la pérdida de oportunidad, y, en fin, los causados a los bienes constitucional y convencionalmente protegidos \\( ^{11} \\)).\n\n[Documento Relevante 2]\n\n15. 1.1. Por una parte, que la calidad de víctima no es exclusiva de quién directamente padece el daño, sino que también se predica de los miembros de la familia de aquella e incluso de las personas que intervinieron para prevenir la victimización. Y lo anterior, de manera independiente a que el autor de la victimización y de los daños esté aprehendido, procesado o condenado.\n\n\n[Documento Relevante 3]\n\n22. La valoración de las manifestaciones de la víctima de quien se predica la condición de analfabetismo se debe realizar con un enfoque diferencial, lo que no supone un menor rigor en el razonamiento del juez de restitución de tierras, o un apartamiento de las reglas de la experiencia, la lógica y la sana crítica al momento de apreciar la prueba, sino una valoración del medio de convicción conforme con sus justas proporciones, lo cual se acompasa con la\n\n\n[Documento Relevante 4]\n\nSEGUNDO: DECLARAR que la señora GLORIA INÉS APOLINAR SILVA CC n.° 20.780.907, es titular del derecho iusfundamental a la restitución por compensación, del predio La Esperanza, ubicado en la vereda Manzanares del municipio de Acacías (Meta), descrito en los antecedentes del presente fallo. La forma en que se concretará la compensación se definirá en el posfallo con participación de la víctima restituida.\n\n\n[Documento Relevante 5]\n\n13. 2. Como consecuencia de lo anterior, la solicitante abandonó forzadamente el predio La Esperanza objeto de este proceso, por tanto, se debe declarar en su favor el derecho iusfundamental a la restitución jurídica y material del mismo, o por compensación.\n\n## El CARÁCTER FUNDAMENTAL Del DERECHO De RESTITUCIÓN De TIERRAS ABANDONADAS Y DESPOJADAS Por El CONFLICTO ARMADO Y PRESUPUESTOS PARA Su RECONOCIMIENTO En La L. 1448/2011\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_id_tipo_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica si la sentencia es Individual (un solo radicado) o Colectiva (múltiples radicados).\\nSi no es posible determinarlo, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Individual, Colectiva]\\n\\n### REGLA DE ORO:\\nNo expliques. No agregues texto de paréntesis. Responde solo con la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.574,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 8,
+        "content_preview": "\n<fcel>CUADRO DE IDENTIFICACIÓN DEL NÚCLEO FAMILIAR DURANTE EL MOMENTO DEL ABANDONO/O DESPOJO<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Primer Apellido<fcel>Segundo Apellido<fcel>Primer..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.527,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.518,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 56,
+        "content_preview": "\n\\( ^{17} \\) Martínez, Rodrigo y Fernández, Andrés, op. cit., p. 49.\n\n18 \"Comprende la condición más básica de adquisición de capacidades de lectura y escritura. Así, se considera analfabeta absoluta ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.5,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 138,
+        "content_preview": "\n29 \"En caso del derecho de posesión, su restablecimiento podrá acompañarse con la declaración de pertenencia, en los términos señalados en la ley\".\n\n<--- Page Split --->\n\n66. 5. Lo propio cabría pred..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.492,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 72,
+        "content_preview": "\n## PRESUPUESTOS GENERALES De La PRESCRIPCIÓN EXTRAORDINARIA ADQUISITIVA De DOMINIO\n"
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<fcel>CUADRO DE IDENTIFICACIÓN DEL NÚCLEO FAMILIAR DURANTE EL MOMENTO DEL ABANDONO/O DESPOJO<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Primer Apellido<fcel>Segundo Apellido<fcel>Primer Nombre<fcel>Segundo Nombre<fcel>Tipo de Documento<fcel>No de Identificación<fcel>Parentesco con el Solicitante<fcel>Fecha de Nacimento (ddmm aa)<fcel>ESTADO (vivo, fallecido o desapare cido)<nl><fcel>APOLI NAR<fcel>SILVA<fcel>GLO RIA<fcel>INES<fcel>Cédula de ciudadaniá<fcel>20.780.907<fcel>Titular<fcel>28/11/1955<fcel>Vivo<nl><fcel>APOLI NAR<fcel>SILVA<fcel>BENITO<ecel><fcel>Cédula de ciudadaniá<fcel>17.423.461<fcel>Hijo/a<fcel>24/12/1980<fcel>Vivo<nl><fcel>BARB OSA<fcel>QUEVEDO<fcel>FRA NCY<fcel>VIVIA NA<fcel>Cédula de ciudadaniá<fcel>1.121.817.571<fcel>Nuera<fcel>30/07/1985<fcel>Vivo<nl>\n\n[Documento Relevante 2]\n\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el presente asunto, dado que no se presentaron opositores y por la ubicación del predio que se pide en restitución, este juzgado es competente para proferir sentencia y no se evidencia causal de nulidad que pueda invalidar lo actuado.\n\n## PROBLEMAS JURÍDICOS\n\n13. Corresponde al Juzgado determinar si:\n\n\n[Documento Relevante 3]\n\n\\( ^{17} \\) Martínez, Rodrigo y Fernández, Andrés, op. cit., p. 49.\n\n18 \"Comprende la condición más básica de adquisición de capacidades de lectura y escritura. Así, se considera analfabeta absoluta a toda persona que responde no saber leer ni escribir en los censos y encuestas sociales generales o especializadas\". CEPAL, op. cit., p. 54.\n\n\\( ^{19} \\) CConst. T-623/2017. D. Fajardo.\n\n\\( ^{20} \\) CConst. T-380/2017. C. Bernal.\n\n<--- Page Split --->\n\n\n[Documento Relevante 4]\n\n29 \"En caso del derecho de posesión, su restablecimiento podrá acompañarse con la declaración de pertenencia, en los términos señalados en la ley\".\n\n<--- Page Split --->\n\n66. 5. Lo propio cabría predicar de la prescripción veintenaria, de no optar la prescribiente por la mencionada en el párrafo anterior \\( ^{30} \\) , pues el término prescriptivo extraordinario exigido se cumplió en el año 2011.\n\n\n[Documento Relevante 5]\n\n## PRESUPUESTOS GENERALES De La PRESCRIPCIÓN EXTRAORDINARIA ADQUISITIVA De DOMINIO\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_id_tribunal_sentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el tribunal de la sentencia en el documento judicial.\\nResponde únicamente con el nombre exacto de una de las opciones permitidas.\\nSi no se encuentra, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[\"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Antioquia\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cali\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de descongestion Distrito Judicial Especializado en Restitución de Tierras de Cartagena\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Cúcuta\", \"Tribunal Superior de Distrito Judicial Especializado en Restitución de Tierras de Bogotá\"]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. Responde solo con la opción exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.733,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 152,
+        "content_preview": "\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.62,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 17,
+        "content_preview": "\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.608,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 24,
+        "content_preview": "\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titul..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.603,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 25,
+        "content_preview": "\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n11. La agente del Ministerio Público conceptúa que el juzgado debe acceder a la restitución solicitada. Esto, por cuanto acredita los presupues..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.585,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 150,
+        "content_preview": "\n76. Dado que la L. 1448/2011 no regula el pago de honorarios o gastos para el representante judicial de que trata el inciso 3° del art. 87, por analogía y en\n\n<--- Page Split --->\n\nla medida que no d..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la Constitución,\n\n## RESUELVE\n\n\n[Documento Relevante 2]\n\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación (por equivalencia o en dinero) y disponer la transferencia de los predios al Fondo de la UAEGRTD.\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n\n[Documento Relevante 3]\n\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titular del derecho fundamental a la restitución por compensación, por tanto, el juzgado debe conceder la protección solicitada, así como las medidas con carácter transformador a que haya lugar.\n\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n\n[Documento Relevante 4]\n\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n11. La agente del Ministerio Público conceptúa que el juzgado debe acceder a la restitución solicitada. Esto, por cuanto acredita los presupuestos que exige la L. 1448/2011 para ser titular de este derecho fundamental, como se desprende de los medios de prueba recaudados y de la información de contexto. Sin embargo, por las determinantes ambientales del fundo, concluye la procuradora que la restitución debe ser por compensación en dinero o con un predio equivalente.\n\n[Documento Relevante 5]\n\n76. Dado que la L. 1448/2011 no regula el pago de honorarios o gastos para el representante judicial de que trata el inciso 3° del art. 87, por analogía y en\n\n<--- Page Split --->\n\nla medida que no desnaturaliza el proceso civil transicional ni desconoce los derechos de las víctimas, el despacho acude a la figura de nombramiento del auxiliar de la justicia en condición de curador ad-litem prevista en el CGP.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_observaciones_sentencia": {
+    "pregunta": "Del siguiente documento de restitución de tierras, extrae las OBSERVACIONES GENERALES más relevantes.\\n\\nINSTRUCCIONES:\\n1) Lee TODO el documento y busca hitos o datos clave que resuman la particularidad del caso (ej: compensaciones a opositores, medidas de protección especiales, entrega material del predio, o si es una sentencia de cumplimiento).\\n\\n2) CÓMO CONSTRUIR LA RESPUESTA:\\n   - Sintetiza en UNA SOLA FRASE corta y clara lo más relevante del caso.\\n   - Ejemplo: \\\"Se ordena la restitución jurídica y material con medidas de reparación integral y compensación al opositor de buena fe\\\".\\n   - Ejemplo: \\\"Sentencia que declara la nulidad de contratos por despojo y ordena la formalización del predio a favor del solicitante\\\".\\n\\n3) Si NO hay ninguna observación relevante más allá de lo estándar:\\n   - responde exactamente sin agregar nada mas",
+    "respuesta": "Se declara el derecho a la restitución de tierras y se ordena la entrega material del predio a favor de la solicitante.",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.686,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 117,
+        "content_preview": "\n51. Dado que los medios de prueba analizados sustentan la condición de víctima de la solicitante y se mantiene indemne la presunción de veracidad que ampara su dicho, el juzgado concluye que en el pr..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.669,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 105,
+        "content_preview": "\n44. Los hechos que se reconstruyen a partir del breve relato de la solicitante y su hijo, aunado a los medios suasorios que obran en el expediente, a juicio de\n\n<--- Page Split --->\n\neste despacho, g..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.649,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 96,
+        "content_preview": "\n39. La declaración, transcrita en lo pertinente, ofrece riqueza descriptiva y permite al despacho comprender, con mayor precisión, la manera en que se produjo el desplazamiento forzado expuesto en la..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.632,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 17,
+        "content_preview": "\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.621,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 25,
+        "content_preview": "\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n11. La agente del Ministerio Público conceptúa que el juzgado debe acceder a la restitución solicitada. Esto, por cuanto acredita los presupues..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n51. Dado que los medios de prueba analizados sustentan la condición de víctima de la solicitante y se mantiene indemne la presunción de veracidad que ampara su dicho, el juzgado concluye que en el presente asunto concurren los presupuestos establecidos en el art. 3° de la L. 1448/2011 para tenerla como víctima del conflicto armado interno.\n\n## La SOLICITANTE Fue POSEEDORA Del PREDIO Que PIDE En RESTITUCIÓN\n\n\n[Documento Relevante 2]\n\n44. Los hechos que se reconstruyen a partir del breve relato de la solicitante y su hijo, aunado a los medios suasorios que obran en el expediente, a juicio de\n\n<--- Page Split --->\n\neste despacho, guardan relación con la prueba de contexto. En sustento de esta afirmación, el juzgado se apoya principalmente en el Documento de Análisis de Contexto n.° RT 02770 del municipio de Acacías (DAC) (consec. n.° 2, pp. 250-302). Sin perjuicio de la importancia del documento en conjunto, el juzgado destaca los hechos relevantes para la época en que ocurrió el desplazamiento aludido por los solicitantes.\n\n[Documento Relevante 3]\n\n39. La declaración, transcrita en lo pertinente, ofrece riqueza descriptiva y permite al despacho comprender, con mayor precisión, la manera en que se produjo el desplazamiento forzado expuesto en la solicitud de restitución. Estos mismos acontecimientos fueron objeto de declaración por el testigo en la etapa judicial de este proceso de restitución. En audiencia del 23 de marzo de 2022 el señor Apolinar Silva, manifestó (consec. n.° 111):\n\n\n[Documento Relevante 4]\n\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación (por equivalencia o en dinero) y disponer la transferencia de los predios al Fondo de la UAEGRTD.\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n\n[Documento Relevante 5]\n\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n11. La agente del Ministerio Público conceptúa que el juzgado debe acceder a la restitución solicitada. Esto, por cuanto acredita los presupuestos que exige la L. 1448/2011 para ser titular de este derecho fundamental, como se desprende de los medios de prueba recaudados y de la información de contexto. Sin embargo, por las determinantes ambientales del fundo, concluye la procuradora que la restitución debe ser por compensación en dinero o con un predio equivalente.\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_sentencia_fechasentencia": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae la fecha de la SENTENCIA del documento judicial. es la fecha en la que se expide  la sentencia y esta en el inicio del documento \\nConvierte la fecha detectada al formato estandarizado AAAA-MM-DD (ejemplo: 2023-05-15).\\nResponso solo con la fecha en ese formato.",
+    "respuesta": "2025-03-13",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.57,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 23,
+        "content_preview": "\n9. Por lo anterior, una vez agotada la instrucción, este despacho corrió traslado mediante auto ASR-25-006, del 12 de febrero de 2025, para que la solicitante y la Procuraduría General de la Nación p..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.524,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 172,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.458,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 62,
+        "content_preview": "\nQueda claro, entonces, que la versión de la parte sí tiene relevancia en el proceso civil no solo en lo que la perjudique, sino también en cuanto le favorezca o en tanto le\n\n\\( ^{21} \\) CSJ Civil, 14..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.44,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 18,
+        "content_preview": "\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n6. ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.437,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 143,
+        "content_preview": "\n30 El art. 41 de la L. 153/1887 señala que \"La prescripción iniciada bajo el imperio de una ley, y que no se hubiere completado aún al tiempo de promulgarse otra que la modifique, podrá ser regida po..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n9. Por lo anterior, una vez agotada la instrucción, este despacho corrió traslado mediante auto ASR-25-006, del 12 de febrero de 2025, para que la solicitante y la Procuraduría General de la Nación presentaran sus alegatos y concepto final (consec. n.° 91). El expediente ingresó el 24 de febrero del presente año para fallo (consec. n.° 163).\n\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n\n[Documento Relevante 2]\n\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la presente sentencia, emita Acta de Incorporación de Sentencias de Restitución de Tierras de la misma, para los fines establecidos en los arts. 145, 147 y 148 de la L. 1448/2011.\n\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n\n\n[Documento Relevante 3]\n\nQueda claro, entonces, que la versión de la parte sí tiene relevancia en el proceso civil no solo en lo que la perjudique, sino también en cuanto le favorezca o en tanto le\n\n\\( ^{21} \\) CSJ Civil, 14 de julio de 1975, seis de mayo de 1977, 30 de septiembre de 1977, 30 de julio de 1980 y 27 de marzo de 1981.\n\n\\( ^{22} \\) CSJ Civil, 15 Mar. 2021, e2-2013-00027-01 (SC795-2021). F. Ternera.\n\n\n[Documento Relevante 4]\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n6. 1. Vincular a Pablo Emilio Apolinar Camelo (q.e.p.d.), a la Agencia Nacional de Tierras, a la Agencia Nacional de Hidrocarburos, a Cormacarena, a Montecz S.A., a la Alcaldía de Acacías (Meta).\n\n\n[Documento Relevante 5]\n\n30 El art. 41 de la L. 153/1887 señala que \"La prescripción iniciada bajo el imperio de una ley, y que no se hubiere completado aún al tiempo de promulgarse otra que la modifique, podrá ser regida por la primera o la segunda, a voluntad del prescribiente; pero eligiéndose la última, la prescripción no empezará a contarse sino desde la fecha en que la ley nueva hubiere empezado a regir\".\n\n<--- Page Split --->\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_sentencia_numerosentencia": {
+    "pregunta": "Del siguiente texto, identifica el NÚMERO DE SENTENCIA.\\n\\nInstrucciones:\\n- El NÚMERO DE SENTENCIA es el identificador numérico o alfanumérico de la sentencia.\\n- Busca campos como \\\"Sentencia No.\\\", \\\"Sentencia Número\\\", \\\"Sentencia:\\\", \\\"No. de Sentencia\\\" o expresiones similares.\\n- Extrae ÚNICAMENTE el número o código que aparece asociado a ese campo.\\n- NO confundas con otros números como \\\"Radicado\\\", \\\"Radicación\\\", \\\"Expediente\\\", \\\"Acta\\\", etc.\\n- Si no encuentras ningún campo que identifique claramente el número de sentencia, responde: DESCONOCIDO\\n\\nResponde ÚNICAMENTE con el número de sentencia o \\\"DESCONOCIDO\\\".\\n\\nEntrega solo la respuesta plana.",
+    "respuesta": "DESCONOCIDO",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.612,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 8,
+        "content_preview": "\n<fcel>CUADRO DE IDENTIFICACIÓN DEL NÚCLEO FAMILIAR DURANTE EL MOMENTO DEL ABANDONO/O DESPOJO<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Primer Apellido<fcel>Segundo Apellido<fcel>Primer..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.512,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 14,
+        "content_preview": "\nColindancias\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ec..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.468,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el ..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.452,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 56,
+        "content_preview": "\n\\( ^{17} \\) Martínez, Rodrigo y Fernández, Andrés, op. cit., p. 49.\n\n18 \"Comprende la condición más básica de adquisición de capacidades de lectura y escritura. Así, se considera analfabeta absoluta ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.436,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 178,
+        "content_preview": "\nJuez\n\nLABM\n\nJUZGADO PRIMERO CIVIL DEL CIRCUITO DE VILLAVICENCIO (META)\n\nLa anterior providencia se notifica por Estado el: 14/03/2025\n\nYADY KARIME PARRA CASTILLO\n\nSecretaria\n\n<--- Page Split --->\n\n# ..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<fcel>CUADRO DE IDENTIFICACIÓN DEL NÚCLEO FAMILIAR DURANTE EL MOMENTO DEL ABANDONO/O DESPOJO<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Primer Apellido<fcel>Segundo Apellido<fcel>Primer Nombre<fcel>Segundo Nombre<fcel>Tipo de Documento<fcel>No de Identificación<fcel>Parentesco con el Solicitante<fcel>Fecha de Nacimento (ddmm aa)<fcel>ESTADO (vivo, fallecido o desapare cido)<nl><fcel>APOLI NAR<fcel>SILVA<fcel>GLO RIA<fcel>INES<fcel>Cédula de ciudadaniá<fcel>20.780.907<fcel>Titular<fcel>28/11/1955<fcel>Vivo<nl><fcel>APOLI NAR<fcel>SILVA<fcel>BENITO<ecel><fcel>Cédula de ciudadaniá<fcel>17.423.461<fcel>Hijo/a<fcel>24/12/1980<fcel>Vivo<nl><fcel>BARB OSA<fcel>QUEVEDO<fcel>FRA NCY<fcel>VIVIA NA<fcel>Cédula de ciudadaniá<fcel>1.121.817.571<fcel>Nuera<fcel>30/07/1985<fcel>Vivo<nl>\n\n[Documento Relevante 2]\n\nColindancias\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ecel><ecel><ecel><nl><ecel><fcel>55,37<fcel>QUEBRADA EL ENGAÑO<fcel>CUERPO DE AGUA<nl><fcel>290843_5<ecel><ecel><ecel><nl><ecel><fcel>489,3<fcel>JORGE GUALTEROS<fcel>NATURAL<nl><fcel>\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el presente asunto, dado que no se presentaron opositores y por la ubicación del predio que se pide en restitución, este juzgado es competente para proferir sentencia y no se evidencia causal de nulidad que pueda invalidar lo actuado.\n\n## PROBLEMAS JURÍDICOS\n\n13. Corresponde al Juzgado determinar si:\n\n\n[Documento Relevante 4]\n\n\\( ^{17} \\) Martínez, Rodrigo y Fernández, Andrés, op. cit., p. 49.\n\n18 \"Comprende la condición más básica de adquisición de capacidades de lectura y escritura. Así, se considera analfabeta absoluta a toda persona que responde no saber leer ni escribir en los censos y encuestas sociales generales o especializadas\". CEPAL, op. cit., p. 54.\n\n\\( ^{19} \\) CConst. T-623/2017. D. Fajardo.\n\n\\( ^{20} \\) CConst. T-380/2017. C. Bernal.\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\nJuez\n\nLABM\n\nJUZGADO PRIMERO CIVIL DEL CIRCUITO DE VILLAVICENCIO (META)\n\nLa anterior providencia se notifica por Estado el: 14/03/2025\n\nYADY KARIME PARRA CASTILLO\n\nSecretaria\n\n<--- Page Split --->\n\n# Firmado Electrónicamente Por El (la) Doctor(a):\n\n## LUIS ALEJANDRO BARRETO MORENO - Juez\n\nEste documento fue generado con firma electrónica y cuenta con plena validez jurídica, conforme a lo dispuesto en artículo 103 del Código General del Proceso y el artículo 7 de la ley 527 de 1999\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_sentenciaradicado_radicado": {
+    "pregunta": "Tu tarea es encontrar un número de radicado en el texto.\\n\\nDefinición:\\n- El radicado es una secuencia que contiene dígitos (0–9) y opcionalmente espacios entre grupos de dígitos.\\n- Si quitas solo los espacios y dejas todos los dígitos en el mismo orden, el total debe ser EXACTAMENTE 23 dígitos.\\n\\nRegla principal:\\n1) Si en el texto hay una línea con la palabra 'Radicado' (por ejemplo: 'Radicado : 23001 31 21 002 2013 0006 00'):\\n   - Toma la parte de la línea que está DESPUÉS de la palabra 'Radicado'.\\n   - Conserva TODOS los caracteres numéricos y espacios tal como aparecen, sin borrar ni reordenar grupos.\\n   - Esa parte es tu candidata de radicado.\\n2) No borres ni cambies dígitos. No elimines grupos. Solo puedes considerar que hay espacios entre grupos, nada más.\\n3) Internamente, solo para verificar, puedes contar los dígitos de esa candidata ignorando los espacios. Si son exactamente 23, entonces es un radicado válido.\\n\\nSalida (muy importante):\\n- Devuelve ÚNICAMENTE la secuencia tal como aparece en el texto después de 'Radicado', eliminando cualquier caracter que no sean numeros \\n- No expliques nada.\\n- No agregues texto adicional ni comentarios.\\n- Si no encuentras ningún radicado válido, responde exactamente: NONE.",
+    "respuesta": "50001312100120190051600",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.443,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 8,
+        "content_preview": "\n<fcel>CUADRO DE IDENTIFICACIÓN DEL NÚCLEO FAMILIAR DURANTE EL MOMENTO DEL ABANDONO/O DESPOJO<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Primer Apellido<fcel>Segundo Apellido<fcel>Primer..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.44,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 14,
+        "content_preview": "\nColindancias\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ec..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.399,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 163,
+        "content_preview": "\n<--- Page Split --->\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.388,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el ..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.387,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 13,
+        "content_preview": "\nRedacción Técnica de linderos\n\n<fcel>NORTE:<fcel>Partiendo desde el punto 290843 con coordenadas planas (2014726,29 N; 4912997,38 E), en sentido oriente pasando por los puntos 290843_1, 290843_2 y 29..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n<fcel>CUADRO DE IDENTIFICACIÓN DEL NÚCLEO FAMILIAR DURANTE EL MOMENTO DEL ABANDONO/O DESPOJO<lcel><lcel><lcel><lcel><lcel><lcel><lcel><lcel><nl><fcel>Primer Apellido<fcel>Segundo Apellido<fcel>Primer Nombre<fcel>Segundo Nombre<fcel>Tipo de Documento<fcel>No de Identificación<fcel>Parentesco con el Solicitante<fcel>Fecha de Nacimento (ddmm aa)<fcel>ESTADO (vivo, fallecido o desapare cido)<nl><fcel>APOLI NAR<fcel>SILVA<fcel>GLO RIA<fcel>INES<fcel>Cédula de ciudadaniá<fcel>20.780.907<fcel>Titular<fcel>28/11/1955<fcel>Vivo<nl><fcel>APOLI NAR<fcel>SILVA<fcel>BENITO<ecel><fcel>Cédula de ciudadaniá<fcel>17.423.461<fcel>Hijo/a<fcel>24/12/1980<fcel>Vivo<nl><fcel>BARB OSA<fcel>QUEVEDO<fcel>FRA NCY<fcel>VIVIA NA<fcel>Cédula de ciudadaniá<fcel>1.121.817.571<fcel>Nuera<fcel>30/07/1985<fcel>Vivo<nl>\n\n[Documento Relevante 2]\n\nColindancias\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ecel><ecel><ecel><nl><ecel><fcel>55,37<fcel>QUEBRADA EL ENGAÑO<fcel>CUERPO DE AGUA<nl><fcel>290843_5<ecel><ecel><ecel><nl><ecel><fcel>489,3<fcel>JORGE GUALTEROS<fcel>NATURAL<nl><fcel>\n\n<--- Page Split --->\n\n\n[Documento Relevante 3]\n\n<--- Page Split --->\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ecel><ecel><ecel><nl><ecel><fcel>55,37<fcel>QUEBRADA EL ENGAÑO<fcel>CUERPO DE AGUA<nl><fcel>290843_5<ecel><ecel><ecel><nl><ecel><fcel>489,3<fcel>JORGE GUALTEROS<fcel>NATURAL<nl><fcel>205541<ecel><ecel><ecel><nl><ecel><fcel>367,74<fcel>LOMA DE MACHO MUERTO<fcel>NATURAL<nl><fcel>290843<ecel><ecel><ecel><nl>\n\n[Documento Relevante 4]\n\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el presente asunto, dado que no se presentaron opositores y por la ubicación del predio que se pide en restitución, este juzgado es competente para proferir sentencia y no se evidencia causal de nulidad que pueda invalidar lo actuado.\n\n## PROBLEMAS JURÍDICOS\n\n13. Corresponde al Juzgado determinar si:\n\n\n[Documento Relevante 5]\n\nRedacción Técnica de linderos\n\n<fcel>NORTE:<fcel>Partiendo desde el punto 290843 con coordenadas planas (2014726,29 N; 4912997,38 E), en sentido oriente pasando por los puntos 290843_1, 290843_2 y 290843_3, hasta llegar al punto 290843_4 con coordenadas planas (2014889,83 N; 4913329,29 E), con predio de Alberto Zarate, en una distancia de 380,41 metros.<nl><fcel>ORIENTE:<fcel>Partiendo desde el punto 290843_4 con coordenadas planas (2014889,83 N; 4913329,29 E), en linea quebrada, en sentido sur, hasta llegar al punto 290843_5 con coordenadas planas (2014844,58 N; 4913361,19 E), con la quebrada El Engaño, en una distancia de 55,37 metros.<nl><fcel>SUR<fcel>Partiendo desde el punto 290843_5 con coordenadas planas (2014844,58 N; 4913361,19 E), en linea quebrada, en sentido occidente pasando por los puntos 290843_6, 290843_7, 290843_8, 290843_9, 290843_10, 290843_11 hasta el punto 205541 con coordenadas planas (2014474,17 N; 4913230,20 E), con predio de Jorge Gualteros, en una distancia de 489,3 metros.<nl><fcel>OCCIDENTE<fcel>Partiendo desde el punto 205541 con coordenadas planas (2014474,17 N; 4913230,20 E), en linea quebrada, en sentido norte, pasando por los puntos 205541_1, hasta llegar al punto 290843 con coordenadas planas 290843 con coordenadas planas (2014726,29 N; 4912997,38 E) con predio Loma de Macho Muerto, en una distancia de 367,74 metros.<nl>\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_sentencia_sentido_decision": {
+    "pregunta": "### INSTRUCCIÓN:\\nIdentifica el sentido de la decisión judicial en el documento.\\nResponde únicamente con una de las opciones permitidas.\\nSi no se encuentra una decisión clara, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[COMPENSA, DESISTIMIENTO, GRADO DE CONSULTA, NO RESTITUYE, RESTITUYE, REVOCA]\\n\\n### REGLA DE ORO:\\nNo inventes. No expliques. No saludes. Responde solo con la palabra exacta de la lista en MAYÚSCULAS o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "RESTITUYE",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.654,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.649,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 152,
+        "content_preview": "\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.648,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 132,
+        "content_preview": "\n<--- Page Split --->\n\n## CONCLUSIONES Del DESPACHO Y SENTIDO De La DECISIÓN\n\n63. La valoración conjunta de los medios de prueba que obran en el expediente digital permiten al Juzgado concluir que:\n\n#..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.631,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 24,
+        "content_preview": "\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titul..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.619,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 138,
+        "content_preview": "\n29 \"En caso del derecho de posesión, su restablecimiento podrá acompañarse con la declaración de pertenencia, en los términos señalados en la ley\".\n\n<--- Page Split --->\n\n66. 5. Lo propio cabría pred..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el presente asunto, dado que no se presentaron opositores y por la ubicación del predio que se pide en restitución, este juzgado es competente para proferir sentencia y no se evidencia causal de nulidad que pueda invalidar lo actuado.\n\n## PROBLEMAS JURÍDICOS\n\n13. Corresponde al Juzgado determinar si:\n\n\n[Documento Relevante 2]\n\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la Constitución,\n\n## RESUELVE\n\n\n[Documento Relevante 3]\n\n<--- Page Split --->\n\n## CONCLUSIONES Del DESPACHO Y SENTIDO De La DECISIÓN\n\n63. La valoración conjunta de los medios de prueba que obran en el expediente digital permiten al Juzgado concluir que:\n\n## La Solicitante Cumple Los Requisitos Para Obtener La Formalización De La Propiedad Mediante Usucapión\n\n\n[Documento Relevante 4]\n\n## ALEGATOS De CONCLUSIÓN De Los SOLICITANTES \\( ^{4} \\)\n\n10. En el presente asunto se demostró que concurren los presupuestos establecidos en el art. 75 de la L. 1448/2011 para ser considerada titular del derecho fundamental a la restitución por compensación, por tanto, el juzgado debe conceder la protección solicitada, así como las medidas con carácter transformador a que haya lugar.\n\n## CONCEPTO De La PROCURADORA 36 JUDICIAL I \\( ^{5} \\)\n\n\n[Documento Relevante 5]\n\n29 \"En caso del derecho de posesión, su restablecimiento podrá acompañarse con la declaración de pertenencia, en los términos señalados en la ley\".\n\n<--- Page Split --->\n\n66. 5. Lo propio cabría predicar de la prescripción veintenaria, de no optar la prescribiente por la mencionada en el párrafo anterior \\( ^{30} \\) , pues el término prescriptivo extraordinario exigido se cumplió en el año 2011.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "providencia_unIdad_area": {
+    "pregunta": "### INSTRUCCIÓN:\\nExtrae el tipo de unidad de medida de la PRIMERA área mencionada en el documento judicial.\\nResponde únicamente con una de las opciones de la lista.\\nSi el dato no existe, responde: null\\n\\n### OPCIONES PERMITIDAS:\\n[Fanegadas, Hectáreas, Metros Cuadrados, Plazas, Cuadras, Metros Cúbicos, Otra]\\n\\n### REGLA DE ORO:\\nNo expliques. No saludes. No agregues puntuación. Solo la palabra exacta o \"null\".\\n\\n### RESPUESTA:",
+    "respuesta": "null",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.577,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 152,
+        "content_preview": "\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la ..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.554,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 26,
+        "content_preview": "\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el ..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.553,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 132,
+        "content_preview": "\n<--- Page Split --->\n\n## CONCLUSIONES Del DESPACHO Y SENTIDO De La DECISIÓN\n\n63. La valoración conjunta de los medios de prueba que obran en el expediente digital permiten al Juzgado concluir que:\n\n#..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.538,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 14,
+        "content_preview": "\nColindancias\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ec..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.533,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la Constitución,\n\n## RESUELVE\n\n\n[Documento Relevante 2]\n\n\\( ^{4} \\) Consec. n.° 162.\n\n\\( ^{5} \\) Consec. n.° 161.\n\n<--- Page Split --->\n\n## CONSIDERACIONES\n\n## ANÁLISIS De LEGALIDAD Del TRÁMITE De INSTANCIA\n\n12. Los presupuestos procesales concurren en el presente asunto, dado que no se presentaron opositores y por la ubicación del predio que se pide en restitución, este juzgado es competente para proferir sentencia y no se evidencia causal de nulidad que pueda invalidar lo actuado.\n\n## PROBLEMAS JURÍDICOS\n\n13. Corresponde al Juzgado determinar si:\n\n\n[Documento Relevante 3]\n\n<--- Page Split --->\n\n## CONCLUSIONES Del DESPACHO Y SENTIDO De La DECISIÓN\n\n63. La valoración conjunta de los medios de prueba que obran en el expediente digital permiten al Juzgado concluir que:\n\n## La Solicitante Cumple Los Requisitos Para Obtener La Formalización De La Propiedad Mediante Usucapión\n\n\n[Documento Relevante 4]\n\nColindancias\n\n<fcel>Vértice<fcel>Distancia en Metros<fcel>Colindante<fcel>Tipo de lindero<nl><fcel>290843<ecel><ecel><ecel><nl><ecel><fcel>380,41<fcel>ALBERTO ZARATE<fcel>NATURAL<nl><fcel>290843_4<ecel><ecel><ecel><nl><ecel><fcel>55,37<fcel>QUEBRADA EL ENGAÑO<fcel>CUERPO DE AGUA<nl><fcel>290843_5<ecel><ecel><ecel><nl><ecel><fcel>489,3<fcel>JORGE GUALTEROS<fcel>NATURAL<nl><fcel>\n\n<--- Page Split --->\n\n\n[Documento Relevante 5]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  },
+  "sentencia_personas": {
+    "pregunta": "INSTRUCCIONES CRÍTICAS DE FORMATO:\\n- Responde ÚNICAMENTE con un array JSON válido\\n- NO uses bloques de código markdown (sin ⁠ json ni  ⁠)\\n- NO agregues texto antes ni después del JSON\\n- La respuesta debe empezar con [ y terminar con ]\\n- Usa EXACTAMENTE estos nombres de campos: primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, numero_documento, rol\\n- NO uses variaciones como primerNombre, primerApellido, numDocumento\\n\\nTAREA:\\nEres un asistente especializado en extracción de personas naturales de sentencias judiciales de restitución de tierras (Ley 1448 de 2011).\\n\\nExtrae TODAS las personas naturales mencionadas explícitamente en el texto. Incluye: solicitantes, reclamantes, titulares, beneficiarios, opositores, cónyuges, compañeros permanentes, hijos, padres, familiares, herederos, testigos, apoderados, jueces, magistrados, terceros, ocupantes, víctimas, causantes y representantes.\\n\\nREGLAS ESTRICTAS - PROHIBIDO ALUCINAR:\\n1. titular: SOLO la persona que actúa como representante principal. Generalmente es UNA sola persona. familiar: todos los demás beneficiarios del núcleo. SOLO extrae personas que aparezcan TEXTUALMENTE en el fragmento.\\n2. Si no estás 100% seguro que una persona aparece en el texto, NO la incluyas.\\n3. NO inventes nombres, apellidos ni intermedios.\\n4. Si un dato no aparece, usa null (sin comillas, en minúsculas).\\n5. Si una persona aparece varias veces, inclúyela UNA SOLA VEZ con el nombre más completo.\\n6. Si no encuentras personas en este fragmento, responde exactamente: []\\n\\nROLES PERMITIDOS (SOLO ESTOS 4 VALORES):\\n- \\\"titular\\\": solicitante principal o representante del proceso\\n- \\\"conyuge\\\": esposo/a o compañero/a permanente del titular\\n- \\\"familiar\\\": hijos, padres, hermanos, sobrinos, otros beneficiarios del núcleo\\n- null: si no encaja en los anteriores\\n\\nFORMATO EXACTO DE SALIDA:\\n[ { \\\"primer_nombre\\\": \\\"Andres\\\", \\\"segundo_nombre\\\": \\\"del Socorro\\\", \\\"primer_apellido\\\": \\\"Urbano\\\", \\\"segundo_apellido\\\": \\\"Perez\\\", \\\"numero_documento\\\": null, \\\"rol\\\": \\\"titular\\\" } ]\\n\\nRecuerda: empieza con [ y termina con ]. Sin markdown. Sin explicaciones.",
+    "respuesta": "[{\"primer_nombre\": \"Gloria\", \"segundo_nombre\": \"Inés\", \"primer_apellido\": \"Apolinar\", \"segundo_apellido\": \"Silva\", \"numero_documento\": \"20.780.907\", \"rol\": \"titular\"}, {\"primer_nombre\": \"Benito\", \"segundo_nombre\": \"Apolinar\", \"primer_apellido\": \"Silva\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Fancy\", \"segundo_nombre\": \"Viviana\", \"primer_apellido\": \"Barbosa\", \"segundo_apellido\": \"Quevedo\", \"numero_documento\": \"1.121.817.571\", \"rol\": \"conyuge\"}, {\"primer_nombre\": \"Pablo Emilio\", \"segundo_nombre\": null, \"primer_apellido\": \"Apolinar\", \"segundo_apellido\": \"Camelo\", \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"LUZ\", \"segundo_nombre\": \"MARINA\", \"primer_apellido\": null, \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Apolinar\", \"segundo_nombre\": null, \"primer_apellido\": \"Camelo\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"Gloria Inés\", \"segundo_nombre\": \"Apolinar\", \"primer_apellido\": \"Silva\", \"segundo_apellido\": null, \"numero_documento\": \"20.780.907\", \"rol\": \"titular\"}, {\"primer_nombre\": \"YENCY NARDELLY\", \"segundo_nombre\": \"BENJUMEA\", \"primer_apellido\": \"RODRÍGUEZ\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": null}, {\"primer_nombre\": \"Pablo Emilio\", \"segundo_nombre\": \"Apolinar\", \"primer_apellido\": \"Camelo\", \"segundo_apellido\": null, \"numero_documento\": null, \"rol\": \"familiar\"}, {\"primer_nombre\": \"JESÚS\", \"segundo_nombre\": \"LEANDRO\", \"primer_apellido\": \"TARAZONA\", \"segundo_apellido\": \"MONCADA\", \"numero_documento\": null, \"rol\": null}]",
+    "sources": [],
+    "context_used": ""
+  },
+  "predio_sentencia": {
+    "pregunta": "Busca en el documento, especialmente en la tabla de identificación del predio (columnas como \"Cédula Catastral\", \"Folio\", \"Área Georreferenciada\"): matrícula inmobiliaria, cédula catastral, área en hectáreas, vereda, corregimiento y municipio del predio principal. Eres un asistente especializado en análisis de sentencias judiciales de la Unidad de Restitución de Tierras (Ley 1448 de 2011). Tu tarea es leer el texto completo de la sentencia y extraer TODOS los predios mencionados para genera un array de json con la informacion de los predios, clasificándolos en: - Predio(s) principal(es): Aquel o aquellos sobre los que recae la orden de restitución en la parte resolutiva (RESUELVE, FALLO, DECIDE). - Predios de referencia: Predios históricos, colindantes, relacionados o mencionados en antecedentes, pero NO objeto directo de restitución. --- REGLAS ESTRICTAS DE EXTRACCIÓN: 1. Extrae únicamente información explícita en el texto. No infieras ni supongas datos. 2. Si un dato no aparece en el texto, devuélvelo como null. 3. Nombre del predio: Si no tiene nombre propio, usa el folio, matrícula o ubicación como identificador en el campo \"nombre_direccion_predio\". 4. Matrícula inmobiliaria / Folio de matrícula: Consolida ambos en \"matricula\". 5. Círculo registral: son los 3 primeros dígitos de la MATRÍCULA INMOBILIARIA/FOLIO (campo \"matricula\"), NUNCA del número predial ni de otro número. Ejemplo: si matricula es \"232-7079\", circulo es \"232\". Ponlo en el campo \"circulo\". 6. Número predial / Cédula catastral (numero_predial): Cadena de 20 a 30 dígitos. Cópiala completa y sin separadores, buscándola bajo cualquier rótulo (cédula catastral, chip, NUPRE, código catastral, etc.). Valida que el conteo de dígitos sea coherente con ese rango; si no lo es, busca de nuevo. 7. Dirección del predio: Extrae tal como aparece. 8. Ubicación geográfica: departamento, municipio, vereda, corregimiento, barrio, inspeccion. 9. Área del predio: busca el valor tal como aparece (columna \"Área Georreferenciada\" u otra), puede ser una sola unidad (\"50.000 m²\", \"10 hectáreas\") o una combinación (\"7 hectáreas + 8.329 m²\"). Conviértela SIEMPRE a número puro, sin unidades: area_terreno_hec = hectáreas + (metros_cuadrados/10.000); area_terreno_fuente = area_terreno_hec × 10.000. Ejemplo: \"7 hectáreas + 8.329 m²\" -> area_terreno_hec: 7.8329, area_terreno_fuente: 78329. Si no hay área en el texto, ambos campos null. 10. id_unidad_terreno_fuente: SIEMPRE responde exactamente 3304 (constante fija, no calcules ni tomes ningún número del documento para este campo). 11. Clasificacion_rural_urbano: Nunca null, reponde true si es un predio rural, de lo contrario false. Prioridad: explícito > contexto > inferencia mínima obligatoria. 12. No calcules totales ni agregues campos nuevos. 13. No repitas predios idénticos. 14. Incluye TODOS los predios de TODA la sentencia, no solo la parte resolutiva. --- REGLA CRÍTICA DE SALIDA: Responde EXCLUSIVAMENTE con JSON válido. NO incluyas explicaciones, texto adicional, encabezados ni comentarios. NO uses bloques de código (```). NO agregues texto antes ni después del JSON. La respuesta debe comenzar con [ y terminar con ]. Si no encuentras predios, responde exactamente: []. --- FORMATO DE SALIDA: [ { \"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"El Edén\", \"predio_rural\": \"true\", \"matricula\": \"123-456789\", \"circulo\": \"420\", \"numero_predial\": \"25001000200020001234\", \"departamento\": \"Córdoba\", \"municipio\": \"Montería\", \"vereda\": \"La Esperanza\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": \"10\",\"area_terreno_hec\": \"10\", \"id_unidad_terreno_fuente\": 3304, \"nota\": null } ] ",
+    "respuesta": "[{\"tipo_predio\": \"principal\", \"nombre_direccion_predio\": \"La Esperanza\", \"predio_rural\": true, \"matricula\": \"232-7079\", \"circulo\": \"232\", \"numero_predial\": \"50-006-00-01-0019-0006-000\", \"departamento\": \"Meta\", \"municipio\": \"Acacías\", \"vereda\": \"Manzanares\", \"corregimiento\": null, \"barrio\": null, \"inspeccion\": null, \"area_terreno_fuente\": 78329, \"area_terreno_hec\": 7.8329, \"id_unidad_terreno_fuente\": 3304, \"nota\": null, \"folio\": \"7079\"}]",
+    "sources": [
+      {
+        "rank": 1,
+        "similarity": 0.633,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 158,
+        "content_preview": "\n4. 3. Inscripción de la declaración de pertenencia en favor de la ciudadana Gloria Inés Apolinar Silva CC n.º 20.780.907.\n\n4. 5. Actualización de la información de área, cabida y linderos, conforme a..."
+      },
+      {
+        "rank": 2,
+        "similarity": 0.61,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 7,
+        "content_preview": "\n3. 4. En cumplimiento del requisito de procedibilidad que exige la L. 1448/2011, con base en estos hechos fue inscrita en el Registro de Tierras Despojadas y Abandonadas como poseedora del predio sol..."
+      },
+      {
+        "rank": 3,
+        "similarity": 0.604,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 156,
+        "content_preview": "\nCUARTO: ORDENAR a la OFICINA DE REGISTRO DE INSTRUMENTOS PÚBLICOS DE ACACÍAS (META) que, dentro de los quince (15) días siguientes a la notificación de esta sentencia, remita a este despacho y al\n\n\\(..."
+      },
+      {
+        "rank": 4,
+        "similarity": 0.592,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 119,
+        "content_preview": "\n53. La resolución de adjudicación fue inscrita ante la Oficina de Registro de Instrumentos Públicos de Acacías (Meta) dando origen al folio de matrícula n.°\n\n<--- Page Split --->\n\n232-7079, de modo q..."
+      },
+      {
+        "rank": 5,
+        "similarity": 0.586,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 172,
+        "content_preview": "\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la..."
+      },
+      {
+        "rank": 6,
+        "similarity": 0.575,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 152,
+        "content_preview": "\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la ..."
+      },
+      {
+        "rank": 7,
+        "similarity": 0.568,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 157,
+        "content_preview": "\nInstituto Geográfico Agustín Codazzi o al Gestor Catastral competente el folio de matrícula inmobiliaria n.º 232-7079, con las siguientes novedades:\n\n4. 1. Inscripción de la presente decisión.\n\n4. 2...."
+      },
+      {
+        "rank": 8,
+        "similarity": 0.559,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 105,
+        "content_preview": "\n44. Los hechos que se reconstruyen a partir del breve relato de la solicitante y su hijo, aunado a los medios suasorios que obran en el expediente, a juicio de\n\n<--- Page Split --->\n\neste despacho, g..."
+      },
+      {
+        "rank": 9,
+        "similarity": 0.557,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 102,
+        "content_preview": "\n42. El señor Benito Apolinar Silva declaró el desplazamiento que viene de describirse ante agencias del Ministerio Público en esta ciudad, tal y como se infiere del contenido de la consulta VIVANTO q..."
+      },
+      {
+        "rank": 10,
+        "similarity": 0.557,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      },
+      {
+        "rank": 11,
+        "similarity": 0.553,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 78,
+        "content_preview": "\n31. La exposición más amplia que realizó quedó consignada en el formulario de solicitud de inscripción en el Registro de Tierras Despojadas que administra la UAEGRTD:\n"
+      },
+      {
+        "rank": 12,
+        "similarity": 0.53,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 132,
+        "content_preview": "\n<--- Page Split --->\n\n## CONCLUSIONES Del DESPACHO Y SENTIDO De La DECISIÓN\n\n63. La valoración conjunta de los medios de prueba que obran en el expediente digital permiten al Juzgado concluir que:\n\n#..."
+      },
+      {
+        "rank": 13,
+        "similarity": 0.528,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 59,
+        "content_preview": "\n23. Lo propio se predica de un interrogatorio, pues si bien es la propia parte quien mejor conoce y puede describir las circunstancias de tiempo, modo y lugar en que ocurrieron los acontecimientos qu..."
+      },
+      {
+        "rank": 14,
+        "similarity": 0.524,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 173,
+        "content_preview": "\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n\n<fcel>Cifras de restitución<lcel><fcel>Cifras de compensación<lcel><lcel><fcel>Cifra..."
+      },
+      {
+        "rank": 15,
+        "similarity": 0.521,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 171,
+        "content_preview": "\nDÉCIMO: RECONOCER a la abogada YENCY NARDELLY BENJUMEA RODRÍGUEZ, en su condición de representante judicial de Pablo Emilio Apolinar Camelo (inc. 3° art. 87 L. 1448/2011), y con cargo al Fondo de la ..."
+      },
+      {
+        "rank": 16,
+        "similarity": 0.52,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 9,
+        "content_preview": "\n## IDENTIFICACIÓN Del PREDIO\n\n4. El predio rural denominado La Esperanza, ubicado en la vereda Manzanares del municipio de Acacías (Meta), de acuerdo con la solicitud y los instrumentos técnicos actu..."
+      },
+      {
+        "rank": 17,
+        "similarity": 0.519,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 18,
+        "content_preview": "\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n6. ..."
+      },
+      {
+        "rank": 18,
+        "similarity": 0.516,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 90,
+        "content_preview": "\n36. La declaración administrativa y judicial son unidireccionales y se complementa ampliamente con el testimonio de Benito Apolinar Silva, la prueba documental y de contexto que obra en el expediente..."
+      },
+      {
+        "rank": 19,
+        "similarity": 0.512,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 31,
+        "content_preview": "\n\\( ^{8} \\) CConst. C-715/12, L. Vargas, entre otras.\n\n<--- Page Split --->\n\n15. Con base en lo dispuesto en el art. 75 de la L. 1448/2011, los siguientes son los presupuestos que deben concurrir para..."
+      },
+      {
+        "rank": 20,
+        "similarity": 0.51,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 111,
+        "content_preview": "\n27 Sobre la participación de a. Julián en la estrategia de despojo impulsada por las AUC en el departamento del Meta, ver TSDJB SCE Restitución de Tierras, 4 Jun. 2015, e2-2014-00019-01. O. Ramírez.\n..."
+      },
+      {
+        "rank": 21,
+        "similarity": 0.505,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 176,
+        "content_preview": "\nDÉCIMO TERCERO: Por Secretaría, NOTIFÍQUESE PERSONALMENTE esta sentencia a las partes del presente proceso, a los intervinientes reconocidos y al agente del Ministerio Público, a través del medio más..."
+      },
+      {
+        "rank": 22,
+        "similarity": 0.503,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 104,
+        "content_preview": "\n<fcel>12706518<fcel>GLORIA INES APOLINAR SILVA<fcel>No sabe (NS)-(No recuerda el numero)<fcel>Padre o Madre<fcel>05/02/2015<fcel>No Incluido<nl>\n\n44. Los hechos que se reconstruyen a partir del breve..."
+      },
+      {
+        "rank": 23,
+        "similarity": 0.502,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 120,
+        "content_preview": "\n54. Los instrumentos técnicos que obran en el expediente digital muestran correspondencia entre el antecedente catastral y registral que ubican al citado señor Apolinar Camelo (q.e.p.d.) como titular..."
+      },
+      {
+        "rank": 24,
+        "similarity": 0.498,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 83,
+        "content_preview": "\n\\( ^{26} \\) El art. 2532 CC fue modificado por el art. 6° de la L. 791/2002.\n\n<--- Page Split --->\n\nactores armados; c) desplazamiento forzado y d) abandono forzado de tierras; no obstante, el escena..."
+      },
+      {
+        "rank": 25,
+        "similarity": 0.496,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 141,
+        "content_preview": "\n69. Lo anterior se corrobora con la información técnica que obra en el expediente digital, de manera que, por tratarse de una zona de cobertura forestal y aledaña a una fuente hídrica, según informó ..."
+      },
+      {
+        "rank": 26,
+        "similarity": 0.488,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 17,
+        "content_preview": "\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación..."
+      },
+      {
+        "rank": 27,
+        "similarity": 0.487,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 165,
+        "content_preview": "\nSEXTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI DIRECCIÓN TERRITORIAL META o al GESTOR CATASTRAL COMPETENTE que dentro de los veinte (20) días siguientes contados a partir de la ejecutoria de ..."
+      },
+      {
+        "rank": 28,
+        "similarity": 0.485,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 69,
+        "content_preview": "\n24. Estos elementos técnicos, teóricos y jurisprudenciales no son ajenos al ejercicio valorativo que debe realizar el juez de restitución de tierras ni al proceso civil transicional que regula la L. ..."
+      },
+      {
+        "rank": 29,
+        "similarity": 0.484,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 29,
+        "content_preview": "\n## El CARÁCTER FUNDAMENTAL Del DERECHO De RESTITUCIÓN De TIERRAS ABANDONADAS Y DESPOJADAS Por El CONFLICTO ARMADO Y PRESUPUESTOS PARA Su RECONOCIMIENTO En La L. 1448/2011\n\n14. La restitución de tierr..."
+      },
+      {
+        "rank": 30,
+        "similarity": 0.483,
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 169,
+        "content_preview": "\n<--- Page Split --->\n\n9. 2. Ordenar a NATALIA COLMENARES RINCÓN como Subdirectora de Valoración y Registro de la Unidad Administrativa Especial de Atención y Reparación para las Víctimas, o quien hag..."
+      },
+      {
+        "rank": "base_1",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 0,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)"
+      },
+      {
+        "rank": "base_2",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 1,
+        "content_preview": "# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RE..."
+      },
+      {
+        "rank": "base_3",
+        "similarity": "forced",
+        "doc_id": "50001312100120190051600_1792436852",
+        "chunk_index": 2,
+        "content_preview": "\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\..."
+      }
+    ],
+    "context_used": "[Documento Relevante 1]\n\n4. 3. Inscripción de la declaración de pertenencia en favor de la ciudadana Gloria Inés Apolinar Silva CC n.º 20.780.907.\n\n4. 5. Actualización de la información de área, cabida y linderos, conforme a identificación efectuada a través de los instrumentos técnicos que obran en el expediente y que, en lo pertinente, se citan a continuación:\n\n\n[Documento Relevante 2]\n\n3. 4. En cumplimiento del requisito de procedibilidad que exige la L. 1448/2011, con base en estos hechos fue inscrita en el Registro de Tierras Despojadas y Abandonadas como poseedora del predio solicitado (R. n.° RT 00823 del 29 de marzo de 2019), con el siguiente núcleo familiar:\n\n\n[Documento Relevante 3]\n\nCUARTO: ORDENAR a la OFICINA DE REGISTRO DE INSTRUMENTOS PÚBLICOS DE ACACÍAS (META) que, dentro de los quince (15) días siguientes a la notificación de esta sentencia, remita a este despacho y al\n\n\\( ^{31} \\) CSJ Civil, 9 Ago. 2023, e2023-01386-01 (STC7800-2023). A. Quiroz.\n\n<--- Page Split --->\n\nInstituto Geográfico Agustín Codazzi o al Gestor Catastral competente el folio de matrícula inmobiliaria n.º 232-7079, con las siguientes novedades:\n\n4. 1. Inscripción de la presente decisión.\n\n\n[Documento Relevante 4]\n\n53. La resolución de adjudicación fue inscrita ante la Oficina de Registro de Instrumentos Públicos de Acacías (Meta) dando origen al folio de matrícula n.°\n\n<--- Page Split --->\n\n232-7079, de modo que se trata de un inmueble rural de naturaleza privada (consec. n.° 1, archivo \"60036696\", p. 9), conclusión a la cual arribó igualmente la Agencia Nacional de Tierras en comunicación n.° 20191031027021 del seis de noviembre de 2019 (consec. n.° 24).\n\n\n[Documento Relevante 5]\n\nDÉCIMO PRIMERO: ORDENAR a la DIRECCIÓN TÉCNICA DE ARCHIVO DE LOS DERECHOS HUMANOS DEL CENTRO NACIONAL DE MEMORIA HISTÓRICA (CNMH) que dentro de los quince (15) días siguientes a la notificación de la presente sentencia, emita Acta de Incorporación de Sentencias de Restitución de Tierras de la misma, para los fines establecidos en los arts. 145, 147 y 148 de la L. 1448/2011.\n\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n\n\n[Documento Relevante 6]\n\n## DECISIÓN\n\nPor lo expuesto, el Juzgado 1° Civil del Circuito Especializado en Restitución de Tierras de Villavicencio (Meta), administrando justicia en nombre de la República y por autoridad de la Constitución,\n\n## RESUELVE\n\n\n[Documento Relevante 7]\n\nInstituto Geográfico Agustín Codazzi o al Gestor Catastral competente el folio de matrícula inmobiliaria n.º 232-7079, con las siguientes novedades:\n\n4. 1. Inscripción de la presente decisión.\n\n4. 2. Cancelación de las anotaciones tres (admisión de la solicitud) y cuatro (sustracción provisional del comercio).\n\n4. 3. Inscripción de la declaración de pertenencia en favor de la ciudadana Gloria Inés Apolinar Silva CC n.º 20.780.907.\n\n\n[Documento Relevante 8]\n\n44. Los hechos que se reconstruyen a partir del breve relato de la solicitante y su hijo, aunado a los medios suasorios que obran en el expediente, a juicio de\n\n<--- Page Split --->\n\neste despacho, guardan relación con la prueba de contexto. En sustento de esta afirmación, el juzgado se apoya principalmente en el Documento de Análisis de Contexto n.° RT 02770 del municipio de Acacías (DAC) (consec. n.° 2, pp. 250-302). Sin perjuicio de la importancia del documento en conjunto, el juzgado destaca los hechos relevantes para la época en que ocurrió el desplazamiento aludido por los solicitantes.\n\n[Documento Relevante 9]\n\n42. El señor Benito Apolinar Silva declaró el desplazamiento que viene de describirse ante agencias del Ministerio Público en esta ciudad, tal y como se infiere del contenido de la consulta VIVANTO que obra en el expediente digital, a partir de la cual, junto con su núcleo familiar obtuvo la inscripción en el Registro Único de Víctimas (consec. n.° 2, p. 137):\n\n\n[Documento Relevante 10]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n\n[Documento Relevante 11]\n\n31. La exposición más amplia que realizó quedó consignada en el formulario de solicitud de inscripción en el Registro de Tierras Despojadas que administra la UAEGRTD:\n\n\n[Documento Relevante 12]\n\n<--- Page Split --->\n\n## CONCLUSIONES Del DESPACHO Y SENTIDO De La DECISIÓN\n\n63. La valoración conjunta de los medios de prueba que obran en el expediente digital permiten al Juzgado concluir que:\n\n## La Solicitante Cumple Los Requisitos Para Obtener La Formalización De La Propiedad Mediante Usucapión\n\n\n[Documento Relevante 13]\n\n23. Lo propio se predica de un interrogatorio, pues si bien es la propia parte quien mejor conoce y puede describir las circunstancias de tiempo, modo y lugar en que ocurrieron los acontecimientos que se debaten en el proceso \\( ^{23} \\) , corresponde al funcionario judicial realizar un análisis riguroso, ponderado e integral del medio de prueba junto con otros que obren en el proceso, como adoctrina el alto Tribunal de Casación:\n\n\n[Documento Relevante 14]\n\nDÉCIMO SEGUNDO: Por Secretaría, tener en cuenta la siguiente información para el reporte trimestral en el SIERJU.\n\n<fcel>Cifras de restitución<lcel><fcel>Cifras de compensación<lcel><lcel><fcel>Cifras de formalización<lcel><nl><fcel>Cantidad en restitución (metros cuadrados)<fcel>Cantidad restitución predios<fcel>Cantidad compensación en bien inmueble (número de predios)<fcel>Cantidad compensación en bien inmueble (metros cuadrados)<fcel>Cantidad compensación en dinero<fcel>Cantidad formalización bien inmueble (metros cuadrados)<fcel>Cantidad formalización bien inmueble (número de predios)<nl><ecel><ecel><fcel>1<fcel>78.329 mts2<ecel><ecel><ecel><nl>\n\n[Documento Relevante 15]\n\nDÉCIMO: RECONOCER a la abogada YENCY NARDELLY BENJUMEA RODRÍGUEZ, en su condición de representante judicial de Pablo Emilio Apolinar Camelo (inc. 3° art. 87 L. 1448/2011), y con cargo al Fondo de la Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas y Abandonadas (UAEGRTD), los gastos de curaduría en los que efectivamente incurrió, por tanto, se le REQUIERE para que, dentro de los ocho (8) días siguientes a la notificación del presente fallo, los acredite en debida forma. Una vez soportados los gastos en mención y, en firme la presente sentencia, ingresar el expediente para su fijación. Expídase a la interesada copia de la presente sentencia, así como de la providencia de nombramiento.\n\n[Documento Relevante 16]\n\n## IDENTIFICACIÓN Del PREDIO\n\n4. El predio rural denominado La Esperanza, ubicado en la vereda Manzanares del municipio de Acacías (Meta), de acuerdo con la solicitud y los instrumentos técnicos actualizados (consec. n.° 156) \\( ^{2} \\), se individualiza e identifica, así:\n\n<fcel>Cédula Catastral<fcel>Folio<fcel>Área Georreferenciada<fcel>Ocupantes<nl><fcel>50-006-00-01-0019-0006-000<fcel>232-7079<fcel>7 hectáreas + 8.329 mt2<fcel>Sin ocupantes<nl><fcel>Coordenadas<lcel><lcel><lcel><nl>\n\n\n[Documento Relevante 17]\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n6. 1. Vincular a Pablo Emilio Apolinar Camelo (q.e.p.d.), a la Agencia Nacional de Tierras, a la Agencia Nacional de Hidrocarburos, a Cormacarena, a Montecz S.A., a la Alcaldía de Acacías (Meta).\n\n\n[Documento Relevante 18]\n\n36. La declaración administrativa y judicial son unidireccionales y se complementa ampliamente con el testimonio de Benito Apolinar Silva, la prueba documental y de contexto que obra en el expediente digital, como se verá.\n\n<--- Page Split --->\n\n\n[Documento Relevante 19]\n\n\\( ^{8} \\) CConst. C-715/12, L. Vargas, entre otras.\n\n<--- Page Split --->\n\n15. Con base en lo dispuesto en el art. 75 de la L. 1448/2011, los siguientes son los presupuestos que deben concurrir para que una persona sea titular del mismo, y, por tanto, para que alcance protección por la administración de justicia transicional, debe:\n\n\n[Documento Relevante 20]\n\n27 Sobre la participación de a. Julián en la estrategia de despojo impulsada por las AUC en el departamento del Meta, ver TSDJB SCE Restitución de Tierras, 4 Jun. 2015, e2-2014-00019-01. O. Ramírez.\n\n<--- Page Split --->\n\n\n[Documento Relevante 21]\n\nDÉCIMO TERCERO: Por Secretaría, NOTIFÍQUESE PERSONALMENTE esta sentencia a las partes del presente proceso, a los intervinientes reconocidos y al agente del Ministerio Público, a través del medio más eficaz (correo electrónico, telegrama o fax), dejando las respectivas constancias del envío de las comunicaciones. Una vez verificado el cumplimiento de las órdenes impartidas, archívense las presentes diligencias.\n\n\n[Documento Relevante 22]\n\n<fcel>12706518<fcel>GLORIA INES APOLINAR SILVA<fcel>No sabe (NS)-(No recuerda el numero)<fcel>Padre o Madre<fcel>05/02/2015<fcel>No Incluido<nl>\n\n44. Los hechos que se reconstruyen a partir del breve relato de la solicitante y su hijo, aunado a los medios suasorios que obran en el expediente, a juicio de\n\n<--- Page Split --->\n\n\n[Documento Relevante 23]\n\n54. Los instrumentos técnicos que obran en el expediente digital muestran correspondencia entre el antecedente catastral y registral que ubican al citado señor Apolinar Camelo (q.e.p.d.) como titular del derecho de dominio \\( ^{28} \\) , es decir, de la persona aludida por los solicitantes en el escrito inicial. Según declaración del señor Benito Apolinar Silva, del 23 de marzo de 2022 (consec. n.° 111), no se conocen otros causahabientes del propietario, de modo que, tras su fallecimiento, y a falta de adjudicación de herencia, la solicitante entró en posesión del fundo.\n\n[Documento Relevante 24]\n\n\\( ^{26} \\) El art. 2532 CC fue modificado por el art. 6° de la L. 791/2002.\n\n<--- Page Split --->\n\nactores armados; c) desplazamiento forzado y d) abandono forzado de tierras; no obstante, el escenario propicio para ahondar y ampliar las circunstancias de tiempo, modo y lugar en que ello ocurrió, era a través del interrogatorio de parte decretado durante la instrucción, en razón a la posición privilegiada de la solicitante en el conocimiento de los acontecimientos narrados en el escrito inicial.\n\n[Documento Relevante 25]\n\n69. Lo anterior se corrobora con la información técnica que obra en el expediente digital, de manera que, por tratarse de una zona de cobertura forestal y aledaña a una fuente hídrica, según informó la autoridad ambiental en este proceso (consec. n.° 27), los usos del suelo son restringidos y encaminados a actividades de protección ambiental, antes que de explotación, como igualmente lo confirma la Alcaldía de Acacías (Meta) (consec. n.° 91)\n\n\n[Documento Relevante 26]\n\n5. 2. Impartir las demás órdenes previstas en el art. 91 ib. y los mecanismos reparativos señalados en el art. 121 ib., entre otras.\n\n5. 3. Subsidiariamente, acceder a la restitución por compensación (por equivalencia o en dinero) y disponer la transferencia de los predios al Fondo de la UAEGRTD.\n\n## TRÁMITE JUDICIAL\n\n6. La solicitud se asignó por reparto a este juzgado (consec. n.° 2) y se admitió mediante proveído del 11 de octubre de 2019 (consec. n.° 8), en el que, además, se dispuso:\n\n\n[Documento Relevante 27]\n\nSEXTO: ORDENAR al INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI DIRECCIÓN TERRITORIAL META o al GESTOR CATASTRAL COMPETENTE que dentro de los veinte (20) días siguientes contados a partir de la ejecutoria de esta sentencia, efectué el avalúo comercial del predio rural \"La Esperanza\", ubicado en la vereda Manzanares del municipio de Acacías (Vaupés). Lo anterior a efectos de adelantar la compensación, conforme lo dispuesto en el capítulo 2.15.2.1.3 del Decreto 1071 de 2015.\n\n\n[Documento Relevante 28]\n\n24. Estos elementos técnicos, teóricos y jurisprudenciales no son ajenos al ejercicio valorativo que debe realizar el juez de restitución de tierras ni al proceso civil transicional que regula la L. 1448/2011, antes bien, se complementa con las normas y principios que lo informan, entre otros, el principio de la buena fe que se predica de las víctimas del conflicto armado interno (art. 5°); igualdad, en tanto las medidas de reparación contempladas en dicho cuerpo normativo son otorgadas sin distinción de género, etnia, condición social, entre otras condiciones particulares; enfoque diferencial, que reconoce que hay poblaciones con características particulares por razón de su edad, sexo, identidad de género, orfandad, creencias, diversidad étnica, cultural y territorial, entre otros (art. 13).\n\n[Documento Relevante 29]\n\n## El CARÁCTER FUNDAMENTAL Del DERECHO De RESTITUCIÓN De TIERRAS ABANDONADAS Y DESPOJADAS Por El CONFLICTO ARMADO Y PRESUPUESTOS PARA Su RECONOCIMIENTO En La L. 1448/2011\n\n14. La restitución de tierras es un derecho fundamental y un componente esencial del proceso de reparación integral para las víctimas del conflicto armado interno que perdieron vínculos de propiedad, posesión u ocupación sobre inmuebles que fueron abandonados forzosamente o despojados \\( ^{6} \\) , cuyo contenido y alcance tiene fundamento en sendos instrumentos internacionales que hacen parte del Bloque de Constitucionalidad \\( ^{7} \\) y en pronunciamientos de la Corte Constitucional \\( ^{8} \\) .\n\n[Documento Relevante 30]\n\n<--- Page Split --->\n\n9. 2. Ordenar a NATALIA COLMENARES RINCÓN como Subdirectora de Valoración y Registro de la Unidad Administrativa Especial de Atención y Reparación para las Víctimas, o quien haga sus veces, inscribir a la señora Gloria Inés Apolinar Silva CC n.° 20.780.907 en el Registro Único de Víctimas por los hechos de violencia que junto con su hijo padeció en la vereda Manzanares del municipio de Acacías (Meta), por desplazamiento forzado, amenazas y abandono forzado de tierras.\n\n\n[Contexto Base 1 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n\n[Contexto Base 2 - PRIORITARIO]\n# JUZGADO 1° CIVIL Del CIRCUITO ESPECIALIZADO En RESTITUCIÓN De TIERRAS De VILLAVICENCIO\n\n- Lugar y fecha: Villavicencio, trece (13) de marzo de dos mil veinticinco (2025)\n- <fcel>referencia: <fcel>RESTITUCIÓN DE TIERRAS<nl><fcel>SOLICITANTE:<fcel>Gloria Inés Apolinar Silva<nl><fcel>RADICACIÓN:<fcel>500013121001201900516 00<nl><fcel>PROVIDENCIA:<fcel>SR-25-03<nl><fcel>TEMAS:<fcel>Proceso de restitución de tierras - derecho fundamental y presupuestos para su reconocimiento; Valoración del dicho de persona analfabeta – frente a sujetos de especial protección constitucional, juez de restitución debe valorar testimonios y declaración de parte con enfoque diferencial – Prescripción extraordinaria adquisitiva de dominio – presupuestos. DECISIÓN: Declara derecho iusfundamental a la restitución.<nl>\n\n[Contexto Base 3 - PRIORITARIO]\n\n## SENTENCIA\n\n1. Se profiere sentencia en el marco de la L. 1448/2011 con ocasión de la solicitud de restitución de tierras despojadas y/o abandonadas que presentó la ciudadana Gloria Inés Apolinar \\( ^{1} \\) , respecto de un predio rural denominado La Esperanza, ubicado en la vereda Manzanares, del municipio de Acacías (Meta).\n\n## ANTECEDENTES\n\n## COMPETENCIA\n\n"
+  }
+}
